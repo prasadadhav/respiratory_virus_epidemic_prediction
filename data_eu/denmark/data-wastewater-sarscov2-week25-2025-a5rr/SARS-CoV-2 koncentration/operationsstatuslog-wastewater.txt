@@ -1,0 +1,43 @@
+# Driftslog
+
+**English version below the Danish version**
+
+Alle betydelige hændelser i driftsituationen, der har betydning for covid-19 tallene bliver dokumenteret i denne fil.
+
+Formatet i filen er: 
+## [Tidspunkt for hændelsen (fra hvornår det havde betydning for tallene)]
+"[Hændelsens betydning for tallene]", [hændelsens periode], "[hændelsens note på hjemmeside og/eller dashboardet]"
+
+## 2023-02-14T12:00:00
+"Nedskalering af den nationale overvågning af SARS-CoV-2 i spildevandet", 2023-02-06T12:00:00/,
+"Den nationale overvågning af SARS-CoV-2 i spildevandet er blevet nedskaleret fra 87 til 29 prøveudtagningssteder. Dette gælder prøver udtaget fra og med 06.02.2023. På grund af det, produceres der ikke data for landsdele."
+
+## 2022-10-10T12:00:00
+"Underestimering af bagvedliggende tal (leveret af Eurofins Miljø A/S) benyttet i beregninger", 2022-01-03T12:00:00/2022-10-10T12:00:00,
+"Koncentrationerne af SARS-CoV-2 i spildevandet er den 10.10.2022 justeret og de aktuelle og fremtidige grafer kan derfor ikke sammenlignes direkte med de tidligere publicerede. Ændringen er indført per 10.10.2022 og er implementeret bagudrettet indtil 03.01.2022. 
+Justeringen relaterer sig til en datakorrektion hos laboratoriet Eurofins Miljø A/S og vedrører fejl i bestemmelsen af antallet af SARS-CoV-2 RNA-kopier/L i spildevandet. Antallet af kopier bestemmes på baggrund af to forskellige SARS-CoV-2 gener; N2 og RdRp. 
+Det har vist sig, at antallet af RdRp kopier/L har været for lavt i perioden 03.01.2022 – 26.09.2022. SSI har således foretaget en ny beregning af koncentrationen af SARS-CoV-2 i spildevandet på baggrund af de korrigerede laboratoriemålinger af RdRp."
+
+
+**slutning af dansk version**
+
+**English version**
+
+# Operation status log
+
+This log contains all significant issues that affected the covid-19 numbers.
+
+The format in the file is as follows: 
+## [Date and time for the incident (from when it was affecting the number)]
+"[How the incident affects the numbers]", [the timeframe of the incident], "[the incident note on the homepage and/or the dashboard]"
+
+## 2023-02-14T12:00:00
+"Downscaling of the national surveillance of SARS-CoV-2 in the wastewater", 2023-02-06T12:00:00/,
+"The national surveillance of SARS-CoV-2 in the wastewater has been downscaled from 87 to 29 sampling sites. This applies to samples taken on and after 06.02.2023. In consequence of this, no data about provinces is produced."
+
+
+## 2022-10-10T12:00:00
+"Under estimation of underlying numbers (provided by Eurofins Miljø A/S) used in calculations", 2022-01-03T12:00:00/2022-09-26T12:00:00,
+"The 10.10.2022 the concentration of SARS-CoV-2 in the wastewater has been corrected and the current and future graphs can not be directly compared to previous published. The correction is applied by 10.10.2022 and is implemented backwards until 03.01.2022.
+The correction relates to data at the laboratory Eurofins Miljø A/S and concerns an error in the quantification of the numbers of SARS-CoV-2 RNA copies/L in the wastewater. The number of copies is determined based on two SARS-CoV-2 genes; N2 and RdRp.
+It has been shown, that the numbers of RdRp copies/L has been underestimated in the period of 03.01.2022 – 26.09.2022. SSI has recalculated the concentration of SARS-CoV-2 in the wastewater based on the corrected laboratory measurements of RdRp."

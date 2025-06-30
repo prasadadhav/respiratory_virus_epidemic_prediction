@@ -1,0 +1,150 @@
+# Ændringslog (Changelog)
+
+**English version below the Danish version**
+
+Alle ændringer, der har betydning for tallene i spildevandsovervågningen af SARS-CoV-2 dokumenteret i denne fil.
+
+Formatet er baseret på [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+og versionsnummeringen er baseret på [Semantic Versioning](https://semver.org/spec/v2.0.0.html). 
+
+## [1.0.13] - 2025-02-12T14:00:00
+### Ændret
+På baggrund af metodetilpasninger, er der i denne uge foretaget mindre bagudrettede justeringer af SARS-CoV-2 koncentrationen i spildevandet.
+
+## [1.0.12] - 2024-12-11T14:00:00
+### Ændret
+På baggrund af en ændring i laboratorieanalyser er der i denne uge foretaget en bagudrettet justering af det ene af de to anvendte SARS-CoV-2-gener for data før 9/12/2024.
+ 
+## [1.0.11] - 2024-06-05T14:00:00
+### Ændret
+De nationale spildevandsresultater for perioden 2023-10-17 til 2024-05-26 er blevet nedjusteret med ca. 30 %. 
+Dette skyldes en opdateret korrektion efter skift i standardmateriale, som bruges til kvantificering af RNA-kopier i spildevandsprøverne.
+
+## [1.0.10] - 2023-10-11T14:00:00
+### Ændret
+Navnene på datafilerne er ændret fra "yyyy-mm-dd_dk_spildevandsdata.csv" til "yyyy-mm-dd_dk_wastewater_data.csv" og fra
+"yyyy-mm-dd_region_spildevandsdata.csv" til "yyyy-mm-dd_region_wastewater_data.csv". Kolonnen "region" i det regionale data indeholder nu de engelske regionsnavne
+og ikke længere de danske. 
+
+## [1.0.9] - 2023-09-19T14:00:00
+### Ændret
+- Følgende ændringer er implementeret:
+	* E-genet for SARS-CoV-2 er blevet ekskluderet fra alle spildevandsresultater fra og med 2023-04-01, grundet høj usikkerhed på målingerne af det specifikke gen.
+	* Resultaterne er blevet justeret bagudrettet til den 2023-04-01 for den ændring i oprensningsmetoden, der blev foretaget i laboratoriet i uge 23, 2023, således at 
+	resultaterne i peroden hvor SSI har foretaget laboratorieanalyserne er sammenlignelige.  
+Derudover er vækstrater ikke længere inkluderet i datafilen.
+
+## [1.0.8] - 2023-06-27T14:00:00
+### Ændret
+- Fra og med uge 23, 2023, er der foretaget en ændring i analysemetoderne i laboratoriet. Resultater før og efter d. 4. juni 2023 er derfor ikke direkte sammenlignelige.
+
+## [1.0.7] - 2023-05-16T14:00:00
+### Ændret
+- Fra og med uge 14, 2023, udføres laboratorieanalyser af spildevandsprøverne af TestCenter Danmark hos Statens Serum Institut. Dette medfører at resultater før og 
+efter 1. april 2023 ikke er direkte sammenlignelige. I det tilgængelige data angiver kolonnen "lab" hvilket der har udført analyserne.
+- Det regionale data for uge 26, 2022, er blevet korrigeret: Tidligere var prøver udtaget den 1. juli 2022 ekskluderet i alle regioner, grundet manglende prøver i
+Region Hovedstaden. Dette er nu rettet, så prøverne er inkluderet i alle regioner undtaget Hovedstaden.
+
+## [1.0.6] - 2023-02-14T14:00:00
+### Ændret
+- Fra og med uge 6, 2023, er den nationale overvågning af SARS-CoV-2 i spildevandet nedskaleret fra 87 til 29 prøveudtagningssteder.
+Som følge af denne reduktion er outlierkontrollen af de overvågede gener suspenderet for prøver taget efter 2023-02-06.
+
+## [1.0.5] - 2023-02-07T14:00:00
+### Ændret
+- I data fra uge 5, 2023, er én plade blevet udelukket fra proceduren til kontrol for outliers. Dette skyldtes, at de overvågede gener viste divergerende tendenser.
+
+## [1.0.4] - 2022-11-22T14:00:00
+### Ændret
+- Fra d. 2022-11-21 er der implementeret en ny metode til at detektere outliers for henholdsvis RdRp og N2 genet. Såfremt ét af de to fæcesnormaliserede gener identificeres 
+som en outlier, vil det blive prædikteret med det andet gen. Dette er indført med bagudrettet effekt (hele år 2022) og betyder derfor, 
+at der kan ses mindre ændringer i grafens forløb. 
+
+## [1.0.3] - 2022-11-08T14:00:00
+### Ændret
+- Grundet analyseusikkerheder relateret til RdRp-genet, så er RdRp værdierne for uge 44 (2022-10-31 til 2022-11-06) imputeret med N2 værdier skaleret med det gennemsnitlige forhold
+mellem generne. Skaleringsfaktoren er baseret på observationer i perioden 2022-10-01 og 2022-10-30.
+
+## [1.0.2] - 2022-07-11T14:00:00
+### Ændret
+- I henhold til den vedtagne nedskalering ændres antallet af inkluderede prøvesteder fra 202 til 87 prøvesteder.
+
+## [1.0.1] - 2022-07-01T14:00:00
+### Fjernet
+- Grundet Tour de France i København var prøveudtagning ikke mulig. Derfor er alle prøveresultater fjernet for denne dag i hele landet.
+
+**slutning af dansk version**
+
+# Changelog
+
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## [1.0.13] - 2025-02-12T14:00:00
+### Changed
+Due to method adjustments, this week minor retrospective changes have been made to the SARS-CoV-2 concentration in the waste water.
+
+## [1.0.12] - 2024-12-11T14:00:00
+### Changed
+This week, due to a change in laboratory analyses, a retrospective adjustment has been made to one of the two SARS-CoV-2 genes for data prior to 12/9/2024.
+
+## [1.0.11] - 2024-06-05T14:00:00
+### Changed
+The national wastewater results for the period 2023-10-17 to 2024-05-26 have been adjusted downwards by approximately 30 %.
+This is due to an updated correction following a change in the standard material which is used for quantification of RNA in wastewater samples.
+
+## [1.0.10] - 2023-10-11T14:00:00
+### Changed
+The names of the data files have been changed from "yyyy-mm-dd_dk_spildevandsdata.csv" to "yyyy-mm-dd_dk_wastewater_data.csv" and from 
+"yyyy-mm-dd_region_spildevandsdata.csv" til "yyyy-mm-dd_region_wastewater_data.csv". The column "region" in the regional data
+now contains the English names of the regions instead of the Danish names. 
+
+## [1.0.9] - 2023-09-19T14:00:00
+### Changed
+- The following changes have been implemented:
+	* The E gene for SARS-CoV-2 has been excluded from all wastewater results from 2023-04-01, due to high uncertainty on the measurements of this gene. 
+	* The wastewater results have been adjusted backwards to 2023-04-01, to adjust for the change in laboratory methods of week 23, 2023. Hence, the wastewater 
+	results from the period	that SSI has conducted the laboratory analysis are comparable. 
+Furthermore, the growth rates will no longer be included in the data file.
+
+## [1.0.8] - 2023-06-27T14:00:00
+### Changed
+- From and including week 23, 2023, there has been a change in the methods of analysis in the laboratory. 
+This means that results before and after June 4, 2023, are not directly comparable.
+
+## [1.0.7] - 2023-05-16T14:00:00
+### Changed
+- From and including week 14, 2023, laboratory analyses of the waste water samples will be carried out by TestCenter Denmark at Statens Serum Institut. 
+This means that results before and after 2023-04-01 are not directly comparable. In the available data, the column "lab" indicates which laboratory has performed the analyses.
+- The regional data for week 26, 2022, has been corrected: Previously, samples taken on July 1, 2022 were excluded in all regions, due to a lack of samples in the
+Capital Region. This has now been fixed so that the samples are included in all regions except the Capital Region.
+
+## [1.0.6] - 2023-02-14T14:00:00
+### Changed
+- From week 6, 2023, the national surveillance SARS-CoV-2 in the wastewater has been downscaled from 87 to 29 wastewater sampling sites. 
+Due to this reduction in the number of samples, the outlier control of the surveilled genes has been suspended from samples taken after 2023-02-06.
+
+## [1.0.5] - 2023-02-07T14:00:00
+### Changed
+- Considering data from week 5, 2023, one plate was excluded from the procedure to control for outliers. This was due to the surveilled genes showing diverging trends.
+
+## [1.0.4] - 2022-11-22T14:00:00
+### Changed
+- From 2022-11-21, a new method for detecting outliers for respectively the RdRp and the N2 gene has been implemented. If one of the two genes, after fecal normalization,
+is identified a an outlier, its values will be predicted from the other gene.
+This is implemented for all of 2022, which means that small deviations from previous graphs can be seen.
+
+## [1.0.3] - 2022-11-08T14:00:00
+### Changed
+- Due to analysis uncertainties regarding the RdRp-gene, the values for RdRp in week 44 (2022-10-31 to 2022-11-06), have been imputed by the N2 values scaled with the average 
+ratio between the genes. The scaling factor is based on observations between 2022-10-01 and 2022-10-30.
+
+## [1.0.2] - 2022-07-11T14:00:00
+### Changed
+- The number of included sample sites are changed from 202 to 87, according to the adopted downscale.
+
+## [1.0.1] - 2022-07-01T14:00:00
+### Removed
+- Sampling in Copenhagen was not possible due to Tour de France, thus all results has been removed from this day throughout Denmark.
