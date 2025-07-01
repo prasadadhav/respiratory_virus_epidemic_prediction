@@ -1,0 +1,4505 @@
+[
+  {
+    "csv": "\/data\/upload\/3\/454c4a18-Mov-FluA-BEG.csv",
+    "id": 1,
+    "label": [
+      {
+        "start": "2022-11-14",
+        "end": "2022-12-12",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2022-12-12",
+        "end": "2023-01-09",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2023-01-09",
+        "end": "2023-01-23",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2024-09-30",
+        "end": "2024-12-09",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2024-12-09",
+        "end": "2025-03-10",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2025-03-10",
+        "end": "2025-05-19",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2024-01-01",
+        "end": "2024-04-08",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2022-02-14",
+        "end": "2022-05-30",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2021-10-18",
+        "end": "2022-02-14",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2022-05-30",
+        "end": "2022-11-14",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2023-01-23",
+        "end": "2024-01-01",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2024-04-08",
+        "end": "2024-09-30",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2025-05-19",
+        "end": "2025-06-23",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 6,
+    "created_at": "2025-06-30T12:56:31.992394Z",
+    "updated_at": "2025-06-30T12:57:52.765991Z",
+    "lead_time": 257.447
+  },
+  {
+    "csv": "\/data\/upload\/3\/03ae4b96-Mov-FluA-BET.csv",
+    "id": 2,
+    "label": [
+      {
+        "start": "2022-02-28",
+        "end": "2022-03-07",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2022-03-07",
+        "end": "2022-04-18",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2022-04-18",
+        "end": "2022-05-23",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2021-12-06",
+        "end": "2022-01-03",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2021-10-18",
+        "end": "2021-12-06",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2022-01-03",
+        "end": "2022-02-28",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2022-05-23",
+        "end": "2022-12-12",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2022-12-12",
+        "end": "2022-12-12",
+        "instant": true,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2022-12-12",
+        "end": "2023-01-09",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2023-01-09",
+        "end": "2023-01-09",
+        "instant": true,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2023-01-09",
+        "end": "2024-01-01",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2024-01-01",
+        "end": "2024-01-15",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2024-01-15",
+        "end": "2024-02-19",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2024-02-19",
+        "end": "2024-03-04",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2024-06-17",
+        "end": "2024-06-17",
+        "instant": true,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2024-07-15",
+        "end": "2024-07-15",
+        "instant": true,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2024-06-17",
+        "end": "2024-07-15",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2024-10-28",
+        "end": "2024-12-09",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2025-03-17",
+        "end": "2025-05-19",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2024-12-09",
+        "end": "2025-03-17",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2024-07-15",
+        "end": "2024-10-28",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2024-03-04",
+        "end": "2024-06-17",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2025-05-19",
+        "end": "2025-06-23",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 7,
+    "created_at": "2025-06-30T13:00:38.667734Z",
+    "updated_at": "2025-06-30T13:00:38.667734Z",
+    "lead_time": 147.771
+  },
+  {
+    "csv": "\/data\/upload\/3\/5cee4e8d-Mov-FluA-BLE.csv",
+    "id": 3,
+    "label": [
+      {
+        "start": "2024-11-25",
+        "end": "2024-12-23",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2024-12-23",
+        "end": "2025-03-17",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2025-03-17",
+        "end": "2025-05-12",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2025-05-12",
+        "end": "2025-06-23",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2024-10-14",
+        "end": "2024-11-25",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 8,
+    "created_at": "2025-06-30T13:03:27.204515Z",
+    "updated_at": "2025-06-30T13:03:27.204515Z",
+    "lead_time": 162.55
+  },
+  {
+    "csv": "\/data\/upload\/3\/8b8d4694-Mov-FluA-ECH.csv",
+    "id": 5,
+    "label": [
+      {
+        "start": "2024-11-04",
+        "end": "2024-12-23",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2024-12-23",
+        "end": "2025-03-24",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2025-03-24",
+        "end": "2025-05-12",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2025-05-12",
+        "end": "2025-06-23",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2024-10-14",
+        "end": "2024-11-04",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9,
+    "created_at": "2025-06-30T13:04:04.167959Z",
+    "updated_at": "2025-06-30T13:04:04.167959Z",
+    "lead_time": 24.387
+  },
+  {
+    "csv": "\/data\/upload\/3\/eb8e8a7c-Mov-FluA-MER.csv",
+    "id": 8,
+    "label": [
+      {
+        "start": "2024-10-21",
+        "end": "2024-12-16",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2024-12-16",
+        "end": "2025-03-31",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2025-03-31",
+        "end": "2025-05-05",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2025-05-05",
+        "end": "2025-06-23",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2024-10-14",
+        "end": "2024-10-21",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 10,
+    "created_at": "2025-06-30T13:04:53.505578Z",
+    "updated_at": "2025-06-30T13:04:53.506579Z",
+    "lead_time": 28.439
+  },
+  {
+    "csv": "\/data\/upload\/3\/c77187c6-Mov-FluA-Nat.csv",
+    "id": 9,
+    "label": [
+      {
+        "start": "2021-11-22",
+        "end": "2022-02-28",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2022-02-28",
+        "end": "2022-05-09",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2022-05-09",
+        "end": "2022-05-30",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2022-10-03",
+        "end": "2022-12-12",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2023-01-16",
+        "end": "2023-03-20",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2022-12-12",
+        "end": "2023-01-16",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2024-01-01",
+        "end": "2024-01-01",
+        "instant": true,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2024-03-04",
+        "end": "2024-04-08",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2024-01-01",
+        "end": "2024-03-04",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2024-10-14",
+        "end": "2024-12-02",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2024-12-02",
+        "end": "2025-03-24",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2025-03-24",
+        "end": "2025-06-02",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2025-06-02",
+        "end": "2025-06-23",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2024-04-08",
+        "end": "2024-10-14",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2023-03-20",
+        "end": "2024-01-01",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2022-05-30",
+        "end": "2022-10-03",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2021-10-18",
+        "end": "2021-11-22",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 11,
+    "created_at": "2025-06-30T13:06:39.832729Z",
+    "updated_at": "2025-06-30T13:06:39.832729Z",
+    "lead_time": 104.155
+  },
+  {
+    "csv": "\/data\/upload\/3\/1559d9ab-Mov-FluA-PET.csv",
+    "id": 10,
+    "label": [
+      {
+        "start": "2024-11-25",
+        "end": "2024-12-23",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2024-12-23",
+        "end": "2025-03-17",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2025-03-17",
+        "end": "2025-05-12",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2024-01-01",
+        "end": "2024-01-01",
+        "instant": true,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2024-02-12",
+        "end": "2024-02-12",
+        "instant": true,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2024-01-01",
+        "end": "2024-11-25",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2022-12-05",
+        "end": "2022-12-05",
+        "instant": true,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2023-01-23",
+        "end": "2023-01-23",
+        "instant": true,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2022-12-05",
+        "end": "2023-01-23",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2021-12-06",
+        "end": "2021-12-20",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2021-12-20",
+        "end": "2022-04-25",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2022-04-25",
+        "end": "2022-04-25",
+        "instant": true,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2021-10-18",
+        "end": "2021-12-06",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2022-04-25",
+        "end": "2022-12-05",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2023-01-23",
+        "end": "2024-01-01",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 12,
+    "created_at": "2025-06-30T13:08:14.355385Z",
+    "updated_at": "2025-06-30T13:08:31.017815Z",
+    "lead_time": 108.446
+  },
+  {
+    "csv": "\/data\/upload\/3\/638ebbf0-Mov-FluA-SCH.csv",
+    "id": 11,
+    "label": [
+      {
+        "start": "2022-01-24",
+        "end": "2022-03-07",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2022-03-07",
+        "end": "2022-05-02",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2022-05-02",
+        "end": "2022-05-16",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2022-11-14",
+        "end": "2022-12-05",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2022-12-05",
+        "end": "2023-01-16",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2023-01-16",
+        "end": "2023-01-23",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2024-01-08",
+        "end": "2024-01-08",
+        "instant": true,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2024-03-04",
+        "end": "2024-03-18",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2024-01-08",
+        "end": "2024-03-04",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2024-11-11",
+        "end": "2025-01-13",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2025-01-13",
+        "end": "2025-03-17",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2025-03-17",
+        "end": "2025-05-05",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2021-10-18",
+        "end": "2022-01-24",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2022-05-16",
+        "end": "2022-11-14",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2023-01-23",
+        "end": "2024-01-08",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2024-03-18",
+        "end": "2024-11-11",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2025-05-05",
+        "end": "2025-06-23",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 13,
+    "created_at": "2025-06-30T13:10:09.045918Z",
+    "updated_at": "2025-06-30T13:10:09.045918Z",
+    "lead_time": 95.626
+  },
+  {
+    "csv": "\/data\/upload\/3\/3202b29e-Mov-FluA-UEB.csv",
+    "id": 12,
+    "label": [
+      {
+        "start": "2024-10-28",
+        "end": "2024-12-09",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2024-12-09",
+        "end": "2025-03-24",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2025-03-24",
+        "end": "2025-05-12",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2025-05-12",
+        "end": "2025-06-23",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2024-10-07",
+        "end": "2024-10-28",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 14,
+    "created_at": "2025-06-30T13:24:29.275615Z",
+    "updated_at": "2025-06-30T13:24:29.275615Z",
+    "lead_time": 28.323
+  },
+  {
+    "csv": "\/data\/upload\/3\/510145a9-Mov-FluB-BEG.csv",
+    "id": 13,
+    "label": [
+      {
+        "start": "2023-01-16",
+        "end": "2023-02-13",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2023-02-13",
+        "end": "2023-04-17",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2023-04-17",
+        "end": "2023-05-22",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2024-10-21",
+        "end": "2024-12-16",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2024-12-16",
+        "end": "2025-04-14",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2025-04-14",
+        "end": "2025-06-02",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2025-06-02",
+        "end": "2025-06-23",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2023-05-22",
+        "end": "2024-10-21",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2021-10-18",
+        "end": "2023-01-16",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 15,
+    "created_at": "2025-06-30T13:49:57.894659Z",
+    "updated_at": "2025-06-30T13:49:57.894659Z",
+    "lead_time": 82.032
+  },
+  {
+    "csv": "\/data\/upload\/3\/fdf50019-Mov-FluB-BET.csv",
+    "id": 14,
+    "label": [
+      {
+        "start": "2024-11-25",
+        "end": "2025-01-13",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2025-01-13",
+        "end": "2025-03-31",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2025-03-31",
+        "end": "2025-05-12",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2025-05-12",
+        "end": "2025-06-23",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2023-03-06",
+        "end": "2023-03-06",
+        "instant": true,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2023-03-06",
+        "end": "2023-05-08",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2023-05-08",
+        "end": "2023-05-15",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2023-05-15",
+        "end": "2024-11-25",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2021-10-18",
+        "end": "2023-03-06",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 16,
+    "created_at": "2025-06-30T13:52:26.037893Z",
+    "updated_at": "2025-06-30T13:52:26.037893Z",
+    "lead_time": 146.959
+  },
+  {
+    "csv": "\/data\/upload\/3\/d80cbd6b-Mov-FluB-BLE.csv",
+    "id": 15,
+    "label": [
+      {
+        "start": "2024-11-25",
+        "end": "2025-01-27",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2025-01-27",
+        "end": "2025-03-31",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2025-03-31",
+        "end": "2025-05-26",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2025-05-26",
+        "end": "2025-06-23",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2024-10-14",
+        "end": "2024-11-25",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 17,
+    "created_at": "2025-06-30T13:53:06.360428Z",
+    "updated_at": "2025-06-30T13:53:06.360428Z",
+    "lead_time": 39.125
+  },
+  {
+    "csv": "\/data\/upload\/3\/8eca1472-Mov-FluB-ECH.csv",
+    "id": 17,
+    "label": [
+      {
+        "start": "2024-12-02",
+        "end": "2025-01-13",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2025-01-13",
+        "end": "2025-04-07",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2025-04-07",
+        "end": "2025-05-12",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2025-05-12",
+        "end": "2025-06-23",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2024-10-14",
+        "end": "2024-12-02",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 18,
+    "created_at": "2025-06-30T13:53:44.073038Z",
+    "updated_at": "2025-06-30T13:53:44.073038Z",
+    "lead_time": 25.404
+  },
+  {
+    "csv": "\/data\/upload\/3\/8774341e-Mov-FluB-MER.csv",
+    "id": 20,
+    "label": [
+      {
+        "start": "2024-11-11",
+        "end": "2025-01-06",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2025-01-06",
+        "end": "2025-04-14",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2025-04-14",
+        "end": "2025-05-19",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2025-05-19",
+        "end": "2025-06-23",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2024-10-14",
+        "end": "2024-11-11",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 19,
+    "created_at": "2025-06-30T13:54:28.139874Z",
+    "updated_at": "2025-06-30T13:54:28.140876Z",
+    "lead_time": 28.094
+  },
+  {
+    "csv": "\/data\/upload\/3\/a482d1fc-Mov-FluB-Nat.csv",
+    "id": 21,
+    "label": [
+      {
+        "start": "2023-01-23",
+        "end": "2023-02-13",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2023-02-13",
+        "end": "2023-05-08",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2023-05-08",
+        "end": "2023-05-22",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2024-11-04",
+        "end": "2025-01-06",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2025-01-06",
+        "end": "2025-04-07",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2025-04-07",
+        "end": "2025-06-09",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2023-05-22",
+        "end": "2024-11-04",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2021-10-18",
+        "end": "2023-01-23",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 20,
+    "created_at": "2025-06-30T13:55:30.087749Z",
+    "updated_at": "2025-06-30T13:55:30.087749Z",
+    "lead_time": 60.226
+  },
+  {
+    "csv": "\/data\/upload\/3\/2ee85dfd-Mov-FluB-PET.csv",
+    "id": 22,
+    "label": [
+      {
+        "start": "2024-09-30",
+        "end": "2025-01-06",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2025-01-06",
+        "end": "2025-04-07",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2025-04-07",
+        "end": "2025-05-26",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2025-05-26",
+        "end": "2025-06-23",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2023-02-20",
+        "end": "2023-04-24",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2023-02-20",
+        "end": "2023-02-20",
+        "instant": true,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2023-04-24",
+        "end": "2023-04-24",
+        "instant": true,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2023-04-24",
+        "end": "2024-09-30",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2021-10-18",
+        "end": "2023-02-20",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 21,
+    "created_at": "2025-06-30T13:57:30.329172Z",
+    "updated_at": "2025-06-30T13:57:30.329172Z",
+    "lead_time": 118.121
+  },
+  {
+    "csv": "\/data\/upload\/3\/3f1675a0-Mov-FluB-SCH.csv",
+    "id": 23,
+    "label": [
+      {
+        "start": "2024-10-07",
+        "end": "2025-01-13",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2025-01-13",
+        "end": "2025-03-24",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2025-03-24",
+        "end": "2025-06-09",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2025-06-09",
+        "end": "2025-06-23",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2023-02-27",
+        "end": "2023-03-27",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2023-02-20",
+        "end": "2023-02-27",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2023-03-27",
+        "end": "2023-03-27",
+        "instant": true,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2023-03-27",
+        "end": "2024-10-07",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2021-10-18",
+        "end": "2023-02-20",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 22,
+    "created_at": "2025-06-30T13:59:12.774165Z",
+    "updated_at": "2025-06-30T13:59:12.774165Z",
+    "lead_time": 97.721
+  },
+  {
+    "csv": "\/data\/upload\/3\/95ef93e0-Mov-FluB-UEB.csv",
+    "id": 24,
+    "label": [
+      {
+        "start": "2024-12-09",
+        "end": "2025-01-20",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2025-01-20",
+        "end": "2025-03-17",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2025-03-17",
+        "end": "2025-05-12",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2025-05-12",
+        "end": "2025-06-23",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2024-10-07",
+        "end": "2024-12-09",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 23,
+    "created_at": "2025-06-30T13:59:55.411817Z",
+    "updated_at": "2025-06-30T13:59:55.411817Z",
+    "lead_time": 40.387
+  },
+  {
+    "csv": "\/data\/upload\/3\/788ad577-Mov-RSV-BEG.csv",
+    "id": 25,
+    "label": [
+      {
+        "start": "2023-07-24",
+        "end": "2023-10-30",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2023-10-30",
+        "end": "2024-03-18",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2024-03-18",
+        "end": "2024-05-13",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2024-08-26",
+        "end": "2024-11-11",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2024-11-11",
+        "end": "2025-04-28",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2025-04-28",
+        "end": "2025-06-23",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2024-05-13",
+        "end": "2024-08-26",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2023-06-19",
+        "end": "2023-07-24",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 24,
+    "created_at": "2025-06-30T14:02:52.026676Z",
+    "updated_at": "2025-06-30T14:02:52.026676Z",
+    "lead_time": 86.868
+  },
+  {
+    "csv": "\/data\/upload\/3\/d95eb46d-Mov-RSV-BET.csv",
+    "id": 26,
+    "label": [
+      {
+        "start": "2023-10-02",
+        "end": "2023-11-06",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2023-11-06",
+        "end": "2024-03-11",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2024-03-11",
+        "end": "2024-04-01",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2024-09-16",
+        "end": "2024-11-25",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2024-11-25",
+        "end": "2025-05-05",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2025-05-05",
+        "end": "2025-06-23",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2024-04-01",
+        "end": "2024-09-16",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2023-06-19",
+        "end": "2023-10-02",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 25,
+    "created_at": "2025-06-30T14:03:59.055217Z",
+    "updated_at": "2025-06-30T14:03:59.055217Z",
+    "lead_time": 65.364
+  },
+  {
+    "csv": "\/data\/upload\/3\/ebf41367-Mov-RSV-BLE.csv",
+    "id": 27,
+    "label": [
+      {
+        "start": "2024-10-21",
+        "end": "2024-11-25",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2024-11-25",
+        "end": "2025-04-14",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2025-04-14",
+        "end": "2025-06-16",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2025-06-16",
+        "end": "2025-06-23",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2024-10-14",
+        "end": "2024-10-21",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 26,
+    "created_at": "2025-06-30T14:04:25.282054Z",
+    "updated_at": "2025-06-30T14:04:25.282054Z",
+    "lead_time": 24.118
+  },
+  {
+    "csv": "\/data\/upload\/3\/2d8f33d5-Mov-RSV-ECH.csv",
+    "id": 29,
+    "label": [
+      {
+        "start": "2024-11-04",
+        "end": "2025-01-13",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2025-01-13",
+        "end": "2025-04-21",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2025-04-21",
+        "end": "2025-06-02",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2025-06-02",
+        "end": "2025-06-23",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2024-10-14",
+        "end": "2024-11-04",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 27,
+    "created_at": "2025-06-30T14:05:13.486929Z",
+    "updated_at": "2025-06-30T14:05:13.486929Z",
+    "lead_time": 38.483
+  },
+  {
+    "csv": "\/data\/upload\/3\/f6b9432a-Mov-RSV-MER.csv",
+    "id": 32,
+    "label": [
+      {
+        "start": "2024-10-14",
+        "end": "2024-11-25",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2024-11-25",
+        "end": "2025-04-07",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2025-04-07",
+        "end": "2025-06-09",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2025-06-09",
+        "end": "2025-06-23",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 28,
+    "created_at": "2025-06-30T14:05:54.147831Z",
+    "updated_at": "2025-06-30T14:05:54.147831Z",
+    "lead_time": 25.721
+  },
+  {
+    "csv": "\/data\/upload\/3\/7b950b04-Mov-RSV-Nat.csv",
+    "id": 33,
+    "label": [
+      {
+        "start": "2023-09-11",
+        "end": "2023-11-13",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2023-11-13",
+        "end": "2024-02-05",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2024-02-05",
+        "end": "2024-04-01",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2024-09-23",
+        "end": "2024-11-25",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2024-11-25",
+        "end": "2025-03-31",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2025-03-31",
+        "end": "2025-06-23",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2024-04-01",
+        "end": "2024-09-23",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2023-06-19",
+        "end": "2023-09-11",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 29,
+    "created_at": "2025-06-30T14:07:47.345664Z",
+    "updated_at": "2025-06-30T14:07:47.345664Z",
+    "lead_time": 111.361
+  },
+  {
+    "csv": "\/data\/upload\/3\/1e99be8f-Mov-RSV-PET.csv",
+    "id": 34,
+    "label": [
+      {
+        "start": "2023-10-02",
+        "end": "2023-11-20",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2023-11-20",
+        "end": "2024-02-05",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2024-02-05",
+        "end": "2024-02-26",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2024-09-23",
+        "end": "2024-11-18",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2024-11-18",
+        "end": "2025-04-28",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2025-04-28",
+        "end": "2025-06-02",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2025-06-02",
+        "end": "2025-06-23",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2024-02-26",
+        "end": "2024-09-23",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2023-06-19",
+        "end": "2023-10-02",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 30,
+    "created_at": "2025-06-30T14:09:04.097427Z",
+    "updated_at": "2025-06-30T14:09:04.098426Z",
+    "lead_time": 74.584
+  },
+  {
+    "csv": "\/data\/upload\/3\/9f77c36d-Mov-RSV-SCH.csv",
+    "id": 35,
+    "label": [
+      {
+        "start": "2023-10-16",
+        "end": "2023-11-20",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2023-11-20",
+        "end": "2024-02-26",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2024-02-26",
+        "end": "2024-04-01",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2024-09-23",
+        "end": "2024-10-14",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2024-10-14",
+        "end": "2025-03-31",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2025-03-31",
+        "end": "2025-06-02",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2025-06-02",
+        "end": "2025-06-23",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2024-04-01",
+        "end": "2024-09-23",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2023-06-19",
+        "end": "2023-10-16",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 31,
+    "created_at": "2025-06-30T14:10:03.949948Z",
+    "updated_at": "2025-06-30T14:10:03.949948Z",
+    "lead_time": 57.754
+  },
+  {
+    "csv": "\/data\/upload\/3\/06b9ea76-Mov-RSV-UEB.csv",
+    "id": 36,
+    "label": [
+      {
+        "start": "2024-11-04",
+        "end": "2024-12-02",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2024-12-02",
+        "end": "2025-03-31",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2025-03-31",
+        "end": "2025-05-12",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2025-05-12",
+        "end": "2025-06-23",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2024-10-14",
+        "end": "2024-11-04",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 32,
+    "created_at": "2025-06-30T14:10:31.290522Z",
+    "updated_at": "2025-06-30T14:10:31.290522Z",
+    "lead_time": 25.523
+  },
+  {
+    "csv": "\/data\/upload\/3\/09842d95-Mov-SARS-CoV-BEG.csv",
+    "id": 37,
+    "label": [
+      {
+        "start": "2020-09-07",
+        "end": "2020-10-19",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2020-10-19",
+        "end": "2021-01-04",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2021-01-04",
+        "end": "2021-05-03",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2021-09-06",
+        "end": "2021-11-29",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2021-11-29",
+        "end": "2022-02-28",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2022-02-28",
+        "end": "2022-03-07",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2022-03-07",
+        "end": "2022-03-07",
+        "instant": true,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2022-03-07",
+        "end": "2022-04-25",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2022-04-25",
+        "end": "2022-05-23",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2022-05-23",
+        "end": "2022-06-06",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2022-06-06",
+        "end": "2022-08-01",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2022-08-01",
+        "end": "2022-09-05",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2022-09-05",
+        "end": "2022-10-03",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2022-10-03",
+        "end": "2023-01-02",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2023-01-02",
+        "end": "2023-01-09",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2023-01-09",
+        "end": "2023-02-20",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2023-02-20",
+        "end": "2023-05-01",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2023-05-01",
+        "end": "2023-05-22",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2023-08-28",
+        "end": "2023-11-20",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2023-05-22",
+        "end": "2023-08-28",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2023-11-20",
+        "end": "2024-01-08",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2024-01-08",
+        "end": "2024-03-18",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2024-08-19",
+        "end": "2024-09-09",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2024-09-09",
+        "end": "2024-11-11",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2024-11-11",
+        "end": "2024-11-25",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2024-11-25",
+        "end": "2024-12-02",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2024-12-02",
+        "end": "2025-02-03",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2025-02-03",
+        "end": "2025-02-24",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2025-03-03",
+        "end": "2025-06-23",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2024-03-18",
+        "end": "2024-08-19",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2020-04-20",
+        "end": "2020-09-07",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2021-05-03",
+        "end": "2021-09-06",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 33,
+    "created_at": "2025-06-30T14:17:30.335815Z",
+    "updated_at": "2025-06-30T14:17:30.335815Z",
+    "lead_time": 332.885
+  },
+  {
+    "csv": "\/data\/upload\/3\/7d7bfc30-Mov-SARS-CoV-BET.csv",
+    "id": 38,
+    "label": [
+      {
+        "start": "2020-09-07",
+        "end": "2020-10-19",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2020-10-19",
+        "end": "2020-12-28",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2020-12-28",
+        "end": "2021-02-01",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2021-10-04",
+        "end": "2021-11-29",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2021-11-29",
+        "end": "2022-02-14",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2022-02-14",
+        "end": "2022-03-07",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2022-03-07",
+        "end": "2022-03-07",
+        "instant": true,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2022-03-07",
+        "end": "2022-05-02",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2022-05-02",
+        "end": "2022-05-30",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2022-05-30",
+        "end": "2022-06-06",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2022-06-06",
+        "end": "2022-08-01",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2022-08-01",
+        "end": "2022-08-29",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2022-08-29",
+        "end": "2022-09-05",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2022-09-05",
+        "end": "2022-11-21",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2022-11-21",
+        "end": "2023-01-30",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2023-01-30",
+        "end": "2023-02-27",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2023-02-27",
+        "end": "2023-05-15",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2023-05-15",
+        "end": "2023-06-12",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2023-10-09",
+        "end": "2023-11-13",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2023-11-13",
+        "end": "2024-01-29",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2024-01-29",
+        "end": "2024-02-26",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2024-07-29",
+        "end": "2024-09-09",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2024-09-09",
+        "end": "2024-12-02",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2024-12-02",
+        "end": "2025-01-13",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2025-01-13",
+        "end": "2025-03-24",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2025-03-24",
+        "end": "2025-06-23",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2024-02-26",
+        "end": "2024-07-29",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2023-06-12",
+        "end": "2023-10-09",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2021-02-01",
+        "end": "2021-10-04",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2020-06-01",
+        "end": "2020-09-07",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 34,
+    "created_at": "2025-06-30T15:07:15.386425Z",
+    "updated_at": "2025-06-30T15:07:15.386425Z",
+    "lead_time": 2979.417
+  },
+  {
+    "csv": "\/data\/upload\/3\/dcc67d4d-Mov-SARS-CoV-BLE.csv",
+    "id": 39,
+    "label": [
+      {
+        "start": "2020-10-05",
+        "end": "2020-10-19",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2020-10-19",
+        "end": "2021-01-18",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2021-01-18",
+        "end": "2021-02-08",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2021-11-01",
+        "end": "2022-01-10",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2022-01-10",
+        "end": "2022-02-21",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2022-02-21",
+        "end": "2022-02-21",
+        "instant": true,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2022-02-21",
+        "end": "2022-02-21",
+        "instant": true,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2022-02-21",
+        "end": "2022-03-07",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2022-03-07",
+        "end": "2022-05-09",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2022-05-09",
+        "end": "2022-05-23",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2022-05-23",
+        "end": "2022-05-30",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2022-05-30",
+        "end": "2022-08-08",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2022-08-08",
+        "end": "2022-09-26",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2022-09-26",
+        "end": "2022-10-10",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2022-10-10",
+        "end": "2022-11-14",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2022-11-14",
+        "end": "2022-11-28",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2023-01-23",
+        "end": "2023-01-30",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2023-01-30",
+        "end": "2023-04-10",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2023-04-10",
+        "end": "2023-05-29",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2023-08-28",
+        "end": "2023-11-20",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2023-11-20",
+        "end": "2024-01-15",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2024-01-15",
+        "end": "2024-03-04",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2024-04-29",
+        "end": "2024-06-24",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2024-06-24",
+        "end": "2025-01-13",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2025-01-13",
+        "end": "2025-01-13",
+        "instant": true,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2025-03-24",
+        "end": "2025-05-12",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2025-05-12",
+        "end": "2025-06-23",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2025-01-13",
+        "end": "2025-03-24",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2024-03-04",
+        "end": "2024-04-29",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2023-05-29",
+        "end": "2023-08-28",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2022-11-28",
+        "end": "2023-01-23",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2021-02-08",
+        "end": "2021-11-01",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2020-06-08",
+        "end": "2020-10-05",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 35,
+    "created_at": "2025-06-30T15:18:46.402669Z",
+    "updated_at": "2025-06-30T15:18:46.402669Z",
+    "lead_time": 688.377
+  },
+  {
+    "csv": "\/data\/upload\/3\/8c4ddbbf-Mov-SARS-CoV-BOE.csv",
+    "id": 40,
+    "label": [
+      {
+        "start": "2021-10-18",
+        "end": "2021-11-08",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2021-11-08",
+        "end": "2021-12-27",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2021-12-27",
+        "end": "2022-01-03",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2022-01-03",
+        "end": "2022-01-03",
+        "instant": true,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2022-01-03",
+        "end": "2022-02-14",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2022-02-14",
+        "end": "2022-02-21",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2022-02-21",
+        "end": "2022-02-28",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2022-02-28",
+        "end": "2022-04-25",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2022-04-25",
+        "end": "2022-05-09",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2023-01-09",
+        "end": "2023-01-30",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2023-01-30",
+        "end": "2023-04-17",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2023-04-17",
+        "end": "2023-05-29",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2023-09-04",
+        "end": "2023-11-20",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2023-11-20",
+        "end": "2024-01-08",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2024-01-08",
+        "end": "2024-01-15",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2022-05-09",
+        "end": "2022-06-13",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2022-06-13",
+        "end": "2022-08-01",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2022-08-01",
+        "end": "2022-08-15",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2020-09-07",
+        "end": "2021-10-18",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2022-08-15",
+        "end": "2023-01-09",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2024-01-15",
+        "end": "2025-06-16",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36,
+    "created_at": "2025-06-30T15:21:46.286100Z",
+    "updated_at": "2025-06-30T15:21:46.287100Z",
+    "lead_time": 177.603
+  },
+  {
+    "csv": "\/data\/upload\/3\/463dd892-Mov-SARS-CoV-ECH.csv",
+    "id": 41,
+    "label": [
+      {
+        "start": "2020-10-05",
+        "end": "2020-11-02",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2020-11-02",
+        "end": "2020-12-21",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2020-12-21",
+        "end": "2021-01-11",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2021-09-27",
+        "end": "2021-12-13",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2021-12-13",
+        "end": "2022-05-02",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2022-05-02",
+        "end": "2022-06-06",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2022-06-06",
+        "end": "2022-06-06",
+        "instant": true,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2022-06-06",
+        "end": "2022-07-25",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2022-07-25",
+        "end": "2022-08-01",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2022-09-12",
+        "end": "2022-10-03",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2022-10-03",
+        "end": "2022-11-28",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2022-11-28",
+        "end": "2022-12-26",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2022-12-26",
+        "end": "2023-01-16",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2023-01-16",
+        "end": "2023-04-24",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2023-04-24",
+        "end": "2023-05-22",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2024-07-29",
+        "end": "2024-08-19",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2024-08-19",
+        "end": "2024-11-18",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2024-11-18",
+        "end": "2024-12-02",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2024-12-02",
+        "end": "2025-06-23",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2023-05-22",
+        "end": "2024-07-29",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2020-08-03",
+        "end": "2020-10-05",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2021-01-11",
+        "end": "2021-09-27",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2022-08-01",
+        "end": "2022-09-12",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 37,
+    "created_at": "2025-06-30T15:26:18.222681Z",
+    "updated_at": "2025-06-30T15:26:18.222681Z",
+    "lead_time": 269.605
+  },
+  {
+    "csv": "\/data\/upload\/3\/34fbeb68-Mov-SARS-CoV-GRE.csv",
+    "id": 42,
+    "label": [
+      {
+        "start": "2021-11-01",
+        "end": "2021-12-13",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2021-12-13",
+        "end": "2022-05-16",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2022-05-16",
+        "end": "2022-05-30",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2022-05-30",
+        "end": "2022-05-30",
+        "instant": true,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2022-05-30",
+        "end": "2022-08-01",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2022-08-01",
+        "end": "2022-08-15",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2022-09-19",
+        "end": "2022-10-03",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2022-10-03",
+        "end": "2022-11-14",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2022-11-14",
+        "end": "2022-12-05",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2023-01-16",
+        "end": "2023-02-06",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2023-02-06",
+        "end": "2023-04-10",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2023-04-10",
+        "end": "2023-05-22",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2023-09-11",
+        "end": "2023-09-11",
+        "instant": true,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2023-09-11",
+        "end": "2023-10-30",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2023-10-30",
+        "end": "2023-11-06",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2023-11-06",
+        "end": "2025-06-16",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2023-05-22",
+        "end": "2023-09-11",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2020-10-12",
+        "end": "2020-10-26",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2020-10-26",
+        "end": "2020-12-28",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2020-12-28",
+        "end": "2021-01-04",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2020-06-15",
+        "end": "2020-10-12",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2021-01-04",
+        "end": "2021-11-01",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2022-08-15",
+        "end": "2022-09-19",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2022-12-05",
+        "end": "2023-01-16",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 38,
+    "created_at": "2025-06-30T15:32:48.951625Z",
+    "updated_at": "2025-06-30T15:33:05.656657Z",
+    "lead_time": 358.373
+  },
+  {
+    "csv": "\/data\/upload\/3\/f84b3eb1-Mov-SARS-CoV-HES.csv",
+    "id": 43,
+    "label": [
+      {
+        "start": "2020-09-21",
+        "end": "2020-10-19",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2020-10-19",
+        "end": "2020-12-28",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2020-12-28",
+        "end": "2021-01-04",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2021-10-11",
+        "end": "2021-11-22",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2021-11-22",
+        "end": "2022-02-14",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2022-02-14",
+        "end": "2022-03-07",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2022-03-07",
+        "end": "2022-03-07",
+        "instant": true,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2022-03-07",
+        "end": "2022-05-02",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2022-05-02",
+        "end": "2022-05-23",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2022-05-23",
+        "end": "2022-05-30",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2022-05-30",
+        "end": "2022-08-01",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2022-08-01",
+        "end": "2022-09-05",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2023-01-16",
+        "end": "2023-01-16",
+        "instant": true,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2023-01-16",
+        "end": "2023-02-13",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2023-02-13",
+        "end": "2023-02-13",
+        "instant": true,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2023-02-13",
+        "end": "2023-02-20",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2023-02-20",
+        "end": "2023-05-15",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2023-05-15",
+        "end": "2023-05-29",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2023-09-11",
+        "end": "2023-11-20",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2023-11-20",
+        "end": "2024-01-08",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2024-01-08",
+        "end": "2024-01-15",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2024-01-15",
+        "end": "2025-06-16",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2023-05-29",
+        "end": "2023-09-11",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2022-09-05",
+        "end": "2023-01-16",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2021-01-04",
+        "end": "2021-10-11",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2020-05-18",
+        "end": "2020-09-21",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 39,
+    "created_at": "2025-06-30T15:36:11.257045Z",
+    "updated_at": "2025-06-30T15:36:11.257045Z",
+    "lead_time": 148.504
+  },
+  {
+    "csv": "\/data\/upload\/3\/2006130a-Mov-SARS-CoV-MER.csv",
+    "id": 44,
+    "label": [
+      {
+        "start": "2020-10-12",
+        "end": "2020-10-19",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2020-10-19",
+        "end": "2021-01-04",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2021-01-04",
+        "end": "2021-01-11",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2021-09-27",
+        "end": "2021-11-15",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2021-11-15",
+        "end": "2022-02-21",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2022-02-21",
+        "end": "2022-03-07",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2022-03-07",
+        "end": "2022-03-07",
+        "instant": true,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2022-03-07",
+        "end": "2022-07-25",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2022-07-25",
+        "end": "2022-08-08",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2022-09-12",
+        "end": "2022-09-19",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2022-09-19",
+        "end": "2023-01-02",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2023-01-02",
+        "end": "2023-01-09",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2023-02-06",
+        "end": "2023-02-20",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2023-02-20",
+        "end": "2023-05-08",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2023-05-08",
+        "end": "2023-06-19",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2023-09-11",
+        "end": "2023-11-20",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2023-11-20",
+        "end": "2024-01-22",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2024-01-22",
+        "end": "2024-03-11",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2024-05-06",
+        "end": "2024-06-03",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2024-06-03",
+        "end": "2024-07-29",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2024-07-29",
+        "end": "2024-08-05",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2024-08-05",
+        "end": "2024-08-05",
+        "instant": true,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2024-08-05",
+        "end": "2024-11-18",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2024-11-18",
+        "end": "2024-12-02",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2024-12-02",
+        "end": "2024-12-02",
+        "instant": true,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2024-12-02",
+        "end": "2025-01-13",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2025-01-13",
+        "end": "2025-01-13",
+        "instant": true,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2025-03-24",
+        "end": "2025-04-07",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2025-04-07",
+        "end": "2025-06-23",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2025-01-13",
+        "end": "2025-03-24",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2024-03-11",
+        "end": "2024-05-06",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2023-06-19",
+        "end": "2023-09-11",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2023-01-09",
+        "end": "2023-02-06",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2022-08-08",
+        "end": "2022-09-12",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2021-01-11",
+        "end": "2021-09-27",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2020-05-18",
+        "end": "2020-10-12",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 40,
+    "created_at": "2025-06-30T15:39:44.598908Z",
+    "updated_at": "2025-06-30T15:39:44.598908Z",
+    "lead_time": 211.534
+  },
+  {
+    "csv": "\/data\/upload\/3\/49ed813a-Mov-SARS-CoV-Nat.csv",
+    "id": 45,
+    "label": [
+      {
+        "start": "2020-09-07",
+        "end": "2020-10-19",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2020-10-19",
+        "end": "2020-12-28",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2020-12-28",
+        "end": "2021-02-01",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2021-10-04",
+        "end": "2021-11-08",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2021-11-08",
+        "end": "2022-02-14",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2022-02-14",
+        "end": "2022-02-28",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2022-03-07",
+        "end": "2022-03-07",
+        "instant": true,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2022-02-28",
+        "end": "2022-03-07",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2022-03-07",
+        "end": "2022-05-16",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2022-05-16",
+        "end": "2022-05-23",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2022-05-23",
+        "end": "2022-05-23",
+        "instant": true,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2022-05-23",
+        "end": "2022-08-01",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2022-08-01",
+        "end": "2022-09-05",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2022-09-05",
+        "end": "2022-10-03",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2022-10-03",
+        "end": "2022-12-26",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2022-12-26",
+        "end": "2023-01-09",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2023-02-13",
+        "end": "2023-02-20",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2023-02-20",
+        "end": "2023-05-01",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2023-05-01",
+        "end": "2023-05-29",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2023-08-14",
+        "end": "2023-11-20",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2023-11-20",
+        "end": "2024-01-22",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2024-01-22",
+        "end": "2024-03-11",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2024-05-20",
+        "end": "2024-07-01",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2024-07-01",
+        "end": "2025-02-03",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2025-02-03",
+        "end": "2025-04-07",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2025-04-07",
+        "end": "2025-06-23",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2024-03-11",
+        "end": "2024-05-20",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2023-05-29",
+        "end": "2023-08-14",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2023-01-09",
+        "end": "2023-02-13",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2021-02-01",
+        "end": "2021-10-04",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2020-04-20",
+        "end": "2020-09-07",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 41,
+    "created_at": "2025-06-30T15:42:42.984466Z",
+    "updated_at": "2025-06-30T15:42:42.984466Z",
+    "lead_time": 177.06
+  },
+  {
+    "csv": "\/data\/upload\/3\/930c7968-Mov-SARS-CoV-PET.csv",
+    "id": 46,
+    "label": [
+      {
+        "start": "2020-10-12",
+        "end": "2020-10-12",
+        "instant": true,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2020-10-12",
+        "end": "2020-12-28",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2020-12-28",
+        "end": "2021-01-04",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2021-10-04",
+        "end": "2021-12-20",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2021-12-20",
+        "end": "2022-02-14",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2022-02-14",
+        "end": "2022-02-21",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2022-02-21",
+        "end": "2022-02-21",
+        "instant": true,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2022-02-21",
+        "end": "2022-08-01",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2022-08-01",
+        "end": "2022-09-05",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2023-01-02",
+        "end": "2023-02-20",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2023-02-20",
+        "end": "2023-05-15",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2023-05-15",
+        "end": "2023-06-05",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2023-07-31",
+        "end": "2023-09-04",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2023-09-04",
+        "end": "2024-01-22",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2024-01-22",
+        "end": "2024-04-08",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2024-04-08",
+        "end": "2024-06-17",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2024-06-17",
+        "end": "2025-01-06",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2025-01-06",
+        "end": "2025-01-13",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2025-04-07",
+        "end": "2025-04-21",
+        "instant": false,
+        "timeserieslabels": [
+          "start"
+        ]
+      },
+      {
+        "start": "2025-04-21",
+        "end": "2025-06-16",
+        "instant": false,
+        "timeserieslabels": [
+          "on going"
+        ]
+      },
+      {
+        "start": "2025-06-16",
+        "end": "2025-06-23",
+        "instant": false,
+        "timeserieslabels": [
+          "end"
+        ]
+      },
+      {
+        "start": "2025-01-13",
+        "end": "2025-04-07",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2023-06-05",
+        "end": "2023-07-31",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2022-09-05",
+        "end": "2023-01-02",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2021-01-04",
+        "end": "2021-10-04",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      },
+      {
+        "start": "2020-05-18",
+        "end": "2020-10-12",
+        "instant": false,
+        "timeserieslabels": [
+          "none"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 42,
+    "created_at": "2025-06-30T15:45:40.122047Z",
+    "updated_at": "2025-06-30T15:45:40.122047Z",
+    "lead_time": 175.589
+  }
+]
