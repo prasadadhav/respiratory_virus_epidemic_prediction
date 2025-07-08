@@ -1,1711 +1,191 @@
-time,rna_copies,label,filename,virus
-2021-11-01,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2021-11-08,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2021-11-15,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2021-11-22,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2021-11-29,0.0680635052855158,none,FluA-SCH_slope_5.csv,FLUA
-2021-12-06,0.0340317526427579,none,FluA-SCH_slope_5.csv,FLUA
-2021-12-13,3.5917082878836885e-18,none,FluA-SCH_slope_5.csv,FLUA
-2021-12-20,-0.0340317526427579,none,FluA-SCH_slope_5.csv,FLUA
-2021-12-27,-0.0680635052855159,none,FluA-SCH_slope_5.csv,FLUA
-2022-01-03,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-01-10,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-01-17,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-01-24,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-01-31,0.0526103233617294,none,FluA-SCH_slope_5.csv,FLUA
-2022-02-07,0.0263051616808647,none,FluA-SCH_slope_5.csv,FLUA
-2022-02-14,3.5917082878836885e-18,on going,FluA-SCH_slope_5.csv,FLUA
-2022-02-21,0.0543307332338042,on going,FluA-SCH_slope_5.csv,FLUA
-2022-02-28,-0.012292375904395,on going,FluA-SCH_slope_5.csv,FLUA
-2022-03-07,3.5917082878836885e-18,on going,FluA-SCH_slope_5.csv,FLUA
-2022-03-14,0.1469744730710229,on going,FluA-SCH_slope_5.csv,FLUA
-2022-03-21,0.2589578022699512,on going,FluA-SCH_slope_5.csv,FLUA
-2022-03-28,0.3888531843502847,on going,FluA-SCH_slope_5.csv,FLUA
-2022-04-04,0.3462318477465869,on going,FluA-SCH_slope_5.csv,FLUA
-2022-04-11,-0.1567969952057112,on going,FluA-SCH_slope_5.csv,FLUA
-2022-04-18,-0.3788872073654734,on going,FluA-SCH_slope_5.csv,FLUA
-2022-04-25,-0.3101633822184192,on going,FluA-SCH_slope_5.csv,FLUA
-2022-05-02,-0.2523457238384781,on going,FluA-SCH_slope_5.csv,FLUA
-2022-05-09,7.183416575767377e-18,on going,FluA-SCH_slope_5.csv,FLUA
-2022-05-16,-0.0545926137272557,on going,FluA-SCH_slope_5.csv,FLUA
-2022-05-23,-0.1091852274545115,on going,FluA-SCH_slope_5.csv,FLUA
-2022-05-30,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-06-06,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-06-13,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-06-20,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-06-27,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-07-04,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-07-11,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-07-18,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-07-25,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-08-01,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-08-08,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-08-15,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-08-22,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-08-29,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-09-05,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-09-12,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-09-19,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-09-26,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-10-03,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-10-10,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-10-17,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-10-24,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-10-31,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-11-07,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-11-14,0.0,start,FluA-SCH_slope_5.csv,FLUA
-2022-11-21,0.0699578378374941,start,FluA-SCH_slope_5.csv,FLUA
-2022-11-28,0.034978918918747,start,FluA-SCH_slope_5.csv,FLUA
-2022-12-05,3.5917082878836885e-18,start,FluA-SCH_slope_5.csv,FLUA
-2022-12-12,0.1006355467787209,on going,FluA-SCH_slope_5.csv,FLUA
-2022-12-19,0.3426144166987305,on going,FluA-SCH_slope_5.csv,FLUA
-2022-12-26,0.5171475325312361,on going,FluA-SCH_slope_5.csv,FLUA
-2023-01-02,0.2514375918065445,on going,FluA-SCH_slope_5.csv,FLUA
-2023-01-09,-0.2345658196354468,end,FluA-SCH_slope_5.csv,FLUA
-2023-01-16,-0.517147532531236,end,FluA-SCH_slope_5.csv,FLUA
-2023-01-23,-0.4181961785932573,none,FluA-SCH_slope_5.csv,FLUA
-2023-01-30,-0.1468623138115331,none,FluA-SCH_slope_5.csv,FLUA
-2023-02-06,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-02-13,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-02-20,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-02-27,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-03-06,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-03-13,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-03-20,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-03-27,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-04-03,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-04-10,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-04-17,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-04-24,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-05-01,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-05-08,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-05-15,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-05-22,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-05-29,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-06-05,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-06-12,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-06-19,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-06-26,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-07-03,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-07-10,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-07-17,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-07-24,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-07-31,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-08-07,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-08-14,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-08-21,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-08-28,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-09-04,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-09-11,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-09-18,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-09-25,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-10-02,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-10-09,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-10-16,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-10-23,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-10-30,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-11-06,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-11-13,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-11-20,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-11-27,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-12-04,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-12-11,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-12-18,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-12-25,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-01-01,0.0,on going,FluA-SCH_slope_5.csv,FLUA
-2024-01-08,0.0,on going,FluA-SCH_slope_5.csv,FLUA
-2024-01-15,0.297665606423223,on going,FluA-SCH_slope_5.csv,FLUA
-2024-01-22,0.1488328032116114,on going,FluA-SCH_slope_5.csv,FLUA
-2024-01-29,0.1298502020045468,on going,FluA-SCH_slope_5.csv,FLUA
-2024-02-05,0.1186286139721122,on going,FluA-SCH_slope_5.csv,FLUA
-2024-02-12,-0.1963974483324979,on going,FluA-SCH_slope_5.csv,FLUA
-2024-02-19,-0.0649251010022734,on going,FluA-SCH_slope_5.csv,FLUA
-2024-02-26,-0.1514606860862905,on going,FluA-SCH_slope_5.csv,FLUA
-2024-03-04,-0.1627074791769596,on going,FluA-SCH_slope_5.csv,FLUA
-2024-03-11,3.5917082878836885e-18,on going,FluA-SCH_slope_5.csv,FLUA
-2024-03-18,-0.0398288370044907,on going,FluA-SCH_slope_5.csv,FLUA
-2024-03-25,-0.0796576740089814,on going,FluA-SCH_slope_5.csv,FLUA
-2024-04-01,0.0,on going,FluA-SCH_slope_5.csv,FLUA
-2024-04-08,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-04-15,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-04-22,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-04-29,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-05-06,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-05-13,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-05-20,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-05-27,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-06-03,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-06-10,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-06-17,0.0099938205107479,none,FluA-SCH_slope_5.csv,FLUA
-2024-06-24,0.0049969102553739,none,FluA-SCH_slope_5.csv,FLUA
-2024-07-01,4.489635359854612e-19,none,FluA-SCH_slope_5.csv,FLUA
-2024-07-08,-0.0049969102553739,none,FluA-SCH_slope_5.csv,FLUA
-2024-07-15,-0.0099938205107479,none,FluA-SCH_slope_5.csv,FLUA
-2024-07-22,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-07-29,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-08-05,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-08-12,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-08-19,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-08-26,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-09-02,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-09-09,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-09-16,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-09-23,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-09-30,0.0,start,FluA-SCH_slope_5.csv,FLUA
-2024-10-07,0.0,start,FluA-SCH_slope_5.csv,FLUA
-2024-10-14,0.0,start,FluA-SCH_slope_5.csv,FLUA
-2024-10-21,0.0,start,FluA-SCH_slope_5.csv,FLUA
-2024-10-28,0.0,start,FluA-SCH_slope_5.csv,FLUA
-2024-11-04,0.0,start,FluA-SCH_slope_5.csv,FLUA
-2024-11-11,0.0,start,FluA-SCH_slope_5.csv,FLUA
-2024-11-18,0.0,start,FluA-SCH_slope_5.csv,FLUA
-2024-11-25,0.0263384614113581,start,FluA-SCH_slope_5.csv,FLUA
-2024-12-02,0.0297006962192346,start,FluA-SCH_slope_5.csv,FLUA
-2024-12-09,0.025136579621202,on going,FluA-SCH_slope_5.csv,FLUA
-2024-12-16,0.0729374062861974,on going,FluA-SCH_slope_5.csv,FLUA
-2024-12-23,0.0819026261713606,on going,FluA-SCH_slope_5.csv,FLUA
-2025-01-06,0.0915399313937289,on going,FluA-SCH_slope_5.csv,FLUA
-2025-01-13,0.1446822087958702,on going,FluA-SCH_slope_5.csv,FLUA
-2025-01-20,0.412109981105192,on going,FluA-SCH_slope_5.csv,FLUA
-2025-01-27,1.0,on going,FluA-SCH_slope_5.csv,FLUA
-2025-02-03,0.5304902592130543,on going,FluA-SCH_slope_5.csv,FLUA
-2025-02-10,0.221843846508791,on going,FluA-SCH_slope_5.csv,FLUA
-2025-02-17,-0.4113223516205842,on going,FluA-SCH_slope_5.csv,FLUA
-2025-02-24,-0.5992143365700854,on going,FluA-SCH_slope_5.csv,FLUA
-2025-03-03,-0.2775483486526275,on going,FluA-SCH_slope_5.csv,FLUA
-2025-03-10,-0.5374356870202122,end,FluA-SCH_slope_5.csv,FLUA
-2025-03-17,-0.3467747409228713,end,FluA-SCH_slope_5.csv,FLUA
-2025-03-24,-0.3144501281522527,end,FluA-SCH_slope_5.csv,FLUA
-2025-03-31,-0.0797578415277488,end,FluA-SCH_slope_5.csv,FLUA
-2025-04-07,-0.0418047644052571,end,FluA-SCH_slope_5.csv,FLUA
-2025-04-14,-0.0101304592430241,end,FluA-SCH_slope_5.csv,FLUA
-2025-04-21,0.0038725645350818,end,FluA-SCH_slope_5.csv,FLUA
-2025-04-28,-0.0034994031803873,end,FluA-SCH_slope_5.csv,FLUA
-2025-05-05,-0.0108713708958565,end,FluA-SCH_slope_5.csv,FLUA
-2025-05-12,-0.0077451290701636,end,FluA-SCH_slope_5.csv,FLUA
-2025-05-19,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2025-05-26,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2025-06-02,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2025-06-09,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2025-06-16,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2025-06-23,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2021-11-01,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2021-11-08,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2021-11-15,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2021-11-22,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2021-11-29,0.0680635052855158,none,FluA-SCH_slope_5.csv,FLUA
-2021-12-06,0.0340317526427579,on going,FluA-SCH_slope_5.csv,FLUA
-2021-12-13,3.5917082878836885e-18,on going,FluA-SCH_slope_5.csv,FLUA
-2021-12-20,-0.0340317526427579,on going,FluA-SCH_slope_5.csv,FLUA
-2021-12-27,-0.0680635052855159,on going,FluA-SCH_slope_5.csv,FLUA
-2022-01-03,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-01-10,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-01-17,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-01-24,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-01-31,0.0526103233617294,none,FluA-SCH_slope_5.csv,FLUA
-2022-02-07,0.0263051616808647,none,FluA-SCH_slope_5.csv,FLUA
-2022-02-14,3.5917082878836885e-18,none,FluA-SCH_slope_5.csv,FLUA
-2022-02-21,0.0543307332338042,none,FluA-SCH_slope_5.csv,FLUA
-2022-02-28,-0.012292375904395,start,FluA-SCH_slope_5.csv,FLUA
-2022-03-07,3.5917082878836885e-18,on going,FluA-SCH_slope_5.csv,FLUA
-2022-03-14,0.1469744730710229,on going,FluA-SCH_slope_5.csv,FLUA
-2022-03-21,0.2589578022699512,on going,FluA-SCH_slope_5.csv,FLUA
-2022-03-28,0.3888531843502847,on going,FluA-SCH_slope_5.csv,FLUA
-2022-04-04,0.3462318477465869,on going,FluA-SCH_slope_5.csv,FLUA
-2022-04-11,-0.1567969952057112,on going,FluA-SCH_slope_5.csv,FLUA
-2022-04-18,-0.3788872073654734,end,FluA-SCH_slope_5.csv,FLUA
-2022-04-25,-0.3101633822184192,end,FluA-SCH_slope_5.csv,FLUA
-2022-05-02,-0.2523457238384781,end,FluA-SCH_slope_5.csv,FLUA
-2022-05-09,7.183416575767377e-18,end,FluA-SCH_slope_5.csv,FLUA
-2022-05-16,-0.0545926137272557,end,FluA-SCH_slope_5.csv,FLUA
-2022-05-23,-0.1091852274545115,none,FluA-SCH_slope_5.csv,FLUA
-2022-05-30,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-06-06,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-06-13,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-06-20,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-06-27,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-07-04,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-07-11,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-07-18,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-07-25,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-08-01,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-08-08,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-08-15,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-08-22,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-08-29,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-09-05,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-09-12,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-09-19,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-09-26,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-10-03,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-10-10,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-10-17,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-10-24,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-10-31,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-11-07,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-11-14,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-11-21,0.0699578378374941,none,FluA-SCH_slope_5.csv,FLUA
-2022-11-28,0.034978918918747,none,FluA-SCH_slope_5.csv,FLUA
-2022-12-05,3.5917082878836885e-18,none,FluA-SCH_slope_5.csv,FLUA
-2022-12-12,0.1006355467787209,on going,FluA-SCH_slope_5.csv,FLUA
-2022-12-19,0.3426144166987305,on going,FluA-SCH_slope_5.csv,FLUA
-2022-12-26,0.5171475325312361,on going,FluA-SCH_slope_5.csv,FLUA
-2023-01-02,0.2514375918065445,on going,FluA-SCH_slope_5.csv,FLUA
-2023-01-09,-0.2345658196354468,none,FluA-SCH_slope_5.csv,FLUA
-2023-01-16,-0.517147532531236,none,FluA-SCH_slope_5.csv,FLUA
-2023-01-23,-0.4181961785932573,none,FluA-SCH_slope_5.csv,FLUA
-2023-01-30,-0.1468623138115331,none,FluA-SCH_slope_5.csv,FLUA
-2023-02-06,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-02-13,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-02-20,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-02-27,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-03-06,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-03-13,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-03-20,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-03-27,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-04-03,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-04-10,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-04-17,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-04-24,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-05-01,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-05-08,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-05-15,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-05-22,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-05-29,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-06-05,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-06-12,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-06-19,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-06-26,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-07-03,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-07-10,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-07-17,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-07-24,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-07-31,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-08-07,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-08-14,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-08-21,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-08-28,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-09-04,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-09-11,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-09-18,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-09-25,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-10-02,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-10-09,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-10-16,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-10-23,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-10-30,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-11-06,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-11-13,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-11-20,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-11-27,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-12-04,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-12-11,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-12-18,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-12-25,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-01-01,0.0,start,FluA-SCH_slope_5.csv,FLUA
-2024-01-08,0.0,start,FluA-SCH_slope_5.csv,FLUA
-2024-01-15,0.297665606423223,on going,FluA-SCH_slope_5.csv,FLUA
-2024-01-22,0.1488328032116114,on going,FluA-SCH_slope_5.csv,FLUA
-2024-01-29,0.1298502020045468,on going,FluA-SCH_slope_5.csv,FLUA
-2024-02-05,0.1186286139721122,on going,FluA-SCH_slope_5.csv,FLUA
-2024-02-12,-0.1963974483324979,on going,FluA-SCH_slope_5.csv,FLUA
-2024-02-19,-0.0649251010022734,end,FluA-SCH_slope_5.csv,FLUA
-2024-02-26,-0.1514606860862905,end,FluA-SCH_slope_5.csv,FLUA
-2024-03-04,-0.1627074791769596,none,FluA-SCH_slope_5.csv,FLUA
-2024-03-11,3.5917082878836885e-18,none,FluA-SCH_slope_5.csv,FLUA
-2024-03-18,-0.0398288370044907,none,FluA-SCH_slope_5.csv,FLUA
-2024-03-25,-0.0796576740089814,none,FluA-SCH_slope_5.csv,FLUA
-2024-04-01,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-04-08,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-04-15,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-04-22,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-04-29,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-05-06,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-05-13,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-05-20,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-05-27,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-06-03,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-06-10,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-06-17,0.0099938205107479,on going,FluA-SCH_slope_5.csv,FLUA
-2024-06-24,0.0049969102553739,on going,FluA-SCH_slope_5.csv,FLUA
-2024-07-01,4.489635359854612e-19,on going,FluA-SCH_slope_5.csv,FLUA
-2024-07-08,-0.0049969102553739,on going,FluA-SCH_slope_5.csv,FLUA
-2024-07-15,-0.0099938205107479,none,FluA-SCH_slope_5.csv,FLUA
-2024-07-22,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-07-29,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-08-05,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-08-12,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-08-19,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-08-26,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-09-02,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-09-09,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-09-16,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-09-23,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-09-30,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-10-07,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-10-14,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-10-21,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-10-28,0.0,start,FluA-SCH_slope_5.csv,FLUA
-2024-11-04,0.0,start,FluA-SCH_slope_5.csv,FLUA
-2024-11-11,0.0,start,FluA-SCH_slope_5.csv,FLUA
-2024-11-18,0.0,start,FluA-SCH_slope_5.csv,FLUA
-2024-11-25,0.0263384614113581,start,FluA-SCH_slope_5.csv,FLUA
-2024-12-02,0.0297006962192346,start,FluA-SCH_slope_5.csv,FLUA
-2024-12-09,0.025136579621202,on going,FluA-SCH_slope_5.csv,FLUA
-2024-12-16,0.0729374062861974,on going,FluA-SCH_slope_5.csv,FLUA
-2024-12-23,0.0819026261713606,on going,FluA-SCH_slope_5.csv,FLUA
-2025-01-06,0.0915399313937289,on going,FluA-SCH_slope_5.csv,FLUA
-2025-01-13,0.1446822087958702,on going,FluA-SCH_slope_5.csv,FLUA
-2025-01-20,0.412109981105192,on going,FluA-SCH_slope_5.csv,FLUA
-2025-01-27,1.0,on going,FluA-SCH_slope_5.csv,FLUA
-2025-02-03,0.5304902592130543,on going,FluA-SCH_slope_5.csv,FLUA
-2025-02-10,0.221843846508791,on going,FluA-SCH_slope_5.csv,FLUA
-2025-02-17,-0.4113223516205842,on going,FluA-SCH_slope_5.csv,FLUA
-2025-02-24,-0.5992143365700854,on going,FluA-SCH_slope_5.csv,FLUA
-2025-03-03,-0.2775483486526275,on going,FluA-SCH_slope_5.csv,FLUA
-2025-03-10,-0.5374356870202122,on going,FluA-SCH_slope_5.csv,FLUA
-2025-03-17,-0.3467747409228713,end,FluA-SCH_slope_5.csv,FLUA
-2025-03-24,-0.3144501281522527,end,FluA-SCH_slope_5.csv,FLUA
-2025-03-31,-0.0797578415277488,end,FluA-SCH_slope_5.csv,FLUA
-2025-04-07,-0.0418047644052571,end,FluA-SCH_slope_5.csv,FLUA
-2025-04-14,-0.0101304592430241,end,FluA-SCH_slope_5.csv,FLUA
-2025-04-21,0.0038725645350818,end,FluA-SCH_slope_5.csv,FLUA
-2025-04-28,-0.0034994031803873,end,FluA-SCH_slope_5.csv,FLUA
-2025-05-05,-0.0108713708958565,end,FluA-SCH_slope_5.csv,FLUA
-2025-05-12,-0.0077451290701636,end,FluA-SCH_slope_5.csv,FLUA
-2025-05-19,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2025-05-26,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2025-06-02,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2025-06-09,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2025-06-16,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2025-06-23,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2021-11-01,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2021-11-08,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2021-11-15,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2021-11-22,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2021-11-29,0.0680635052855158,none,FluA-SCH_slope_5.csv,FLUA
-2021-12-06,0.0340317526427579,none,FluA-SCH_slope_5.csv,FLUA
-2021-12-13,3.5917082878836885e-18,none,FluA-SCH_slope_5.csv,FLUA
-2021-12-20,-0.0340317526427579,none,FluA-SCH_slope_5.csv,FLUA
-2021-12-27,-0.0680635052855159,none,FluA-SCH_slope_5.csv,FLUA
-2022-01-03,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-01-10,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-01-17,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-01-24,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-01-31,0.0526103233617294,none,FluA-SCH_slope_5.csv,FLUA
-2022-02-07,0.0263051616808647,none,FluA-SCH_slope_5.csv,FLUA
-2022-02-14,3.5917082878836885e-18,none,FluA-SCH_slope_5.csv,FLUA
-2022-02-21,0.0543307332338042,none,FluA-SCH_slope_5.csv,FLUA
-2022-02-28,-0.012292375904395,none,FluA-SCH_slope_5.csv,FLUA
-2022-03-07,3.5917082878836885e-18,none,FluA-SCH_slope_5.csv,FLUA
-2022-03-14,0.1469744730710229,none,FluA-SCH_slope_5.csv,FLUA
-2022-03-21,0.2589578022699512,none,FluA-SCH_slope_5.csv,FLUA
-2022-03-28,0.3888531843502847,none,FluA-SCH_slope_5.csv,FLUA
-2022-04-04,0.3462318477465869,none,FluA-SCH_slope_5.csv,FLUA
-2022-04-11,-0.1567969952057112,none,FluA-SCH_slope_5.csv,FLUA
-2022-04-18,-0.3788872073654734,none,FluA-SCH_slope_5.csv,FLUA
-2022-04-25,-0.3101633822184192,none,FluA-SCH_slope_5.csv,FLUA
-2022-05-02,-0.2523457238384781,none,FluA-SCH_slope_5.csv,FLUA
-2022-05-09,7.183416575767377e-18,none,FluA-SCH_slope_5.csv,FLUA
-2022-05-16,-0.0545926137272557,none,FluA-SCH_slope_5.csv,FLUA
-2022-05-23,-0.1091852274545115,none,FluA-SCH_slope_5.csv,FLUA
-2022-05-30,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-06-06,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-06-13,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-06-20,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-06-27,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-07-04,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-07-11,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-07-18,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-07-25,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-08-01,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-08-08,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-08-15,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-08-22,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-08-29,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-09-05,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-09-12,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-09-19,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-09-26,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-10-03,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-10-10,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-10-17,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-10-24,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-10-31,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-11-07,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-11-14,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-11-21,0.0699578378374941,none,FluA-SCH_slope_5.csv,FLUA
-2022-11-28,0.034978918918747,none,FluA-SCH_slope_5.csv,FLUA
-2022-12-05,3.5917082878836885e-18,none,FluA-SCH_slope_5.csv,FLUA
-2022-12-12,0.1006355467787209,none,FluA-SCH_slope_5.csv,FLUA
-2022-12-19,0.3426144166987305,none,FluA-SCH_slope_5.csv,FLUA
-2022-12-26,0.5171475325312361,none,FluA-SCH_slope_5.csv,FLUA
-2023-01-02,0.2514375918065445,none,FluA-SCH_slope_5.csv,FLUA
-2023-01-09,-0.2345658196354468,none,FluA-SCH_slope_5.csv,FLUA
-2023-01-16,-0.517147532531236,none,FluA-SCH_slope_5.csv,FLUA
-2023-01-23,-0.4181961785932573,none,FluA-SCH_slope_5.csv,FLUA
-2023-01-30,-0.1468623138115331,none,FluA-SCH_slope_5.csv,FLUA
-2023-02-06,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-02-13,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-02-20,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-02-27,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-03-06,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-03-13,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-03-20,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-03-27,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-04-03,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-04-10,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-04-17,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-04-24,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-05-01,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-05-08,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-05-15,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-05-22,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-05-29,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-06-05,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-06-12,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-06-19,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-06-26,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-07-03,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-07-10,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-07-17,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-07-24,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-07-31,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-08-07,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-08-14,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-08-21,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-08-28,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-09-04,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-09-11,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-09-18,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-09-25,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-10-02,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-10-09,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-10-16,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-10-23,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-10-30,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-11-06,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-11-13,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-11-20,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-11-27,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-12-04,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-12-11,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-12-18,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-12-25,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-01-01,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-01-08,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-01-15,0.297665606423223,none,FluA-SCH_slope_5.csv,FLUA
-2024-01-22,0.1488328032116114,none,FluA-SCH_slope_5.csv,FLUA
-2024-01-29,0.1298502020045468,none,FluA-SCH_slope_5.csv,FLUA
-2024-02-05,0.1186286139721122,none,FluA-SCH_slope_5.csv,FLUA
-2024-02-12,-0.1963974483324979,none,FluA-SCH_slope_5.csv,FLUA
-2024-02-19,-0.0649251010022734,none,FluA-SCH_slope_5.csv,FLUA
-2024-02-26,-0.1514606860862905,none,FluA-SCH_slope_5.csv,FLUA
-2024-03-04,-0.1627074791769596,none,FluA-SCH_slope_5.csv,FLUA
-2024-03-11,3.5917082878836885e-18,none,FluA-SCH_slope_5.csv,FLUA
-2024-03-18,-0.0398288370044907,none,FluA-SCH_slope_5.csv,FLUA
-2024-03-25,-0.0796576740089814,none,FluA-SCH_slope_5.csv,FLUA
-2024-04-01,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-04-08,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-04-15,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-04-22,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-04-29,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-05-06,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-05-13,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-05-20,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-05-27,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-06-03,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-06-10,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-06-17,0.0099938205107479,none,FluA-SCH_slope_5.csv,FLUA
-2024-06-24,0.0049969102553739,none,FluA-SCH_slope_5.csv,FLUA
-2024-07-01,4.489635359854612e-19,none,FluA-SCH_slope_5.csv,FLUA
-2024-07-08,-0.0049969102553739,none,FluA-SCH_slope_5.csv,FLUA
-2024-07-15,-0.0099938205107479,none,FluA-SCH_slope_5.csv,FLUA
-2024-07-22,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-07-29,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-08-05,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-08-12,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-08-19,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-08-26,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-09-02,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-09-09,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-09-16,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-09-23,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-09-30,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-10-07,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-10-14,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-10-21,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-10-28,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-11-04,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-11-11,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-11-18,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-11-25,0.0263384614113581,start,FluA-SCH_slope_5.csv,FLUA
-2024-12-02,0.0297006962192346,start,FluA-SCH_slope_5.csv,FLUA
-2024-12-09,0.025136579621202,start,FluA-SCH_slope_5.csv,FLUA
-2024-12-16,0.0729374062861974,start,FluA-SCH_slope_5.csv,FLUA
-2024-12-23,0.0819026261713606,on going,FluA-SCH_slope_5.csv,FLUA
-2025-01-06,0.0915399313937289,on going,FluA-SCH_slope_5.csv,FLUA
-2025-01-13,0.1446822087958702,on going,FluA-SCH_slope_5.csv,FLUA
-2025-01-20,0.412109981105192,on going,FluA-SCH_slope_5.csv,FLUA
-2025-01-27,1.0,on going,FluA-SCH_slope_5.csv,FLUA
-2025-02-03,0.5304902592130543,on going,FluA-SCH_slope_5.csv,FLUA
-2025-02-10,0.221843846508791,on going,FluA-SCH_slope_5.csv,FLUA
-2025-02-17,-0.4113223516205842,on going,FluA-SCH_slope_5.csv,FLUA
-2025-02-24,-0.5992143365700854,on going,FluA-SCH_slope_5.csv,FLUA
-2025-03-03,-0.2775483486526275,on going,FluA-SCH_slope_5.csv,FLUA
-2025-03-10,-0.5374356870202122,on going,FluA-SCH_slope_5.csv,FLUA
-2025-03-17,-0.3467747409228713,end,FluA-SCH_slope_5.csv,FLUA
-2025-03-24,-0.3144501281522527,end,FluA-SCH_slope_5.csv,FLUA
-2025-03-31,-0.0797578415277488,end,FluA-SCH_slope_5.csv,FLUA
-2025-04-07,-0.0418047644052571,end,FluA-SCH_slope_5.csv,FLUA
-2025-04-14,-0.0101304592430241,end,FluA-SCH_slope_5.csv,FLUA
-2025-04-21,0.0038725645350818,end,FluA-SCH_slope_5.csv,FLUA
-2025-04-28,-0.0034994031803873,end,FluA-SCH_slope_5.csv,FLUA
-2025-05-05,-0.0108713708958565,end,FluA-SCH_slope_5.csv,FLUA
-2025-05-12,-0.0077451290701636,none,FluA-SCH_slope_5.csv,FLUA
-2025-05-19,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2025-05-26,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2025-06-02,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2025-06-09,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2025-06-16,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2025-06-23,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2021-11-01,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2021-11-08,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2021-11-15,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2021-11-22,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2021-11-29,0.0680635052855158,none,FluA-SCH_slope_5.csv,FLUA
-2021-12-06,0.0340317526427579,none,FluA-SCH_slope_5.csv,FLUA
-2021-12-13,3.5917082878836885e-18,none,FluA-SCH_slope_5.csv,FLUA
-2021-12-20,-0.0340317526427579,none,FluA-SCH_slope_5.csv,FLUA
-2021-12-27,-0.0680635052855159,none,FluA-SCH_slope_5.csv,FLUA
-2022-01-03,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-01-10,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-01-17,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-01-24,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-01-31,0.0526103233617294,none,FluA-SCH_slope_5.csv,FLUA
-2022-02-07,0.0263051616808647,none,FluA-SCH_slope_5.csv,FLUA
-2022-02-14,3.5917082878836885e-18,none,FluA-SCH_slope_5.csv,FLUA
-2022-02-21,0.0543307332338042,none,FluA-SCH_slope_5.csv,FLUA
-2022-02-28,-0.012292375904395,none,FluA-SCH_slope_5.csv,FLUA
-2022-03-07,3.5917082878836885e-18,none,FluA-SCH_slope_5.csv,FLUA
-2022-03-14,0.1469744730710229,none,FluA-SCH_slope_5.csv,FLUA
-2022-03-21,0.2589578022699512,none,FluA-SCH_slope_5.csv,FLUA
-2022-03-28,0.3888531843502847,none,FluA-SCH_slope_5.csv,FLUA
-2022-04-04,0.3462318477465869,none,FluA-SCH_slope_5.csv,FLUA
-2022-04-11,-0.1567969952057112,none,FluA-SCH_slope_5.csv,FLUA
-2022-04-18,-0.3788872073654734,none,FluA-SCH_slope_5.csv,FLUA
-2022-04-25,-0.3101633822184192,none,FluA-SCH_slope_5.csv,FLUA
-2022-05-02,-0.2523457238384781,none,FluA-SCH_slope_5.csv,FLUA
-2022-05-09,7.183416575767377e-18,none,FluA-SCH_slope_5.csv,FLUA
-2022-05-16,-0.0545926137272557,none,FluA-SCH_slope_5.csv,FLUA
-2022-05-23,-0.1091852274545115,none,FluA-SCH_slope_5.csv,FLUA
-2022-05-30,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-06-06,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-06-13,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-06-20,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-06-27,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-07-04,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-07-11,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-07-18,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-07-25,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-08-01,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-08-08,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-08-15,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-08-22,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-08-29,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-09-05,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-09-12,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-09-19,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-09-26,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-10-03,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-10-10,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-10-17,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-10-24,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-10-31,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-11-07,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-11-14,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-11-21,0.0699578378374941,none,FluA-SCH_slope_5.csv,FLUA
-2022-11-28,0.034978918918747,none,FluA-SCH_slope_5.csv,FLUA
-2022-12-05,3.5917082878836885e-18,none,FluA-SCH_slope_5.csv,FLUA
-2022-12-12,0.1006355467787209,none,FluA-SCH_slope_5.csv,FLUA
-2022-12-19,0.3426144166987305,none,FluA-SCH_slope_5.csv,FLUA
-2022-12-26,0.5171475325312361,none,FluA-SCH_slope_5.csv,FLUA
-2023-01-02,0.2514375918065445,none,FluA-SCH_slope_5.csv,FLUA
-2023-01-09,-0.2345658196354468,none,FluA-SCH_slope_5.csv,FLUA
-2023-01-16,-0.517147532531236,none,FluA-SCH_slope_5.csv,FLUA
-2023-01-23,-0.4181961785932573,none,FluA-SCH_slope_5.csv,FLUA
-2023-01-30,-0.1468623138115331,none,FluA-SCH_slope_5.csv,FLUA
-2023-02-06,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-02-13,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-02-20,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-02-27,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-03-06,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-03-13,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-03-20,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-03-27,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-04-03,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-04-10,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-04-17,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-04-24,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-05-01,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-05-08,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-05-15,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-05-22,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-05-29,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-06-05,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-06-12,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-06-19,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-06-26,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-07-03,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-07-10,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-07-17,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-07-24,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-07-31,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-08-07,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-08-14,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-08-21,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-08-28,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-09-04,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-09-11,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-09-18,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-09-25,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-10-02,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-10-09,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-10-16,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-10-23,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-10-30,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-11-06,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-11-13,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-11-20,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-11-27,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-12-04,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-12-11,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-12-18,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-12-25,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-01-01,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-01-08,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-01-15,0.297665606423223,none,FluA-SCH_slope_5.csv,FLUA
-2024-01-22,0.1488328032116114,none,FluA-SCH_slope_5.csv,FLUA
-2024-01-29,0.1298502020045468,none,FluA-SCH_slope_5.csv,FLUA
-2024-02-05,0.1186286139721122,none,FluA-SCH_slope_5.csv,FLUA
-2024-02-12,-0.1963974483324979,none,FluA-SCH_slope_5.csv,FLUA
-2024-02-19,-0.0649251010022734,none,FluA-SCH_slope_5.csv,FLUA
-2024-02-26,-0.1514606860862905,none,FluA-SCH_slope_5.csv,FLUA
-2024-03-04,-0.1627074791769596,none,FluA-SCH_slope_5.csv,FLUA
-2024-03-11,3.5917082878836885e-18,none,FluA-SCH_slope_5.csv,FLUA
-2024-03-18,-0.0398288370044907,none,FluA-SCH_slope_5.csv,FLUA
-2024-03-25,-0.0796576740089814,none,FluA-SCH_slope_5.csv,FLUA
-2024-04-01,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-04-08,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-04-15,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-04-22,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-04-29,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-05-06,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-05-13,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-05-20,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-05-27,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-06-03,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-06-10,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-06-17,0.0099938205107479,none,FluA-SCH_slope_5.csv,FLUA
-2024-06-24,0.0049969102553739,none,FluA-SCH_slope_5.csv,FLUA
-2024-07-01,4.489635359854612e-19,none,FluA-SCH_slope_5.csv,FLUA
-2024-07-08,-0.0049969102553739,none,FluA-SCH_slope_5.csv,FLUA
-2024-07-15,-0.0099938205107479,none,FluA-SCH_slope_5.csv,FLUA
-2024-07-22,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-07-29,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-08-05,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-08-12,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-08-19,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-08-26,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-09-02,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-09-09,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-09-16,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-09-23,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-09-30,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-10-07,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-10-14,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-10-21,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-10-28,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-11-04,0.0,start,FluA-SCH_slope_5.csv,FLUA
-2024-11-11,0.0,start,FluA-SCH_slope_5.csv,FLUA
-2024-11-18,0.0,start,FluA-SCH_slope_5.csv,FLUA
-2024-11-25,0.0263384614113581,start,FluA-SCH_slope_5.csv,FLUA
-2024-12-02,0.0297006962192346,start,FluA-SCH_slope_5.csv,FLUA
-2024-12-09,0.025136579621202,start,FluA-SCH_slope_5.csv,FLUA
-2024-12-16,0.0729374062861974,start,FluA-SCH_slope_5.csv,FLUA
-2024-12-23,0.0819026261713606,on going,FluA-SCH_slope_5.csv,FLUA
-2025-01-06,0.0915399313937289,on going,FluA-SCH_slope_5.csv,FLUA
-2025-01-13,0.1446822087958702,on going,FluA-SCH_slope_5.csv,FLUA
-2025-01-20,0.412109981105192,on going,FluA-SCH_slope_5.csv,FLUA
-2025-01-27,1.0,on going,FluA-SCH_slope_5.csv,FLUA
-2025-02-03,0.5304902592130543,on going,FluA-SCH_slope_5.csv,FLUA
-2025-02-10,0.221843846508791,on going,FluA-SCH_slope_5.csv,FLUA
-2025-02-17,-0.4113223516205842,on going,FluA-SCH_slope_5.csv,FLUA
-2025-02-24,-0.5992143365700854,on going,FluA-SCH_slope_5.csv,FLUA
-2025-03-03,-0.2775483486526275,on going,FluA-SCH_slope_5.csv,FLUA
-2025-03-10,-0.5374356870202122,on going,FluA-SCH_slope_5.csv,FLUA
-2025-03-17,-0.3467747409228713,on going,FluA-SCH_slope_5.csv,FLUA
-2025-03-24,-0.3144501281522527,end,FluA-SCH_slope_5.csv,FLUA
-2025-03-31,-0.0797578415277488,end,FluA-SCH_slope_5.csv,FLUA
-2025-04-07,-0.0418047644052571,end,FluA-SCH_slope_5.csv,FLUA
-2025-04-14,-0.0101304592430241,end,FluA-SCH_slope_5.csv,FLUA
-2025-04-21,0.0038725645350818,end,FluA-SCH_slope_5.csv,FLUA
-2025-04-28,-0.0034994031803873,end,FluA-SCH_slope_5.csv,FLUA
-2025-05-05,-0.0108713708958565,end,FluA-SCH_slope_5.csv,FLUA
-2025-05-12,-0.0077451290701636,none,FluA-SCH_slope_5.csv,FLUA
-2025-05-19,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2025-05-26,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2025-06-02,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2025-06-09,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2025-06-16,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2025-06-23,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2021-11-01,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2021-11-08,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2021-11-15,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2021-11-22,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2021-11-29,0.0680635052855158,none,FluA-SCH_slope_5.csv,FLUA
-2021-12-06,0.0340317526427579,none,FluA-SCH_slope_5.csv,FLUA
-2021-12-13,3.5917082878836885e-18,none,FluA-SCH_slope_5.csv,FLUA
-2021-12-20,-0.0340317526427579,none,FluA-SCH_slope_5.csv,FLUA
-2021-12-27,-0.0680635052855159,none,FluA-SCH_slope_5.csv,FLUA
-2022-01-03,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-01-10,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-01-17,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-01-24,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-01-31,0.0526103233617294,none,FluA-SCH_slope_5.csv,FLUA
-2022-02-07,0.0263051616808647,none,FluA-SCH_slope_5.csv,FLUA
-2022-02-14,3.5917082878836885e-18,none,FluA-SCH_slope_5.csv,FLUA
-2022-02-21,0.0543307332338042,none,FluA-SCH_slope_5.csv,FLUA
-2022-02-28,-0.012292375904395,none,FluA-SCH_slope_5.csv,FLUA
-2022-03-07,3.5917082878836885e-18,none,FluA-SCH_slope_5.csv,FLUA
-2022-03-14,0.1469744730710229,none,FluA-SCH_slope_5.csv,FLUA
-2022-03-21,0.2589578022699512,none,FluA-SCH_slope_5.csv,FLUA
-2022-03-28,0.3888531843502847,none,FluA-SCH_slope_5.csv,FLUA
-2022-04-04,0.3462318477465869,none,FluA-SCH_slope_5.csv,FLUA
-2022-04-11,-0.1567969952057112,none,FluA-SCH_slope_5.csv,FLUA
-2022-04-18,-0.3788872073654734,none,FluA-SCH_slope_5.csv,FLUA
-2022-04-25,-0.3101633822184192,none,FluA-SCH_slope_5.csv,FLUA
-2022-05-02,-0.2523457238384781,none,FluA-SCH_slope_5.csv,FLUA
-2022-05-09,7.183416575767377e-18,none,FluA-SCH_slope_5.csv,FLUA
-2022-05-16,-0.0545926137272557,none,FluA-SCH_slope_5.csv,FLUA
-2022-05-23,-0.1091852274545115,none,FluA-SCH_slope_5.csv,FLUA
-2022-05-30,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-06-06,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-06-13,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-06-20,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-06-27,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-07-04,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-07-11,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-07-18,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-07-25,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-08-01,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-08-08,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-08-15,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-08-22,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-08-29,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-09-05,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-09-12,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-09-19,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-09-26,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-10-03,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-10-10,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-10-17,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-10-24,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-10-31,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-11-07,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-11-14,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-11-21,0.0699578378374941,none,FluA-SCH_slope_5.csv,FLUA
-2022-11-28,0.034978918918747,none,FluA-SCH_slope_5.csv,FLUA
-2022-12-05,3.5917082878836885e-18,none,FluA-SCH_slope_5.csv,FLUA
-2022-12-12,0.1006355467787209,none,FluA-SCH_slope_5.csv,FLUA
-2022-12-19,0.3426144166987305,none,FluA-SCH_slope_5.csv,FLUA
-2022-12-26,0.5171475325312361,none,FluA-SCH_slope_5.csv,FLUA
-2023-01-02,0.2514375918065445,none,FluA-SCH_slope_5.csv,FLUA
-2023-01-09,-0.2345658196354468,none,FluA-SCH_slope_5.csv,FLUA
-2023-01-16,-0.517147532531236,none,FluA-SCH_slope_5.csv,FLUA
-2023-01-23,-0.4181961785932573,none,FluA-SCH_slope_5.csv,FLUA
-2023-01-30,-0.1468623138115331,none,FluA-SCH_slope_5.csv,FLUA
-2023-02-06,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-02-13,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-02-20,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-02-27,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-03-06,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-03-13,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-03-20,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-03-27,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-04-03,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-04-10,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-04-17,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-04-24,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-05-01,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-05-08,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-05-15,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-05-22,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-05-29,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-06-05,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-06-12,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-06-19,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-06-26,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-07-03,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-07-10,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-07-17,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-07-24,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-07-31,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-08-07,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-08-14,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-08-21,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-08-28,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-09-04,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-09-11,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-09-18,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-09-25,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-10-02,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-10-09,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-10-16,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-10-23,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-10-30,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-11-06,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-11-13,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-11-20,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-11-27,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-12-04,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-12-11,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-12-18,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-12-25,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-01-01,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-01-08,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-01-15,0.297665606423223,none,FluA-SCH_slope_5.csv,FLUA
-2024-01-22,0.1488328032116114,none,FluA-SCH_slope_5.csv,FLUA
-2024-01-29,0.1298502020045468,none,FluA-SCH_slope_5.csv,FLUA
-2024-02-05,0.1186286139721122,none,FluA-SCH_slope_5.csv,FLUA
-2024-02-12,-0.1963974483324979,none,FluA-SCH_slope_5.csv,FLUA
-2024-02-19,-0.0649251010022734,none,FluA-SCH_slope_5.csv,FLUA
-2024-02-26,-0.1514606860862905,none,FluA-SCH_slope_5.csv,FLUA
-2024-03-04,-0.1627074791769596,none,FluA-SCH_slope_5.csv,FLUA
-2024-03-11,3.5917082878836885e-18,none,FluA-SCH_slope_5.csv,FLUA
-2024-03-18,-0.0398288370044907,none,FluA-SCH_slope_5.csv,FLUA
-2024-03-25,-0.0796576740089814,none,FluA-SCH_slope_5.csv,FLUA
-2024-04-01,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-04-08,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-04-15,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-04-22,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-04-29,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-05-06,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-05-13,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-05-20,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-05-27,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-06-03,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-06-10,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-06-17,0.0099938205107479,none,FluA-SCH_slope_5.csv,FLUA
-2024-06-24,0.0049969102553739,none,FluA-SCH_slope_5.csv,FLUA
-2024-07-01,4.489635359854612e-19,none,FluA-SCH_slope_5.csv,FLUA
-2024-07-08,-0.0049969102553739,none,FluA-SCH_slope_5.csv,FLUA
-2024-07-15,-0.0099938205107479,none,FluA-SCH_slope_5.csv,FLUA
-2024-07-22,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-07-29,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-08-05,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-08-12,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-08-19,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-08-26,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-09-02,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-09-09,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-09-16,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-09-23,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-09-30,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-10-07,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-10-14,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-10-21,0.0,start,FluA-SCH_slope_5.csv,FLUA
-2024-10-28,0.0,start,FluA-SCH_slope_5.csv,FLUA
-2024-11-04,0.0,start,FluA-SCH_slope_5.csv,FLUA
-2024-11-11,0.0,start,FluA-SCH_slope_5.csv,FLUA
-2024-11-18,0.0,start,FluA-SCH_slope_5.csv,FLUA
-2024-11-25,0.0263384614113581,start,FluA-SCH_slope_5.csv,FLUA
-2024-12-02,0.0297006962192346,start,FluA-SCH_slope_5.csv,FLUA
-2024-12-09,0.025136579621202,start,FluA-SCH_slope_5.csv,FLUA
-2024-12-16,0.0729374062861974,on going,FluA-SCH_slope_5.csv,FLUA
-2024-12-23,0.0819026261713606,on going,FluA-SCH_slope_5.csv,FLUA
-2025-01-06,0.0915399313937289,on going,FluA-SCH_slope_5.csv,FLUA
-2025-01-13,0.1446822087958702,on going,FluA-SCH_slope_5.csv,FLUA
-2025-01-20,0.412109981105192,on going,FluA-SCH_slope_5.csv,FLUA
-2025-01-27,1.0,on going,FluA-SCH_slope_5.csv,FLUA
-2025-02-03,0.5304902592130543,on going,FluA-SCH_slope_5.csv,FLUA
-2025-02-10,0.221843846508791,on going,FluA-SCH_slope_5.csv,FLUA
-2025-02-17,-0.4113223516205842,on going,FluA-SCH_slope_5.csv,FLUA
-2025-02-24,-0.5992143365700854,on going,FluA-SCH_slope_5.csv,FLUA
-2025-03-03,-0.2775483486526275,on going,FluA-SCH_slope_5.csv,FLUA
-2025-03-10,-0.5374356870202122,on going,FluA-SCH_slope_5.csv,FLUA
-2025-03-17,-0.3467747409228713,on going,FluA-SCH_slope_5.csv,FLUA
-2025-03-24,-0.3144501281522527,on going,FluA-SCH_slope_5.csv,FLUA
-2025-03-31,-0.0797578415277488,end,FluA-SCH_slope_5.csv,FLUA
-2025-04-07,-0.0418047644052571,end,FluA-SCH_slope_5.csv,FLUA
-2025-04-14,-0.0101304592430241,end,FluA-SCH_slope_5.csv,FLUA
-2025-04-21,0.0038725645350818,end,FluA-SCH_slope_5.csv,FLUA
-2025-04-28,-0.0034994031803873,end,FluA-SCH_slope_5.csv,FLUA
-2025-05-05,-0.0108713708958565,none,FluA-SCH_slope_5.csv,FLUA
-2025-05-12,-0.0077451290701636,none,FluA-SCH_slope_5.csv,FLUA
-2025-05-19,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2025-05-26,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2025-06-02,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2025-06-09,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2025-06-16,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2025-06-23,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2021-11-01,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2021-11-08,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2021-11-15,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2021-11-22,0.0,start,FluA-SCH_slope_5.csv,FLUA
-2021-11-29,0.0680635052855158,start,FluA-SCH_slope_5.csv,FLUA
-2021-12-06,0.0340317526427579,start,FluA-SCH_slope_5.csv,FLUA
-2021-12-13,3.5917082878836885e-18,start,FluA-SCH_slope_5.csv,FLUA
-2021-12-20,-0.0340317526427579,start,FluA-SCH_slope_5.csv,FLUA
-2021-12-27,-0.0680635052855159,start,FluA-SCH_slope_5.csv,FLUA
-2022-01-03,0.0,start,FluA-SCH_slope_5.csv,FLUA
-2022-01-10,0.0,start,FluA-SCH_slope_5.csv,FLUA
-2022-01-17,0.0,start,FluA-SCH_slope_5.csv,FLUA
-2022-01-24,0.0,start,FluA-SCH_slope_5.csv,FLUA
-2022-01-31,0.0526103233617294,start,FluA-SCH_slope_5.csv,FLUA
-2022-02-07,0.0263051616808647,start,FluA-SCH_slope_5.csv,FLUA
-2022-02-14,3.5917082878836885e-18,start,FluA-SCH_slope_5.csv,FLUA
-2022-02-21,0.0543307332338042,start,FluA-SCH_slope_5.csv,FLUA
-2022-02-28,-0.012292375904395,on going,FluA-SCH_slope_5.csv,FLUA
-2022-03-07,3.5917082878836885e-18,on going,FluA-SCH_slope_5.csv,FLUA
-2022-03-14,0.1469744730710229,on going,FluA-SCH_slope_5.csv,FLUA
-2022-03-21,0.2589578022699512,on going,FluA-SCH_slope_5.csv,FLUA
-2022-03-28,0.3888531843502847,on going,FluA-SCH_slope_5.csv,FLUA
-2022-04-04,0.3462318477465869,on going,FluA-SCH_slope_5.csv,FLUA
-2022-04-11,-0.1567969952057112,on going,FluA-SCH_slope_5.csv,FLUA
-2022-04-18,-0.3788872073654734,on going,FluA-SCH_slope_5.csv,FLUA
-2022-04-25,-0.3101633822184192,on going,FluA-SCH_slope_5.csv,FLUA
-2022-05-02,-0.2523457238384781,on going,FluA-SCH_slope_5.csv,FLUA
-2022-05-09,7.183416575767377e-18,end,FluA-SCH_slope_5.csv,FLUA
-2022-05-16,-0.0545926137272557,end,FluA-SCH_slope_5.csv,FLUA
-2022-05-23,-0.1091852274545115,end,FluA-SCH_slope_5.csv,FLUA
-2022-05-30,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-06-06,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-06-13,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-06-20,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-06-27,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-07-04,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-07-11,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-07-18,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-07-25,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-08-01,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-08-08,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-08-15,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-08-22,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-08-29,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-09-05,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-09-12,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-09-19,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-09-26,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-10-03,0.0,start,FluA-SCH_slope_5.csv,FLUA
-2022-10-10,0.0,start,FluA-SCH_slope_5.csv,FLUA
-2022-10-17,0.0,start,FluA-SCH_slope_5.csv,FLUA
-2022-10-24,0.0,start,FluA-SCH_slope_5.csv,FLUA
-2022-10-31,0.0,start,FluA-SCH_slope_5.csv,FLUA
-2022-11-07,0.0,start,FluA-SCH_slope_5.csv,FLUA
-2022-11-14,0.0,start,FluA-SCH_slope_5.csv,FLUA
-2022-11-21,0.0699578378374941,start,FluA-SCH_slope_5.csv,FLUA
-2022-11-28,0.034978918918747,start,FluA-SCH_slope_5.csv,FLUA
-2022-12-05,3.5917082878836885e-18,start,FluA-SCH_slope_5.csv,FLUA
-2022-12-12,0.1006355467787209,on going,FluA-SCH_slope_5.csv,FLUA
-2022-12-19,0.3426144166987305,on going,FluA-SCH_slope_5.csv,FLUA
-2022-12-26,0.5171475325312361,on going,FluA-SCH_slope_5.csv,FLUA
-2023-01-02,0.2514375918065445,on going,FluA-SCH_slope_5.csv,FLUA
-2023-01-09,-0.2345658196354468,on going,FluA-SCH_slope_5.csv,FLUA
-2023-01-16,-0.517147532531236,end,FluA-SCH_slope_5.csv,FLUA
-2023-01-23,-0.4181961785932573,end,FluA-SCH_slope_5.csv,FLUA
-2023-01-30,-0.1468623138115331,end,FluA-SCH_slope_5.csv,FLUA
-2023-02-06,0.0,end,FluA-SCH_slope_5.csv,FLUA
-2023-02-13,0.0,end,FluA-SCH_slope_5.csv,FLUA
-2023-02-20,0.0,end,FluA-SCH_slope_5.csv,FLUA
-2023-02-27,0.0,end,FluA-SCH_slope_5.csv,FLUA
-2023-03-06,0.0,end,FluA-SCH_slope_5.csv,FLUA
-2023-03-13,0.0,end,FluA-SCH_slope_5.csv,FLUA
-2023-03-20,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-03-27,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-04-03,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-04-10,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-04-17,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-04-24,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-05-01,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-05-08,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-05-15,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-05-22,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-05-29,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-06-05,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-06-12,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-06-19,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-06-26,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-07-03,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-07-10,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-07-17,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-07-24,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-07-31,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-08-07,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-08-14,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-08-21,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-08-28,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-09-04,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-09-11,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-09-18,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-09-25,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-10-02,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-10-09,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-10-16,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-10-23,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-10-30,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-11-06,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-11-13,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-11-20,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-11-27,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-12-04,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-12-11,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-12-18,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-12-25,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-01-01,0.0,on going,FluA-SCH_slope_5.csv,FLUA
-2024-01-08,0.0,on going,FluA-SCH_slope_5.csv,FLUA
-2024-01-15,0.297665606423223,on going,FluA-SCH_slope_5.csv,FLUA
-2024-01-22,0.1488328032116114,on going,FluA-SCH_slope_5.csv,FLUA
-2024-01-29,0.1298502020045468,on going,FluA-SCH_slope_5.csv,FLUA
-2024-02-05,0.1186286139721122,on going,FluA-SCH_slope_5.csv,FLUA
-2024-02-12,-0.1963974483324979,on going,FluA-SCH_slope_5.csv,FLUA
-2024-02-19,-0.0649251010022734,on going,FluA-SCH_slope_5.csv,FLUA
-2024-02-26,-0.1514606860862905,on going,FluA-SCH_slope_5.csv,FLUA
-2024-03-04,-0.1627074791769596,end,FluA-SCH_slope_5.csv,FLUA
-2024-03-11,3.5917082878836885e-18,end,FluA-SCH_slope_5.csv,FLUA
-2024-03-18,-0.0398288370044907,end,FluA-SCH_slope_5.csv,FLUA
-2024-03-25,-0.0796576740089814,end,FluA-SCH_slope_5.csv,FLUA
-2024-04-01,0.0,end,FluA-SCH_slope_5.csv,FLUA
-2024-04-08,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-04-15,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-04-22,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-04-29,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-05-06,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-05-13,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-05-20,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-05-27,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-06-03,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-06-10,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-06-17,0.0099938205107479,none,FluA-SCH_slope_5.csv,FLUA
-2024-06-24,0.0049969102553739,none,FluA-SCH_slope_5.csv,FLUA
-2024-07-01,4.489635359854612e-19,none,FluA-SCH_slope_5.csv,FLUA
-2024-07-08,-0.0049969102553739,none,FluA-SCH_slope_5.csv,FLUA
-2024-07-15,-0.0099938205107479,none,FluA-SCH_slope_5.csv,FLUA
-2024-07-22,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-07-29,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-08-05,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-08-12,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-08-19,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-08-26,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-09-02,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-09-09,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-09-16,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-09-23,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-09-30,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-10-07,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-10-14,0.0,start,FluA-SCH_slope_5.csv,FLUA
-2024-10-21,0.0,start,FluA-SCH_slope_5.csv,FLUA
-2024-10-28,0.0,start,FluA-SCH_slope_5.csv,FLUA
-2024-11-04,0.0,start,FluA-SCH_slope_5.csv,FLUA
-2024-11-11,0.0,start,FluA-SCH_slope_5.csv,FLUA
-2024-11-18,0.0,start,FluA-SCH_slope_5.csv,FLUA
-2024-11-25,0.0263384614113581,start,FluA-SCH_slope_5.csv,FLUA
-2024-12-02,0.0297006962192346,on going,FluA-SCH_slope_5.csv,FLUA
-2024-12-09,0.025136579621202,on going,FluA-SCH_slope_5.csv,FLUA
-2024-12-16,0.0729374062861974,on going,FluA-SCH_slope_5.csv,FLUA
-2024-12-23,0.0819026261713606,on going,FluA-SCH_slope_5.csv,FLUA
-2025-01-06,0.0915399313937289,on going,FluA-SCH_slope_5.csv,FLUA
-2025-01-13,0.1446822087958702,on going,FluA-SCH_slope_5.csv,FLUA
-2025-01-20,0.412109981105192,on going,FluA-SCH_slope_5.csv,FLUA
-2025-01-27,1.0,on going,FluA-SCH_slope_5.csv,FLUA
-2025-02-03,0.5304902592130543,on going,FluA-SCH_slope_5.csv,FLUA
-2025-02-10,0.221843846508791,on going,FluA-SCH_slope_5.csv,FLUA
-2025-02-17,-0.4113223516205842,on going,FluA-SCH_slope_5.csv,FLUA
-2025-02-24,-0.5992143365700854,on going,FluA-SCH_slope_5.csv,FLUA
-2025-03-03,-0.2775483486526275,on going,FluA-SCH_slope_5.csv,FLUA
-2025-03-10,-0.5374356870202122,on going,FluA-SCH_slope_5.csv,FLUA
-2025-03-17,-0.3467747409228713,on going,FluA-SCH_slope_5.csv,FLUA
-2025-03-24,-0.3144501281522527,end,FluA-SCH_slope_5.csv,FLUA
-2025-03-31,-0.0797578415277488,end,FluA-SCH_slope_5.csv,FLUA
-2025-04-07,-0.0418047644052571,end,FluA-SCH_slope_5.csv,FLUA
-2025-04-14,-0.0101304592430241,end,FluA-SCH_slope_5.csv,FLUA
-2025-04-21,0.0038725645350818,end,FluA-SCH_slope_5.csv,FLUA
-2025-04-28,-0.0034994031803873,end,FluA-SCH_slope_5.csv,FLUA
-2025-05-05,-0.0108713708958565,end,FluA-SCH_slope_5.csv,FLUA
-2025-05-12,-0.0077451290701636,end,FluA-SCH_slope_5.csv,FLUA
-2025-05-19,0.0,end,FluA-SCH_slope_5.csv,FLUA
-2025-05-26,0.0,end,FluA-SCH_slope_5.csv,FLUA
-2025-06-02,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2025-06-09,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2025-06-16,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2025-06-23,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2021-11-01,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2021-11-08,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2021-11-15,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2021-11-22,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2021-11-29,0.0680635052855158,none,FluA-SCH_slope_5.csv,FLUA
-2021-12-06,0.0340317526427579,start,FluA-SCH_slope_5.csv,FLUA
-2021-12-13,3.5917082878836885e-18,start,FluA-SCH_slope_5.csv,FLUA
-2021-12-20,-0.0340317526427579,on going,FluA-SCH_slope_5.csv,FLUA
-2021-12-27,-0.0680635052855159,on going,FluA-SCH_slope_5.csv,FLUA
-2022-01-03,0.0,on going,FluA-SCH_slope_5.csv,FLUA
-2022-01-10,0.0,on going,FluA-SCH_slope_5.csv,FLUA
-2022-01-17,0.0,on going,FluA-SCH_slope_5.csv,FLUA
-2022-01-24,0.0,on going,FluA-SCH_slope_5.csv,FLUA
-2022-01-31,0.0526103233617294,on going,FluA-SCH_slope_5.csv,FLUA
-2022-02-07,0.0263051616808647,on going,FluA-SCH_slope_5.csv,FLUA
-2022-02-14,3.5917082878836885e-18,on going,FluA-SCH_slope_5.csv,FLUA
-2022-02-21,0.0543307332338042,on going,FluA-SCH_slope_5.csv,FLUA
-2022-02-28,-0.012292375904395,on going,FluA-SCH_slope_5.csv,FLUA
-2022-03-07,3.5917082878836885e-18,on going,FluA-SCH_slope_5.csv,FLUA
-2022-03-14,0.1469744730710229,on going,FluA-SCH_slope_5.csv,FLUA
-2022-03-21,0.2589578022699512,on going,FluA-SCH_slope_5.csv,FLUA
-2022-03-28,0.3888531843502847,on going,FluA-SCH_slope_5.csv,FLUA
-2022-04-04,0.3462318477465869,on going,FluA-SCH_slope_5.csv,FLUA
-2022-04-11,-0.1567969952057112,on going,FluA-SCH_slope_5.csv,FLUA
-2022-04-18,-0.3788872073654734,on going,FluA-SCH_slope_5.csv,FLUA
-2022-04-25,-0.3101633822184192,none,FluA-SCH_slope_5.csv,FLUA
-2022-05-02,-0.2523457238384781,none,FluA-SCH_slope_5.csv,FLUA
-2022-05-09,7.183416575767377e-18,none,FluA-SCH_slope_5.csv,FLUA
-2022-05-16,-0.0545926137272557,none,FluA-SCH_slope_5.csv,FLUA
-2022-05-23,-0.1091852274545115,none,FluA-SCH_slope_5.csv,FLUA
-2022-05-30,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-06-06,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-06-13,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-06-20,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-06-27,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-07-04,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-07-11,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-07-18,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-07-25,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-08-01,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-08-08,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-08-15,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-08-22,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-08-29,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-09-05,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-09-12,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-09-19,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-09-26,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-10-03,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-10-10,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-10-17,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-10-24,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-10-31,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-11-07,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-11-14,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-11-21,0.0699578378374941,none,FluA-SCH_slope_5.csv,FLUA
-2022-11-28,0.034978918918747,none,FluA-SCH_slope_5.csv,FLUA
-2022-12-05,3.5917082878836885e-18,on going,FluA-SCH_slope_5.csv,FLUA
-2022-12-12,0.1006355467787209,on going,FluA-SCH_slope_5.csv,FLUA
-2022-12-19,0.3426144166987305,on going,FluA-SCH_slope_5.csv,FLUA
-2022-12-26,0.5171475325312361,on going,FluA-SCH_slope_5.csv,FLUA
-2023-01-02,0.2514375918065445,on going,FluA-SCH_slope_5.csv,FLUA
-2023-01-09,-0.2345658196354468,on going,FluA-SCH_slope_5.csv,FLUA
-2023-01-16,-0.517147532531236,on going,FluA-SCH_slope_5.csv,FLUA
-2023-01-23,-0.4181961785932573,none,FluA-SCH_slope_5.csv,FLUA
-2023-01-30,-0.1468623138115331,none,FluA-SCH_slope_5.csv,FLUA
-2023-02-06,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-02-13,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-02-20,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-02-27,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-03-06,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-03-13,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-03-20,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-03-27,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-04-03,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-04-10,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-04-17,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-04-24,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-05-01,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-05-08,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-05-15,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-05-22,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-05-29,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-06-05,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-06-12,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-06-19,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-06-26,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-07-03,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-07-10,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-07-17,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-07-24,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-07-31,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-08-07,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-08-14,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-08-21,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-08-28,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-09-04,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-09-11,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-09-18,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-09-25,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-10-02,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-10-09,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-10-16,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-10-23,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-10-30,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-11-06,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-11-13,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-11-20,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-11-27,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-12-04,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-12-11,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-12-18,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-12-25,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-01-01,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-01-08,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-01-15,0.297665606423223,none,FluA-SCH_slope_5.csv,FLUA
-2024-01-22,0.1488328032116114,none,FluA-SCH_slope_5.csv,FLUA
-2024-01-29,0.1298502020045468,none,FluA-SCH_slope_5.csv,FLUA
-2024-02-05,0.1186286139721122,none,FluA-SCH_slope_5.csv,FLUA
-2024-02-12,-0.1963974483324979,none,FluA-SCH_slope_5.csv,FLUA
-2024-02-19,-0.0649251010022734,none,FluA-SCH_slope_5.csv,FLUA
-2024-02-26,-0.1514606860862905,none,FluA-SCH_slope_5.csv,FLUA
-2024-03-04,-0.1627074791769596,none,FluA-SCH_slope_5.csv,FLUA
-2024-03-11,3.5917082878836885e-18,none,FluA-SCH_slope_5.csv,FLUA
-2024-03-18,-0.0398288370044907,none,FluA-SCH_slope_5.csv,FLUA
-2024-03-25,-0.0796576740089814,none,FluA-SCH_slope_5.csv,FLUA
-2024-04-01,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-04-08,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-04-15,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-04-22,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-04-29,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-05-06,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-05-13,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-05-20,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-05-27,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-06-03,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-06-10,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-06-17,0.0099938205107479,none,FluA-SCH_slope_5.csv,FLUA
-2024-06-24,0.0049969102553739,none,FluA-SCH_slope_5.csv,FLUA
-2024-07-01,4.489635359854612e-19,none,FluA-SCH_slope_5.csv,FLUA
-2024-07-08,-0.0049969102553739,none,FluA-SCH_slope_5.csv,FLUA
-2024-07-15,-0.0099938205107479,none,FluA-SCH_slope_5.csv,FLUA
-2024-07-22,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-07-29,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-08-05,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-08-12,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-08-19,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-08-26,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-09-02,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-09-09,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-09-16,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-09-23,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-09-30,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-10-07,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-10-14,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-10-21,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-10-28,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-11-04,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-11-11,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-11-18,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-11-25,0.0263384614113581,start,FluA-SCH_slope_5.csv,FLUA
-2024-12-02,0.0297006962192346,start,FluA-SCH_slope_5.csv,FLUA
-2024-12-09,0.025136579621202,start,FluA-SCH_slope_5.csv,FLUA
-2024-12-16,0.0729374062861974,start,FluA-SCH_slope_5.csv,FLUA
-2024-12-23,0.0819026261713606,on going,FluA-SCH_slope_5.csv,FLUA
-2025-01-06,0.0915399313937289,on going,FluA-SCH_slope_5.csv,FLUA
-2025-01-13,0.1446822087958702,on going,FluA-SCH_slope_5.csv,FLUA
-2025-01-20,0.412109981105192,on going,FluA-SCH_slope_5.csv,FLUA
-2025-01-27,1.0,on going,FluA-SCH_slope_5.csv,FLUA
-2025-02-03,0.5304902592130543,on going,FluA-SCH_slope_5.csv,FLUA
-2025-02-10,0.221843846508791,on going,FluA-SCH_slope_5.csv,FLUA
-2025-02-17,-0.4113223516205842,on going,FluA-SCH_slope_5.csv,FLUA
-2025-02-24,-0.5992143365700854,on going,FluA-SCH_slope_5.csv,FLUA
-2025-03-03,-0.2775483486526275,on going,FluA-SCH_slope_5.csv,FLUA
-2025-03-10,-0.5374356870202122,on going,FluA-SCH_slope_5.csv,FLUA
-2025-03-17,-0.3467747409228713,end,FluA-SCH_slope_5.csv,FLUA
-2025-03-24,-0.3144501281522527,end,FluA-SCH_slope_5.csv,FLUA
-2025-03-31,-0.0797578415277488,end,FluA-SCH_slope_5.csv,FLUA
-2025-04-07,-0.0418047644052571,end,FluA-SCH_slope_5.csv,FLUA
-2025-04-14,-0.0101304592430241,end,FluA-SCH_slope_5.csv,FLUA
-2025-04-21,0.0038725645350818,end,FluA-SCH_slope_5.csv,FLUA
-2025-04-28,-0.0034994031803873,end,FluA-SCH_slope_5.csv,FLUA
-2025-05-05,-0.0108713708958565,end,FluA-SCH_slope_5.csv,FLUA
-2025-05-12,-0.0077451290701636,none,FluA-SCH_slope_5.csv,FLUA
-2025-05-19,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2025-05-26,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2025-06-02,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2025-06-09,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2025-06-16,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2025-06-23,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2021-11-01,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2021-11-08,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2021-11-15,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2021-11-22,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2021-11-29,0.0680635052855158,none,FluA-SCH_slope_5.csv,FLUA
-2021-12-06,0.0340317526427579,none,FluA-SCH_slope_5.csv,FLUA
-2021-12-13,3.5917082878836885e-18,none,FluA-SCH_slope_5.csv,FLUA
-2021-12-20,-0.0340317526427579,none,FluA-SCH_slope_5.csv,FLUA
-2021-12-27,-0.0680635052855159,none,FluA-SCH_slope_5.csv,FLUA
-2022-01-03,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-01-10,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-01-17,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-01-24,0.0,start,FluA-SCH_slope_5.csv,FLUA
-2022-01-31,0.0526103233617294,start,FluA-SCH_slope_5.csv,FLUA
-2022-02-07,0.0263051616808647,start,FluA-SCH_slope_5.csv,FLUA
-2022-02-14,3.5917082878836885e-18,start,FluA-SCH_slope_5.csv,FLUA
-2022-02-21,0.0543307332338042,start,FluA-SCH_slope_5.csv,FLUA
-2022-02-28,-0.012292375904395,start,FluA-SCH_slope_5.csv,FLUA
-2022-03-07,3.5917082878836885e-18,on going,FluA-SCH_slope_5.csv,FLUA
-2022-03-14,0.1469744730710229,on going,FluA-SCH_slope_5.csv,FLUA
-2022-03-21,0.2589578022699512,on going,FluA-SCH_slope_5.csv,FLUA
-2022-03-28,0.3888531843502847,on going,FluA-SCH_slope_5.csv,FLUA
-2022-04-04,0.3462318477465869,on going,FluA-SCH_slope_5.csv,FLUA
-2022-04-11,-0.1567969952057112,on going,FluA-SCH_slope_5.csv,FLUA
-2022-04-18,-0.3788872073654734,on going,FluA-SCH_slope_5.csv,FLUA
-2022-04-25,-0.3101633822184192,on going,FluA-SCH_slope_5.csv,FLUA
-2022-05-02,-0.2523457238384781,end,FluA-SCH_slope_5.csv,FLUA
-2022-05-09,7.183416575767377e-18,end,FluA-SCH_slope_5.csv,FLUA
-2022-05-16,-0.0545926137272557,none,FluA-SCH_slope_5.csv,FLUA
-2022-05-23,-0.1091852274545115,none,FluA-SCH_slope_5.csv,FLUA
-2022-05-30,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-06-06,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-06-13,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-06-20,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-06-27,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-07-04,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-07-11,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-07-18,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-07-25,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-08-01,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-08-08,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-08-15,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-08-22,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-08-29,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-09-05,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-09-12,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-09-19,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-09-26,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-10-03,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-10-10,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-10-17,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-10-24,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-10-31,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-11-07,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-11-14,0.0,start,FluA-SCH_slope_5.csv,FLUA
-2022-11-21,0.0699578378374941,start,FluA-SCH_slope_5.csv,FLUA
-2022-11-28,0.034978918918747,start,FluA-SCH_slope_5.csv,FLUA
-2022-12-05,3.5917082878836885e-18,on going,FluA-SCH_slope_5.csv,FLUA
-2022-12-12,0.1006355467787209,on going,FluA-SCH_slope_5.csv,FLUA
-2022-12-19,0.3426144166987305,on going,FluA-SCH_slope_5.csv,FLUA
-2022-12-26,0.5171475325312361,on going,FluA-SCH_slope_5.csv,FLUA
-2023-01-02,0.2514375918065445,on going,FluA-SCH_slope_5.csv,FLUA
-2023-01-09,-0.2345658196354468,on going,FluA-SCH_slope_5.csv,FLUA
-2023-01-16,-0.517147532531236,end,FluA-SCH_slope_5.csv,FLUA
-2023-01-23,-0.4181961785932573,none,FluA-SCH_slope_5.csv,FLUA
-2023-01-30,-0.1468623138115331,none,FluA-SCH_slope_5.csv,FLUA
-2023-02-06,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-02-13,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-02-20,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-02-27,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-03-06,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-03-13,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-03-20,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-03-27,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-04-03,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-04-10,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-04-17,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-04-24,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-05-01,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-05-08,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-05-15,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-05-22,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-05-29,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-06-05,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-06-12,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-06-19,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-06-26,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-07-03,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-07-10,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-07-17,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-07-24,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-07-31,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-08-07,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-08-14,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-08-21,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-08-28,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-09-04,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-09-11,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-09-18,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-09-25,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-10-02,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-10-09,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-10-16,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-10-23,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-10-30,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-11-06,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-11-13,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-11-20,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-11-27,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-12-04,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-12-11,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-12-18,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-12-25,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-01-01,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-01-08,0.0,on going,FluA-SCH_slope_5.csv,FLUA
-2024-01-15,0.297665606423223,on going,FluA-SCH_slope_5.csv,FLUA
-2024-01-22,0.1488328032116114,on going,FluA-SCH_slope_5.csv,FLUA
-2024-01-29,0.1298502020045468,on going,FluA-SCH_slope_5.csv,FLUA
-2024-02-05,0.1186286139721122,on going,FluA-SCH_slope_5.csv,FLUA
-2024-02-12,-0.1963974483324979,on going,FluA-SCH_slope_5.csv,FLUA
-2024-02-19,-0.0649251010022734,on going,FluA-SCH_slope_5.csv,FLUA
-2024-02-26,-0.1514606860862905,on going,FluA-SCH_slope_5.csv,FLUA
-2024-03-04,-0.1627074791769596,end,FluA-SCH_slope_5.csv,FLUA
-2024-03-11,3.5917082878836885e-18,end,FluA-SCH_slope_5.csv,FLUA
-2024-03-18,-0.0398288370044907,none,FluA-SCH_slope_5.csv,FLUA
-2024-03-25,-0.0796576740089814,none,FluA-SCH_slope_5.csv,FLUA
-2024-04-01,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-04-08,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-04-15,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-04-22,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-04-29,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-05-06,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-05-13,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-05-20,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-05-27,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-06-03,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-06-10,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-06-17,0.0099938205107479,none,FluA-SCH_slope_5.csv,FLUA
-2024-06-24,0.0049969102553739,none,FluA-SCH_slope_5.csv,FLUA
-2024-07-01,4.489635359854612e-19,none,FluA-SCH_slope_5.csv,FLUA
-2024-07-08,-0.0049969102553739,none,FluA-SCH_slope_5.csv,FLUA
-2024-07-15,-0.0099938205107479,none,FluA-SCH_slope_5.csv,FLUA
-2024-07-22,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-07-29,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-08-05,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-08-12,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-08-19,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-08-26,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-09-02,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-09-09,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-09-16,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-09-23,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-09-30,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-10-07,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-10-14,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-10-21,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-10-28,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-11-04,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-11-11,0.0,start,FluA-SCH_slope_5.csv,FLUA
-2024-11-18,0.0,start,FluA-SCH_slope_5.csv,FLUA
-2024-11-25,0.0263384614113581,start,FluA-SCH_slope_5.csv,FLUA
-2024-12-02,0.0297006962192346,start,FluA-SCH_slope_5.csv,FLUA
-2024-12-09,0.025136579621202,start,FluA-SCH_slope_5.csv,FLUA
-2024-12-16,0.0729374062861974,start,FluA-SCH_slope_5.csv,FLUA
-2024-12-23,0.0819026261713606,start,FluA-SCH_slope_5.csv,FLUA
-2025-01-06,0.0915399313937289,start,FluA-SCH_slope_5.csv,FLUA
-2025-01-13,0.1446822087958702,on going,FluA-SCH_slope_5.csv,FLUA
-2025-01-20,0.412109981105192,on going,FluA-SCH_slope_5.csv,FLUA
-2025-01-27,1.0,on going,FluA-SCH_slope_5.csv,FLUA
-2025-02-03,0.5304902592130543,on going,FluA-SCH_slope_5.csv,FLUA
-2025-02-10,0.221843846508791,on going,FluA-SCH_slope_5.csv,FLUA
-2025-02-17,-0.4113223516205842,on going,FluA-SCH_slope_5.csv,FLUA
-2025-02-24,-0.5992143365700854,on going,FluA-SCH_slope_5.csv,FLUA
-2025-03-03,-0.2775483486526275,on going,FluA-SCH_slope_5.csv,FLUA
-2025-03-10,-0.5374356870202122,on going,FluA-SCH_slope_5.csv,FLUA
-2025-03-17,-0.3467747409228713,end,FluA-SCH_slope_5.csv,FLUA
-2025-03-24,-0.3144501281522527,end,FluA-SCH_slope_5.csv,FLUA
-2025-03-31,-0.0797578415277488,end,FluA-SCH_slope_5.csv,FLUA
-2025-04-07,-0.0418047644052571,end,FluA-SCH_slope_5.csv,FLUA
-2025-04-14,-0.0101304592430241,end,FluA-SCH_slope_5.csv,FLUA
-2025-04-21,0.0038725645350818,end,FluA-SCH_slope_5.csv,FLUA
-2025-04-28,-0.0034994031803873,end,FluA-SCH_slope_5.csv,FLUA
-2025-05-05,-0.0108713708958565,none,FluA-SCH_slope_5.csv,FLUA
-2025-05-12,-0.0077451290701636,none,FluA-SCH_slope_5.csv,FLUA
-2025-05-19,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2025-05-26,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2025-06-02,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2025-06-09,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2025-06-16,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2025-06-23,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2021-11-01,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2021-11-08,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2021-11-15,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2021-11-22,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2021-11-29,0.0680635052855158,none,FluA-SCH_slope_5.csv,FLUA
-2021-12-06,0.0340317526427579,none,FluA-SCH_slope_5.csv,FLUA
-2021-12-13,3.5917082878836885e-18,none,FluA-SCH_slope_5.csv,FLUA
-2021-12-20,-0.0340317526427579,none,FluA-SCH_slope_5.csv,FLUA
-2021-12-27,-0.0680635052855159,none,FluA-SCH_slope_5.csv,FLUA
-2022-01-03,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-01-10,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-01-17,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-01-24,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-01-31,0.0526103233617294,none,FluA-SCH_slope_5.csv,FLUA
-2022-02-07,0.0263051616808647,none,FluA-SCH_slope_5.csv,FLUA
-2022-02-14,3.5917082878836885e-18,none,FluA-SCH_slope_5.csv,FLUA
-2022-02-21,0.0543307332338042,none,FluA-SCH_slope_5.csv,FLUA
-2022-02-28,-0.012292375904395,none,FluA-SCH_slope_5.csv,FLUA
-2022-03-07,3.5917082878836885e-18,none,FluA-SCH_slope_5.csv,FLUA
-2022-03-14,0.1469744730710229,none,FluA-SCH_slope_5.csv,FLUA
-2022-03-21,0.2589578022699512,none,FluA-SCH_slope_5.csv,FLUA
-2022-03-28,0.3888531843502847,none,FluA-SCH_slope_5.csv,FLUA
-2022-04-04,0.3462318477465869,none,FluA-SCH_slope_5.csv,FLUA
-2022-04-11,-0.1567969952057112,none,FluA-SCH_slope_5.csv,FLUA
-2022-04-18,-0.3788872073654734,none,FluA-SCH_slope_5.csv,FLUA
-2022-04-25,-0.3101633822184192,none,FluA-SCH_slope_5.csv,FLUA
-2022-05-02,-0.2523457238384781,none,FluA-SCH_slope_5.csv,FLUA
-2022-05-09,7.183416575767377e-18,none,FluA-SCH_slope_5.csv,FLUA
-2022-05-16,-0.0545926137272557,none,FluA-SCH_slope_5.csv,FLUA
-2022-05-23,-0.1091852274545115,none,FluA-SCH_slope_5.csv,FLUA
-2022-05-30,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-06-06,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-06-13,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-06-20,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-06-27,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-07-04,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-07-11,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-07-18,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-07-25,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-08-01,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-08-08,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-08-15,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-08-22,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-08-29,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-09-05,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-09-12,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-09-19,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-09-26,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-10-03,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-10-10,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-10-17,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-10-24,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-10-31,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-11-07,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-11-14,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2022-11-21,0.0699578378374941,none,FluA-SCH_slope_5.csv,FLUA
-2022-11-28,0.034978918918747,none,FluA-SCH_slope_5.csv,FLUA
-2022-12-05,3.5917082878836885e-18,none,FluA-SCH_slope_5.csv,FLUA
-2022-12-12,0.1006355467787209,none,FluA-SCH_slope_5.csv,FLUA
-2022-12-19,0.3426144166987305,none,FluA-SCH_slope_5.csv,FLUA
-2022-12-26,0.5171475325312361,none,FluA-SCH_slope_5.csv,FLUA
-2023-01-02,0.2514375918065445,none,FluA-SCH_slope_5.csv,FLUA
-2023-01-09,-0.2345658196354468,none,FluA-SCH_slope_5.csv,FLUA
-2023-01-16,-0.517147532531236,none,FluA-SCH_slope_5.csv,FLUA
-2023-01-23,-0.4181961785932573,none,FluA-SCH_slope_5.csv,FLUA
-2023-01-30,-0.1468623138115331,none,FluA-SCH_slope_5.csv,FLUA
-2023-02-06,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-02-13,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-02-20,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-02-27,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-03-06,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-03-13,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-03-20,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-03-27,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-04-03,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-04-10,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-04-17,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-04-24,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-05-01,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-05-08,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-05-15,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-05-22,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-05-29,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-06-05,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-06-12,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-06-19,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-06-26,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-07-03,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-07-10,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-07-17,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-07-24,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-07-31,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-08-07,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-08-14,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-08-21,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-08-28,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-09-04,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-09-11,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-09-18,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-09-25,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-10-02,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-10-09,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-10-16,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-10-23,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-10-30,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-11-06,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-11-13,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-11-20,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-11-27,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-12-04,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-12-11,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-12-18,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2023-12-25,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-01-01,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-01-08,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-01-15,0.297665606423223,none,FluA-SCH_slope_5.csv,FLUA
-2024-01-22,0.1488328032116114,none,FluA-SCH_slope_5.csv,FLUA
-2024-01-29,0.1298502020045468,none,FluA-SCH_slope_5.csv,FLUA
-2024-02-05,0.1186286139721122,none,FluA-SCH_slope_5.csv,FLUA
-2024-02-12,-0.1963974483324979,none,FluA-SCH_slope_5.csv,FLUA
-2024-02-19,-0.0649251010022734,none,FluA-SCH_slope_5.csv,FLUA
-2024-02-26,-0.1514606860862905,none,FluA-SCH_slope_5.csv,FLUA
-2024-03-04,-0.1627074791769596,none,FluA-SCH_slope_5.csv,FLUA
-2024-03-11,3.5917082878836885e-18,none,FluA-SCH_slope_5.csv,FLUA
-2024-03-18,-0.0398288370044907,none,FluA-SCH_slope_5.csv,FLUA
-2024-03-25,-0.0796576740089814,none,FluA-SCH_slope_5.csv,FLUA
-2024-04-01,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-04-08,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-04-15,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-04-22,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-04-29,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-05-06,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-05-13,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-05-20,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-05-27,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-06-03,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-06-10,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-06-17,0.0099938205107479,none,FluA-SCH_slope_5.csv,FLUA
-2024-06-24,0.0049969102553739,none,FluA-SCH_slope_5.csv,FLUA
-2024-07-01,4.489635359854612e-19,none,FluA-SCH_slope_5.csv,FLUA
-2024-07-08,-0.0049969102553739,none,FluA-SCH_slope_5.csv,FLUA
-2024-07-15,-0.0099938205107479,none,FluA-SCH_slope_5.csv,FLUA
-2024-07-22,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-07-29,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-08-05,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-08-12,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-08-19,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-08-26,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-09-02,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-09-09,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-09-16,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-09-23,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-09-30,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-10-07,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-10-14,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-10-21,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2024-10-28,0.0,start,FluA-SCH_slope_5.csv,FLUA
-2024-11-04,0.0,start,FluA-SCH_slope_5.csv,FLUA
-2024-11-11,0.0,start,FluA-SCH_slope_5.csv,FLUA
-2024-11-18,0.0,start,FluA-SCH_slope_5.csv,FLUA
-2024-11-25,0.0263384614113581,start,FluA-SCH_slope_5.csv,FLUA
-2024-12-02,0.0297006962192346,start,FluA-SCH_slope_5.csv,FLUA
-2024-12-09,0.025136579621202,on going,FluA-SCH_slope_5.csv,FLUA
-2024-12-16,0.0729374062861974,on going,FluA-SCH_slope_5.csv,FLUA
-2024-12-23,0.0819026261713606,on going,FluA-SCH_slope_5.csv,FLUA
-2025-01-06,0.0915399313937289,on going,FluA-SCH_slope_5.csv,FLUA
-2025-01-13,0.1446822087958702,on going,FluA-SCH_slope_5.csv,FLUA
-2025-01-20,0.412109981105192,on going,FluA-SCH_slope_5.csv,FLUA
-2025-01-27,1.0,on going,FluA-SCH_slope_5.csv,FLUA
-2025-02-03,0.5304902592130543,on going,FluA-SCH_slope_5.csv,FLUA
-2025-02-10,0.221843846508791,on going,FluA-SCH_slope_5.csv,FLUA
-2025-02-17,-0.4113223516205842,on going,FluA-SCH_slope_5.csv,FLUA
-2025-02-24,-0.5992143365700854,on going,FluA-SCH_slope_5.csv,FLUA
-2025-03-03,-0.2775483486526275,on going,FluA-SCH_slope_5.csv,FLUA
-2025-03-10,-0.5374356870202122,on going,FluA-SCH_slope_5.csv,FLUA
-2025-03-17,-0.3467747409228713,on going,FluA-SCH_slope_5.csv,FLUA
-2025-03-24,-0.3144501281522527,end,FluA-SCH_slope_5.csv,FLUA
-2025-03-31,-0.0797578415277488,end,FluA-SCH_slope_5.csv,FLUA
-2025-04-07,-0.0418047644052571,end,FluA-SCH_slope_5.csv,FLUA
-2025-04-14,-0.0101304592430241,end,FluA-SCH_slope_5.csv,FLUA
-2025-04-21,0.0038725645350818,end,FluA-SCH_slope_5.csv,FLUA
-2025-04-28,-0.0034994031803873,end,FluA-SCH_slope_5.csv,FLUA
-2025-05-05,-0.0108713708958565,end,FluA-SCH_slope_5.csv,FLUA
-2025-05-12,-0.0077451290701636,none,FluA-SCH_slope_5.csv,FLUA
-2025-05-19,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2025-05-26,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2025-06-02,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2025-06-09,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2025-06-16,0.0,none,FluA-SCH_slope_5.csv,FLUA
-2025-06-23,0.0,none,FluA-SCH_slope_5.csv,FLUA
+time,rna_copies,label
+2021-11-01,0.0,FluA
+2021-11-08,0.0,FluA
+2021-11-15,0.0,FluA
+2021-11-22,0.0,FluA
+2021-11-29,0.06806350528551589,FluA
+2021-12-06,0.03403175264275794,FluA
+2021-12-13,3.5917082878836885e-18,FluA
+2021-12-20,-0.034031752642757936,FluA
+2021-12-27,-0.06806350528551593,FluA
+2022-01-03,0.0,FluA
+2022-01-10,0.0,FluA
+2022-01-17,0.0,FluA
+2022-01-24,0.0,FluA
+2022-01-31,0.05261032336172949,FluA
+2022-02-07,0.02630516168086475,FluA
+2022-02-14,3.5917082878836885e-18,FluA
+2022-02-21,0.05433073323380421,FluA
+2022-02-28,-0.012292375904395013,FluA
+2022-03-07,3.5917082878836885e-18,FluA
+2022-03-14,0.1469744730710229,FluA
+2022-03-21,0.2589578022699512,FluA
+2022-03-28,0.3888531843502847,FluA
+2022-04-04,0.34623184774658694,FluA
+2022-04-11,-0.15679699520571122,FluA
+2022-04-18,-0.37888720736547343,FluA
+2022-04-25,-0.3101633822184192,FluA
+2022-05-02,-0.2523457238384781,FluA
+2022-05-09,7.183416575767377e-18,FluA
+2022-05-16,-0.05459261372725574,FluA
+2022-05-23,-0.10918522745451155,FluA
+2022-05-30,0.0,FluA
+2022-06-06,0.0,FluA
+2022-06-13,0.0,FluA
+2022-06-20,0.0,FluA
+2022-06-27,0.0,FluA
+2022-07-04,0.0,FluA
+2022-07-11,0.0,FluA
+2022-07-18,0.0,FluA
+2022-07-25,0.0,FluA
+2022-08-01,0.0,FluA
+2022-08-08,0.0,FluA
+2022-08-15,0.0,FluA
+2022-08-22,0.0,FluA
+2022-08-29,0.0,FluA
+2022-09-05,0.0,FluA
+2022-09-12,0.0,FluA
+2022-09-19,0.0,FluA
+2022-09-26,0.0,FluA
+2022-10-03,0.0,FluA
+2022-10-10,0.0,FluA
+2022-10-17,0.0,FluA
+2022-10-24,0.0,FluA
+2022-10-31,0.0,FluA
+2022-11-07,0.0,FluA
+2022-11-14,0.0,FluA
+2022-11-21,0.06995783783749414,FluA
+2022-11-28,0.03497891891874707,FluA
+2022-12-05,3.5917082878836885e-18,FluA
+2022-12-12,0.10063554677872098,FluA
+2022-12-19,0.34261441669873055,FluA
+2022-12-26,0.5171475325312361,FluA
+2023-01-02,0.25143759180654457,FluA
+2023-01-09,-0.23456581963544684,FluA
+2023-01-16,-0.517147532531236,FluA
+2023-01-23,-0.4181961785932573,FluA
+2023-01-30,-0.14686231381153314,FluA
+2023-02-06,0.0,FluA
+2023-02-13,0.0,FluA
+2023-02-20,0.0,FluA
+2023-02-27,0.0,FluA
+2023-03-06,0.0,FluA
+2023-03-13,0.0,FluA
+2023-03-20,0.0,FluA
+2023-03-27,0.0,FluA
+2023-04-03,0.0,FluA
+2023-04-10,0.0,FluA
+2023-04-17,0.0,FluA
+2023-04-24,0.0,FluA
+2023-05-01,0.0,FluA
+2023-05-08,0.0,FluA
+2023-05-15,0.0,FluA
+2023-05-22,0.0,FluA
+2023-05-29,0.0,FluA
+2023-06-05,0.0,FluA
+2023-06-12,0.0,FluA
+2023-06-19,0.0,FluA
+2023-06-26,0.0,FluA
+2023-07-03,0.0,FluA
+2023-07-10,0.0,FluA
+2023-07-17,0.0,FluA
+2023-07-24,0.0,FluA
+2023-07-31,0.0,FluA
+2023-08-07,0.0,FluA
+2023-08-14,0.0,FluA
+2023-08-21,0.0,FluA
+2023-08-28,0.0,FluA
+2023-09-04,0.0,FluA
+2023-09-11,0.0,FluA
+2023-09-18,0.0,FluA
+2023-09-25,0.0,FluA
+2023-10-02,0.0,FluA
+2023-10-09,0.0,FluA
+2023-10-16,0.0,FluA
+2023-10-23,0.0,FluA
+2023-10-30,0.0,FluA
+2023-11-06,0.0,FluA
+2023-11-13,0.0,FluA
+2023-11-20,0.0,FluA
+2023-11-27,0.0,FluA
+2023-12-04,0.0,FluA
+2023-12-11,0.0,FluA
+2023-12-18,0.0,FluA
+2023-12-25,0.0,FluA
+2024-01-01,0.0,FluA
+2024-01-08,0.0,FluA
+2024-01-15,0.297665606423223,FluA
+2024-01-22,0.1488328032116114,FluA
+2024-01-29,0.12985020200454683,FluA
+2024-02-05,0.11862861397211226,FluA
+2024-02-12,-0.1963974483324979,FluA
+2024-02-19,-0.06492510100227342,FluA
+2024-02-26,-0.15146068608629057,FluA
+2024-03-04,-0.16270747917695963,FluA
+2024-03-11,3.5917082878836885e-18,FluA
+2024-03-18,-0.0398288370044907,FluA
+2024-03-25,-0.07965767400898141,FluA
+2024-04-01,0.0,FluA
+2024-04-08,0.0,FluA
+2024-04-15,0.0,FluA
+2024-04-22,0.0,FluA
+2024-04-29,0.0,FluA
+2024-05-06,0.0,FluA
+2024-05-13,0.0,FluA
+2024-05-20,0.0,FluA
+2024-05-27,0.0,FluA
+2024-06-03,0.0,FluA
+2024-06-10,0.0,FluA
+2024-06-17,0.00999382051074791,FluA
+2024-06-24,0.004996910255373956,FluA
+2024-07-01,4.489635359854611e-19,FluA
+2024-07-08,-0.004996910255373955,FluA
+2024-07-15,-0.009993820510747915,FluA
+2024-07-22,0.0,FluA
+2024-07-29,0.0,FluA
+2024-08-05,0.0,FluA
+2024-08-12,0.0,FluA
+2024-08-19,0.0,FluA
+2024-08-26,0.0,FluA
+2024-09-02,0.0,FluA
+2024-09-09,0.0,FluA
+2024-09-16,0.0,FluA
+2024-09-23,0.0,FluA
+2024-09-30,0.0,FluA
+2024-10-07,0.0,FluA
+2024-10-14,0.0,FluA
+2024-10-21,0.0,FluA
+2024-10-28,0.0,FluA
+2024-11-04,0.0,FluA
+2024-11-11,0.0,FluA
+2024-11-18,0.0,FluA
+2024-11-25,0.02633846141135813,FluA
+2024-12-02,0.0297006962192346,FluA
+2024-12-09,0.025136579621202044,FluA
+2024-12-16,0.07293740628619746,FluA
+2024-12-23,0.08190262617136067,FluA
+2025-01-06,0.09153993139372892,FluA
+2025-01-13,0.1446822087958702,FluA
+2025-01-20,0.412109981105192,FluA
+2025-01-27,1.0,FluA
+2025-02-03,0.5304902592130543,FluA
+2025-02-10,0.221843846508791,FluA
+2025-02-17,-0.4113223516205842,FluA
+2025-02-24,-0.5992143365700854,FluA
+2025-03-03,-0.2775483486526275,FluA
+2025-03-10,-0.5374356870202122,FluA
+2025-03-17,-0.34677474092287136,FluA
+2025-03-24,-0.3144501281522527,FluA
+2025-03-31,-0.0797578415277488,FluA
+2025-04-07,-0.041804764405257135,FluA
+2025-04-14,-0.01013045924302414,FluA
+2025-04-21,0.0038725645350818154,FluA
+2025-04-28,-0.003499403180387377,FluA
+2025-05-05,-0.010871370895856571,FluA
+2025-05-12,-0.007745129070163628,FluA
+2025-05-19,0.0,FluA
+2025-05-26,0.0,FluA
+2025-06-02,0.0,FluA
+2025-06-09,0.0,FluA
+2025-06-16,0.0,FluA
+2025-06-23,0.0,FluA

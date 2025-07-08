@@ -1,1693 +1,189 @@
-time,rna_copies,label,filename,virus
-2021-11-15,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2021-11-22,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2021-11-29,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2021-12-06,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2021-12-13,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2021-12-20,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2021-12-27,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-01-03,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-01-10,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-01-17,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-01-24,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-01-31,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-02-07,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-02-14,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-02-21,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-02-28,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-03-07,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-03-14,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-03-21,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-03-28,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-04-04,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-04-11,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-04-18,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-04-25,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-05-02,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-05-09,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-05-16,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-05-23,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-05-30,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-06-06,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-06-13,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-06-20,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-06-27,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-07-04,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-07-11,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-07-18,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-07-25,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-08-01,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-08-08,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-08-15,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-08-22,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-08-29,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-09-05,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-09-12,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-09-19,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-09-26,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-10-03,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-10-10,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-10-17,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-10-24,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-10-31,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-11-07,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-11-14,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2022-11-21,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2022-11-28,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2022-12-05,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2022-12-12,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-12-19,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-12-26,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2023-01-02,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2023-01-09,0.0,end,FluA-BLE_slope_7.csv,FLUA
-2023-01-16,0.0,end,FluA-BLE_slope_7.csv,FLUA
-2023-01-23,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-01-30,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-02-06,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-02-13,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-02-20,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-02-27,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-03-06,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-03-13,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-03-20,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-03-27,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-04-03,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-04-10,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-04-17,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-04-24,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-05-01,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-05-08,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-05-15,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-05-22,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-05-29,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-06-05,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-06-12,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-06-19,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-06-26,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-07-03,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-07-10,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-07-17,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-07-24,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-07-31,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-08-07,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-08-14,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-08-21,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-08-28,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-09-04,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-09-11,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-09-18,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-09-25,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-10-02,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-10-09,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-10-16,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-10-23,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-10-30,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-11-06,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-11-13,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-11-20,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-11-27,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-12-04,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-12-11,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-12-18,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-12-25,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-01-01,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2024-01-08,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2024-01-15,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2024-01-22,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2024-01-29,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2024-02-05,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2024-02-12,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2024-02-19,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2024-02-26,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2024-03-04,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2024-03-11,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2024-03-18,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2024-03-25,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2024-04-01,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2024-04-08,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-04-15,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-04-22,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-04-29,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-05-06,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-05-13,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-05-20,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-05-27,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-06-03,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-06-10,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-06-17,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-06-24,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-07-01,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-07-08,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-07-15,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-07-22,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-07-29,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-08-05,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-08-12,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-08-19,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-08-26,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-09-02,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-09-09,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-09-16,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-09-23,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-09-30,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2024-10-07,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2024-10-14,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2024-10-21,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2024-10-28,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2024-11-04,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2024-11-11,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2024-11-18,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2024-11-25,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2024-12-02,0.0193635205878796,start,FluA-BLE_slope_7.csv,FLUA
-2024-12-09,0.0351942142952322,on going,FluA-BLE_slope_7.csv,FLUA
-2024-12-16,0.1627546179981688,on going,FluA-BLE_slope_7.csv,FLUA
-2024-12-23,0.2431672514492533,on going,FluA-BLE_slope_7.csv,FLUA
-2025-01-06,0.2764321146484857,on going,FluA-BLE_slope_7.csv,FLUA
-2025-01-13,0.2103165573174492,on going,FluA-BLE_slope_7.csv,FLUA
-2025-01-20,0.1337569114596607,on going,FluA-BLE_slope_7.csv,FLUA
-2025-01-27,0.9349341555967032,on going,FluA-BLE_slope_7.csv,FLUA
-2025-02-03,0.524556498332868,on going,FluA-BLE_slope_7.csv,FLUA
-2025-02-10,0.3093091690658481,on going,FluA-BLE_slope_7.csv,FLUA
-2025-02-17,0.2434584833733361,on going,FluA-BLE_slope_7.csv,FLUA
-2025-02-24,-0.0462489022120513,on going,FluA-BLE_slope_7.csv,FLUA
-2025-03-03,-0.5259583796712033,on going,FluA-BLE_slope_7.csv,FLUA
-2025-03-10,-1.0,end,FluA-BLE_slope_7.csv,FLUA
-2025-03-17,-0.2518678658105524,end,FluA-BLE_slope_7.csv,FLUA
-2025-03-24,-0.380749722323438,end,FluA-BLE_slope_7.csv,FLUA
-2025-03-31,-0.4073313963235214,end,FluA-BLE_slope_7.csv,FLUA
-2025-04-07,-0.1793423447152072,end,FluA-BLE_slope_7.csv,FLUA
-2025-04-14,-0.0748080882193095,end,FluA-BLE_slope_7.csv,FLUA
-2025-04-21,-0.0511243264992978,end,FluA-BLE_slope_7.csv,FLUA
-2025-04-28,-0.0616743848572878,end,FluA-BLE_slope_7.csv,FLUA
-2025-05-05,-0.0471902034880881,end,FluA-BLE_slope_7.csv,FLUA
-2025-05-12,-0.0317947462392676,end,FluA-BLE_slope_7.csv,FLUA
-2025-05-19,-0.0179349205675178,none,FluA-BLE_slope_7.csv,FLUA
-2025-05-26,-0.0068872852792569,none,FluA-BLE_slope_7.csv,FLUA
-2025-06-02,-0.0103309279188854,none,FluA-BLE_slope_7.csv,FLUA
-2025-06-09,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2025-06-16,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2025-06-23,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2021-11-15,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2021-11-22,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2021-11-29,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2021-12-06,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2021-12-13,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2021-12-20,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2021-12-27,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-01-03,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-01-10,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-01-17,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-01-24,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-01-31,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-02-07,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-02-14,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-02-21,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-02-28,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2022-03-07,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-03-14,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-03-21,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-03-28,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-04-04,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-04-11,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-04-18,0.0,end,FluA-BLE_slope_7.csv,FLUA
-2022-04-25,0.0,end,FluA-BLE_slope_7.csv,FLUA
-2022-05-02,0.0,end,FluA-BLE_slope_7.csv,FLUA
-2022-05-09,0.0,end,FluA-BLE_slope_7.csv,FLUA
-2022-05-16,0.0,end,FluA-BLE_slope_7.csv,FLUA
-2022-05-23,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-05-30,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-06-06,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-06-13,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-06-20,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-06-27,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-07-04,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-07-11,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-07-18,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-07-25,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-08-01,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-08-08,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-08-15,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-08-22,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-08-29,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-09-05,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-09-12,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-09-19,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-09-26,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-10-03,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-10-10,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-10-17,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-10-24,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-10-31,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-11-07,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-11-14,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-11-21,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-11-28,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-12-05,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-12-12,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-12-19,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-12-26,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2023-01-02,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2023-01-09,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-01-16,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-01-23,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-01-30,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-02-06,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-02-13,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-02-20,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-02-27,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-03-06,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-03-13,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-03-20,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-03-27,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-04-03,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-04-10,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-04-17,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-04-24,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-05-01,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-05-08,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-05-15,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-05-22,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-05-29,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-06-05,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-06-12,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-06-19,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-06-26,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-07-03,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-07-10,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-07-17,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-07-24,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-07-31,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-08-07,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-08-14,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-08-21,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-08-28,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-09-04,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-09-11,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-09-18,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-09-25,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-10-02,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-10-09,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-10-16,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-10-23,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-10-30,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-11-06,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-11-13,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-11-20,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-11-27,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-12-04,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-12-11,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-12-18,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-12-25,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-01-01,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2024-01-08,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2024-01-15,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2024-01-22,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2024-01-29,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2024-02-05,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2024-02-12,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2024-02-19,0.0,end,FluA-BLE_slope_7.csv,FLUA
-2024-02-26,0.0,end,FluA-BLE_slope_7.csv,FLUA
-2024-03-04,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-03-11,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-03-18,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-03-25,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-04-01,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-04-08,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-04-15,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-04-22,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-04-29,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-05-06,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-05-13,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-05-20,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-05-27,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-06-03,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-06-10,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-06-17,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2024-06-24,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2024-07-01,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2024-07-08,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2024-07-15,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-07-22,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-07-29,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-08-05,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-08-12,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-08-19,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-08-26,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-09-02,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-09-09,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-09-16,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-09-23,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-09-30,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-10-07,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-10-14,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-10-21,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-10-28,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2024-11-04,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2024-11-11,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2024-11-18,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2024-11-25,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2024-12-02,0.0193635205878796,start,FluA-BLE_slope_7.csv,FLUA
-2024-12-09,0.0351942142952322,on going,FluA-BLE_slope_7.csv,FLUA
-2024-12-16,0.1627546179981688,on going,FluA-BLE_slope_7.csv,FLUA
-2024-12-23,0.2431672514492533,on going,FluA-BLE_slope_7.csv,FLUA
-2025-01-06,0.2764321146484857,on going,FluA-BLE_slope_7.csv,FLUA
-2025-01-13,0.2103165573174492,on going,FluA-BLE_slope_7.csv,FLUA
-2025-01-20,0.1337569114596607,on going,FluA-BLE_slope_7.csv,FLUA
-2025-01-27,0.9349341555967032,on going,FluA-BLE_slope_7.csv,FLUA
-2025-02-03,0.524556498332868,on going,FluA-BLE_slope_7.csv,FLUA
-2025-02-10,0.3093091690658481,on going,FluA-BLE_slope_7.csv,FLUA
-2025-02-17,0.2434584833733361,on going,FluA-BLE_slope_7.csv,FLUA
-2025-02-24,-0.0462489022120513,on going,FluA-BLE_slope_7.csv,FLUA
-2025-03-03,-0.5259583796712033,on going,FluA-BLE_slope_7.csv,FLUA
-2025-03-10,-1.0,on going,FluA-BLE_slope_7.csv,FLUA
-2025-03-17,-0.2518678658105524,end,FluA-BLE_slope_7.csv,FLUA
-2025-03-24,-0.380749722323438,end,FluA-BLE_slope_7.csv,FLUA
-2025-03-31,-0.4073313963235214,end,FluA-BLE_slope_7.csv,FLUA
-2025-04-07,-0.1793423447152072,end,FluA-BLE_slope_7.csv,FLUA
-2025-04-14,-0.0748080882193095,end,FluA-BLE_slope_7.csv,FLUA
-2025-04-21,-0.0511243264992978,end,FluA-BLE_slope_7.csv,FLUA
-2025-04-28,-0.0616743848572878,end,FluA-BLE_slope_7.csv,FLUA
-2025-05-05,-0.0471902034880881,end,FluA-BLE_slope_7.csv,FLUA
-2025-05-12,-0.0317947462392676,end,FluA-BLE_slope_7.csv,FLUA
-2025-05-19,-0.0179349205675178,none,FluA-BLE_slope_7.csv,FLUA
-2025-05-26,-0.0068872852792569,none,FluA-BLE_slope_7.csv,FLUA
-2025-06-02,-0.0103309279188854,none,FluA-BLE_slope_7.csv,FLUA
-2025-06-09,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2025-06-16,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2025-06-23,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2021-11-15,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2021-11-22,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2021-11-29,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2021-12-06,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2021-12-13,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2021-12-20,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2021-12-27,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-01-03,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-01-10,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-01-17,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-01-24,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-01-31,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-02-07,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-02-14,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-02-21,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-02-28,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-03-07,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-03-14,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-03-21,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-03-28,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-04-04,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-04-11,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-04-18,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-04-25,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-05-02,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-05-09,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-05-16,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-05-23,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-05-30,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-06-06,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-06-13,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-06-20,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-06-27,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-07-04,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-07-11,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-07-18,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-07-25,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-08-01,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-08-08,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-08-15,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-08-22,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-08-29,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-09-05,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-09-12,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-09-19,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-09-26,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-10-03,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-10-10,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-10-17,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-10-24,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-10-31,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-11-07,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-11-14,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-11-21,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-11-28,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-12-05,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-12-12,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-12-19,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-12-26,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-01-02,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-01-09,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-01-16,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-01-23,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-01-30,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-02-06,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-02-13,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-02-20,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-02-27,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-03-06,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-03-13,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-03-20,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-03-27,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-04-03,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-04-10,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-04-17,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-04-24,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-05-01,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-05-08,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-05-15,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-05-22,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-05-29,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-06-05,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-06-12,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-06-19,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-06-26,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-07-03,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-07-10,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-07-17,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-07-24,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-07-31,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-08-07,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-08-14,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-08-21,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-08-28,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-09-04,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-09-11,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-09-18,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-09-25,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-10-02,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-10-09,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-10-16,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-10-23,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-10-30,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-11-06,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-11-13,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-11-20,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-11-27,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-12-04,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-12-11,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-12-18,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-12-25,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-01-01,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-01-08,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-01-15,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-01-22,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-01-29,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-02-05,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-02-12,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-02-19,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-02-26,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-03-04,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-03-11,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-03-18,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-03-25,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-04-01,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-04-08,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-04-15,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-04-22,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-04-29,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-05-06,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-05-13,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-05-20,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-05-27,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-06-03,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-06-10,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-06-17,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-06-24,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-07-01,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-07-08,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-07-15,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-07-22,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-07-29,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-08-05,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-08-12,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-08-19,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-08-26,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-09-02,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-09-09,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-09-16,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-09-23,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-09-30,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-10-07,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-10-14,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-10-21,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-10-28,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-11-04,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-11-11,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-11-18,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-11-25,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2024-12-02,0.0193635205878796,start,FluA-BLE_slope_7.csv,FLUA
-2024-12-09,0.0351942142952322,start,FluA-BLE_slope_7.csv,FLUA
-2024-12-16,0.1627546179981688,start,FluA-BLE_slope_7.csv,FLUA
-2024-12-23,0.2431672514492533,on going,FluA-BLE_slope_7.csv,FLUA
-2025-01-06,0.2764321146484857,on going,FluA-BLE_slope_7.csv,FLUA
-2025-01-13,0.2103165573174492,on going,FluA-BLE_slope_7.csv,FLUA
-2025-01-20,0.1337569114596607,on going,FluA-BLE_slope_7.csv,FLUA
-2025-01-27,0.9349341555967032,on going,FluA-BLE_slope_7.csv,FLUA
-2025-02-03,0.524556498332868,on going,FluA-BLE_slope_7.csv,FLUA
-2025-02-10,0.3093091690658481,on going,FluA-BLE_slope_7.csv,FLUA
-2025-02-17,0.2434584833733361,on going,FluA-BLE_slope_7.csv,FLUA
-2025-02-24,-0.0462489022120513,on going,FluA-BLE_slope_7.csv,FLUA
-2025-03-03,-0.5259583796712033,on going,FluA-BLE_slope_7.csv,FLUA
-2025-03-10,-1.0,on going,FluA-BLE_slope_7.csv,FLUA
-2025-03-17,-0.2518678658105524,end,FluA-BLE_slope_7.csv,FLUA
-2025-03-24,-0.380749722323438,end,FluA-BLE_slope_7.csv,FLUA
-2025-03-31,-0.4073313963235214,end,FluA-BLE_slope_7.csv,FLUA
-2025-04-07,-0.1793423447152072,end,FluA-BLE_slope_7.csv,FLUA
-2025-04-14,-0.0748080882193095,end,FluA-BLE_slope_7.csv,FLUA
-2025-04-21,-0.0511243264992978,end,FluA-BLE_slope_7.csv,FLUA
-2025-04-28,-0.0616743848572878,end,FluA-BLE_slope_7.csv,FLUA
-2025-05-05,-0.0471902034880881,end,FluA-BLE_slope_7.csv,FLUA
-2025-05-12,-0.0317947462392676,none,FluA-BLE_slope_7.csv,FLUA
-2025-05-19,-0.0179349205675178,none,FluA-BLE_slope_7.csv,FLUA
-2025-05-26,-0.0068872852792569,none,FluA-BLE_slope_7.csv,FLUA
-2025-06-02,-0.0103309279188854,none,FluA-BLE_slope_7.csv,FLUA
-2025-06-09,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2025-06-16,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2025-06-23,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2021-11-15,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2021-11-22,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2021-11-29,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2021-12-06,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2021-12-13,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2021-12-20,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2021-12-27,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-01-03,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-01-10,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-01-17,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-01-24,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-01-31,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-02-07,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-02-14,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-02-21,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-02-28,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-03-07,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-03-14,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-03-21,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-03-28,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-04-04,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-04-11,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-04-18,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-04-25,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-05-02,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-05-09,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-05-16,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-05-23,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-05-30,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-06-06,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-06-13,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-06-20,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-06-27,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-07-04,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-07-11,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-07-18,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-07-25,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-08-01,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-08-08,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-08-15,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-08-22,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-08-29,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-09-05,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-09-12,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-09-19,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-09-26,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-10-03,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-10-10,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-10-17,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-10-24,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-10-31,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-11-07,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-11-14,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-11-21,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-11-28,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-12-05,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-12-12,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-12-19,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-12-26,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-01-02,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-01-09,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-01-16,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-01-23,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-01-30,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-02-06,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-02-13,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-02-20,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-02-27,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-03-06,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-03-13,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-03-20,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-03-27,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-04-03,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-04-10,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-04-17,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-04-24,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-05-01,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-05-08,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-05-15,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-05-22,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-05-29,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-06-05,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-06-12,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-06-19,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-06-26,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-07-03,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-07-10,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-07-17,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-07-24,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-07-31,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-08-07,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-08-14,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-08-21,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-08-28,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-09-04,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-09-11,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-09-18,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-09-25,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-10-02,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-10-09,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-10-16,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-10-23,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-10-30,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-11-06,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-11-13,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-11-20,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-11-27,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-12-04,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-12-11,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-12-18,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-12-25,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-01-01,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-01-08,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-01-15,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-01-22,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-01-29,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-02-05,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-02-12,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-02-19,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-02-26,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-03-04,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-03-11,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-03-18,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-03-25,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-04-01,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-04-08,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-04-15,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-04-22,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-04-29,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-05-06,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-05-13,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-05-20,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-05-27,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-06-03,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-06-10,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-06-17,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-06-24,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-07-01,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-07-08,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-07-15,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-07-22,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-07-29,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-08-05,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-08-12,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-08-19,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-08-26,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-09-02,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-09-09,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-09-16,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-09-23,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-09-30,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-10-07,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-10-14,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-10-21,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-10-28,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-11-04,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2024-11-11,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2024-11-18,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2024-11-25,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2024-12-02,0.0193635205878796,start,FluA-BLE_slope_7.csv,FLUA
-2024-12-09,0.0351942142952322,start,FluA-BLE_slope_7.csv,FLUA
-2024-12-16,0.1627546179981688,start,FluA-BLE_slope_7.csv,FLUA
-2024-12-23,0.2431672514492533,on going,FluA-BLE_slope_7.csv,FLUA
-2025-01-06,0.2764321146484857,on going,FluA-BLE_slope_7.csv,FLUA
-2025-01-13,0.2103165573174492,on going,FluA-BLE_slope_7.csv,FLUA
-2025-01-20,0.1337569114596607,on going,FluA-BLE_slope_7.csv,FLUA
-2025-01-27,0.9349341555967032,on going,FluA-BLE_slope_7.csv,FLUA
-2025-02-03,0.524556498332868,on going,FluA-BLE_slope_7.csv,FLUA
-2025-02-10,0.3093091690658481,on going,FluA-BLE_slope_7.csv,FLUA
-2025-02-17,0.2434584833733361,on going,FluA-BLE_slope_7.csv,FLUA
-2025-02-24,-0.0462489022120513,on going,FluA-BLE_slope_7.csv,FLUA
-2025-03-03,-0.5259583796712033,on going,FluA-BLE_slope_7.csv,FLUA
-2025-03-10,-1.0,on going,FluA-BLE_slope_7.csv,FLUA
-2025-03-17,-0.2518678658105524,on going,FluA-BLE_slope_7.csv,FLUA
-2025-03-24,-0.380749722323438,end,FluA-BLE_slope_7.csv,FLUA
-2025-03-31,-0.4073313963235214,end,FluA-BLE_slope_7.csv,FLUA
-2025-04-07,-0.1793423447152072,end,FluA-BLE_slope_7.csv,FLUA
-2025-04-14,-0.0748080882193095,end,FluA-BLE_slope_7.csv,FLUA
-2025-04-21,-0.0511243264992978,end,FluA-BLE_slope_7.csv,FLUA
-2025-04-28,-0.0616743848572878,end,FluA-BLE_slope_7.csv,FLUA
-2025-05-05,-0.0471902034880881,end,FluA-BLE_slope_7.csv,FLUA
-2025-05-12,-0.0317947462392676,none,FluA-BLE_slope_7.csv,FLUA
-2025-05-19,-0.0179349205675178,none,FluA-BLE_slope_7.csv,FLUA
-2025-05-26,-0.0068872852792569,none,FluA-BLE_slope_7.csv,FLUA
-2025-06-02,-0.0103309279188854,none,FluA-BLE_slope_7.csv,FLUA
-2025-06-09,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2025-06-16,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2025-06-23,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2021-11-15,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2021-11-22,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2021-11-29,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2021-12-06,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2021-12-13,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2021-12-20,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2021-12-27,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-01-03,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-01-10,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-01-17,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-01-24,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-01-31,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-02-07,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-02-14,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-02-21,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-02-28,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-03-07,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-03-14,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-03-21,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-03-28,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-04-04,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-04-11,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-04-18,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-04-25,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-05-02,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-05-09,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-05-16,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-05-23,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-05-30,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-06-06,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-06-13,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-06-20,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-06-27,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-07-04,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-07-11,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-07-18,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-07-25,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-08-01,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-08-08,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-08-15,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-08-22,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-08-29,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-09-05,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-09-12,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-09-19,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-09-26,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-10-03,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-10-10,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-10-17,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-10-24,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-10-31,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-11-07,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-11-14,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-11-21,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-11-28,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-12-05,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-12-12,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-12-19,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-12-26,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-01-02,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-01-09,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-01-16,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-01-23,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-01-30,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-02-06,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-02-13,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-02-20,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-02-27,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-03-06,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-03-13,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-03-20,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-03-27,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-04-03,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-04-10,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-04-17,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-04-24,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-05-01,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-05-08,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-05-15,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-05-22,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-05-29,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-06-05,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-06-12,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-06-19,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-06-26,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-07-03,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-07-10,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-07-17,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-07-24,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-07-31,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-08-07,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-08-14,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-08-21,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-08-28,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-09-04,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-09-11,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-09-18,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-09-25,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-10-02,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-10-09,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-10-16,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-10-23,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-10-30,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-11-06,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-11-13,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-11-20,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-11-27,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-12-04,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-12-11,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-12-18,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-12-25,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-01-01,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-01-08,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-01-15,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-01-22,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-01-29,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-02-05,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-02-12,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-02-19,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-02-26,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-03-04,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-03-11,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-03-18,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-03-25,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-04-01,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-04-08,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-04-15,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-04-22,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-04-29,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-05-06,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-05-13,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-05-20,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-05-27,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-06-03,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-06-10,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-06-17,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-06-24,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-07-01,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-07-08,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-07-15,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-07-22,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-07-29,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-08-05,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-08-12,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-08-19,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-08-26,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-09-02,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-09-09,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-09-16,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-09-23,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-09-30,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-10-07,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-10-14,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-10-21,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2024-10-28,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2024-11-04,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2024-11-11,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2024-11-18,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2024-11-25,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2024-12-02,0.0193635205878796,start,FluA-BLE_slope_7.csv,FLUA
-2024-12-09,0.0351942142952322,start,FluA-BLE_slope_7.csv,FLUA
-2024-12-16,0.1627546179981688,on going,FluA-BLE_slope_7.csv,FLUA
-2024-12-23,0.2431672514492533,on going,FluA-BLE_slope_7.csv,FLUA
-2025-01-06,0.2764321146484857,on going,FluA-BLE_slope_7.csv,FLUA
-2025-01-13,0.2103165573174492,on going,FluA-BLE_slope_7.csv,FLUA
-2025-01-20,0.1337569114596607,on going,FluA-BLE_slope_7.csv,FLUA
-2025-01-27,0.9349341555967032,on going,FluA-BLE_slope_7.csv,FLUA
-2025-02-03,0.524556498332868,on going,FluA-BLE_slope_7.csv,FLUA
-2025-02-10,0.3093091690658481,on going,FluA-BLE_slope_7.csv,FLUA
-2025-02-17,0.2434584833733361,on going,FluA-BLE_slope_7.csv,FLUA
-2025-02-24,-0.0462489022120513,on going,FluA-BLE_slope_7.csv,FLUA
-2025-03-03,-0.5259583796712033,on going,FluA-BLE_slope_7.csv,FLUA
-2025-03-10,-1.0,on going,FluA-BLE_slope_7.csv,FLUA
-2025-03-17,-0.2518678658105524,on going,FluA-BLE_slope_7.csv,FLUA
-2025-03-24,-0.380749722323438,on going,FluA-BLE_slope_7.csv,FLUA
-2025-03-31,-0.4073313963235214,end,FluA-BLE_slope_7.csv,FLUA
-2025-04-07,-0.1793423447152072,end,FluA-BLE_slope_7.csv,FLUA
-2025-04-14,-0.0748080882193095,end,FluA-BLE_slope_7.csv,FLUA
-2025-04-21,-0.0511243264992978,end,FluA-BLE_slope_7.csv,FLUA
-2025-04-28,-0.0616743848572878,end,FluA-BLE_slope_7.csv,FLUA
-2025-05-05,-0.0471902034880881,none,FluA-BLE_slope_7.csv,FLUA
-2025-05-12,-0.0317947462392676,none,FluA-BLE_slope_7.csv,FLUA
-2025-05-19,-0.0179349205675178,none,FluA-BLE_slope_7.csv,FLUA
-2025-05-26,-0.0068872852792569,none,FluA-BLE_slope_7.csv,FLUA
-2025-06-02,-0.0103309279188854,none,FluA-BLE_slope_7.csv,FLUA
-2025-06-09,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2025-06-16,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2025-06-23,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2021-11-15,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2021-11-22,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2021-11-29,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2021-12-06,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2021-12-13,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2021-12-20,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2021-12-27,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2022-01-03,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2022-01-10,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2022-01-17,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2022-01-24,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2022-01-31,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2022-02-07,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2022-02-14,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2022-02-21,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2022-02-28,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-03-07,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-03-14,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-03-21,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-03-28,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-04-04,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-04-11,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-04-18,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-04-25,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-05-02,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-05-09,0.0,end,FluA-BLE_slope_7.csv,FLUA
-2022-05-16,0.0,end,FluA-BLE_slope_7.csv,FLUA
-2022-05-23,0.0,end,FluA-BLE_slope_7.csv,FLUA
-2022-05-30,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-06-06,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-06-13,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-06-20,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-06-27,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-07-04,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-07-11,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-07-18,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-07-25,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-08-01,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-08-08,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-08-15,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-08-22,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-08-29,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-09-05,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-09-12,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-09-19,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-09-26,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-10-03,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2022-10-10,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2022-10-17,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2022-10-24,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2022-10-31,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2022-11-07,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2022-11-14,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2022-11-21,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2022-11-28,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2022-12-05,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2022-12-12,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-12-19,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-12-26,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2023-01-02,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2023-01-09,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2023-01-16,0.0,end,FluA-BLE_slope_7.csv,FLUA
-2023-01-23,0.0,end,FluA-BLE_slope_7.csv,FLUA
-2023-01-30,0.0,end,FluA-BLE_slope_7.csv,FLUA
-2023-02-06,0.0,end,FluA-BLE_slope_7.csv,FLUA
-2023-02-13,0.0,end,FluA-BLE_slope_7.csv,FLUA
-2023-02-20,0.0,end,FluA-BLE_slope_7.csv,FLUA
-2023-02-27,0.0,end,FluA-BLE_slope_7.csv,FLUA
-2023-03-06,0.0,end,FluA-BLE_slope_7.csv,FLUA
-2023-03-13,0.0,end,FluA-BLE_slope_7.csv,FLUA
-2023-03-20,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-03-27,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-04-03,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-04-10,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-04-17,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-04-24,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-05-01,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-05-08,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-05-15,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-05-22,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-05-29,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-06-05,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-06-12,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-06-19,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-06-26,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-07-03,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-07-10,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-07-17,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-07-24,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-07-31,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-08-07,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-08-14,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-08-21,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-08-28,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-09-04,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-09-11,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-09-18,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-09-25,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-10-02,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-10-09,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-10-16,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-10-23,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-10-30,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-11-06,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-11-13,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-11-20,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-11-27,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-12-04,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-12-11,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-12-18,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-12-25,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-01-01,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2024-01-08,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2024-01-15,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2024-01-22,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2024-01-29,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2024-02-05,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2024-02-12,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2024-02-19,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2024-02-26,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2024-03-04,0.0,end,FluA-BLE_slope_7.csv,FLUA
-2024-03-11,0.0,end,FluA-BLE_slope_7.csv,FLUA
-2024-03-18,0.0,end,FluA-BLE_slope_7.csv,FLUA
-2024-03-25,0.0,end,FluA-BLE_slope_7.csv,FLUA
-2024-04-01,0.0,end,FluA-BLE_slope_7.csv,FLUA
-2024-04-08,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-04-15,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-04-22,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-04-29,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-05-06,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-05-13,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-05-20,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-05-27,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-06-03,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-06-10,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-06-17,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-06-24,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-07-01,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-07-08,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-07-15,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-07-22,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-07-29,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-08-05,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-08-12,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-08-19,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-08-26,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-09-02,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-09-09,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-09-16,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-09-23,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-09-30,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-10-07,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-10-14,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2024-10-21,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2024-10-28,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2024-11-04,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2024-11-11,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2024-11-18,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2024-11-25,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2024-12-02,0.0193635205878796,on going,FluA-BLE_slope_7.csv,FLUA
-2024-12-09,0.0351942142952322,on going,FluA-BLE_slope_7.csv,FLUA
-2024-12-16,0.1627546179981688,on going,FluA-BLE_slope_7.csv,FLUA
-2024-12-23,0.2431672514492533,on going,FluA-BLE_slope_7.csv,FLUA
-2025-01-06,0.2764321146484857,on going,FluA-BLE_slope_7.csv,FLUA
-2025-01-13,0.2103165573174492,on going,FluA-BLE_slope_7.csv,FLUA
-2025-01-20,0.1337569114596607,on going,FluA-BLE_slope_7.csv,FLUA
-2025-01-27,0.9349341555967032,on going,FluA-BLE_slope_7.csv,FLUA
-2025-02-03,0.524556498332868,on going,FluA-BLE_slope_7.csv,FLUA
-2025-02-10,0.3093091690658481,on going,FluA-BLE_slope_7.csv,FLUA
-2025-02-17,0.2434584833733361,on going,FluA-BLE_slope_7.csv,FLUA
-2025-02-24,-0.0462489022120513,on going,FluA-BLE_slope_7.csv,FLUA
-2025-03-03,-0.5259583796712033,on going,FluA-BLE_slope_7.csv,FLUA
-2025-03-10,-1.0,on going,FluA-BLE_slope_7.csv,FLUA
-2025-03-17,-0.2518678658105524,on going,FluA-BLE_slope_7.csv,FLUA
-2025-03-24,-0.380749722323438,end,FluA-BLE_slope_7.csv,FLUA
-2025-03-31,-0.4073313963235214,end,FluA-BLE_slope_7.csv,FLUA
-2025-04-07,-0.1793423447152072,end,FluA-BLE_slope_7.csv,FLUA
-2025-04-14,-0.0748080882193095,end,FluA-BLE_slope_7.csv,FLUA
-2025-04-21,-0.0511243264992978,end,FluA-BLE_slope_7.csv,FLUA
-2025-04-28,-0.0616743848572878,end,FluA-BLE_slope_7.csv,FLUA
-2025-05-05,-0.0471902034880881,end,FluA-BLE_slope_7.csv,FLUA
-2025-05-12,-0.0317947462392676,end,FluA-BLE_slope_7.csv,FLUA
-2025-05-19,-0.0179349205675178,end,FluA-BLE_slope_7.csv,FLUA
-2025-05-26,-0.0068872852792569,end,FluA-BLE_slope_7.csv,FLUA
-2025-06-02,-0.0103309279188854,none,FluA-BLE_slope_7.csv,FLUA
-2025-06-09,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2025-06-16,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2025-06-23,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2021-11-15,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2021-11-22,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2021-11-29,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2021-12-06,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2021-12-13,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2021-12-20,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2021-12-27,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-01-03,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-01-10,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-01-17,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-01-24,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-01-31,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-02-07,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-02-14,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-02-21,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-02-28,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-03-07,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-03-14,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-03-21,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-03-28,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-04-04,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-04-11,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-04-18,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-04-25,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-05-02,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-05-09,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-05-16,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-05-23,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-05-30,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-06-06,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-06-13,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-06-20,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-06-27,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-07-04,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-07-11,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-07-18,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-07-25,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-08-01,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-08-08,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-08-15,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-08-22,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-08-29,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-09-05,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-09-12,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-09-19,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-09-26,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-10-03,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-10-10,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-10-17,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-10-24,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-10-31,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-11-07,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-11-14,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-11-21,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-11-28,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-12-05,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-12-12,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-12-19,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-12-26,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2023-01-02,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2023-01-09,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2023-01-16,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2023-01-23,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-01-30,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-02-06,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-02-13,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-02-20,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-02-27,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-03-06,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-03-13,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-03-20,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-03-27,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-04-03,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-04-10,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-04-17,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-04-24,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-05-01,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-05-08,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-05-15,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-05-22,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-05-29,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-06-05,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-06-12,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-06-19,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-06-26,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-07-03,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-07-10,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-07-17,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-07-24,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-07-31,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-08-07,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-08-14,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-08-21,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-08-28,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-09-04,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-09-11,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-09-18,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-09-25,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-10-02,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-10-09,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-10-16,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-10-23,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-10-30,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-11-06,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-11-13,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-11-20,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-11-27,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-12-04,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-12-11,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-12-18,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-12-25,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-01-01,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-01-08,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-01-15,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-01-22,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-01-29,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-02-05,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-02-12,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-02-19,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-02-26,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-03-04,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-03-11,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-03-18,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-03-25,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-04-01,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-04-08,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-04-15,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-04-22,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-04-29,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-05-06,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-05-13,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-05-20,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-05-27,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-06-03,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-06-10,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-06-17,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-06-24,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-07-01,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-07-08,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-07-15,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-07-22,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-07-29,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-08-05,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-08-12,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-08-19,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-08-26,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-09-02,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-09-09,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-09-16,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-09-23,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-09-30,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-10-07,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-10-14,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-10-21,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-10-28,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-11-04,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-11-11,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-11-18,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-11-25,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2024-12-02,0.0193635205878796,start,FluA-BLE_slope_7.csv,FLUA
-2024-12-09,0.0351942142952322,start,FluA-BLE_slope_7.csv,FLUA
-2024-12-16,0.1627546179981688,start,FluA-BLE_slope_7.csv,FLUA
-2024-12-23,0.2431672514492533,on going,FluA-BLE_slope_7.csv,FLUA
-2025-01-06,0.2764321146484857,on going,FluA-BLE_slope_7.csv,FLUA
-2025-01-13,0.2103165573174492,on going,FluA-BLE_slope_7.csv,FLUA
-2025-01-20,0.1337569114596607,on going,FluA-BLE_slope_7.csv,FLUA
-2025-01-27,0.9349341555967032,on going,FluA-BLE_slope_7.csv,FLUA
-2025-02-03,0.524556498332868,on going,FluA-BLE_slope_7.csv,FLUA
-2025-02-10,0.3093091690658481,on going,FluA-BLE_slope_7.csv,FLUA
-2025-02-17,0.2434584833733361,on going,FluA-BLE_slope_7.csv,FLUA
-2025-02-24,-0.0462489022120513,on going,FluA-BLE_slope_7.csv,FLUA
-2025-03-03,-0.5259583796712033,on going,FluA-BLE_slope_7.csv,FLUA
-2025-03-10,-1.0,on going,FluA-BLE_slope_7.csv,FLUA
-2025-03-17,-0.2518678658105524,end,FluA-BLE_slope_7.csv,FLUA
-2025-03-24,-0.380749722323438,end,FluA-BLE_slope_7.csv,FLUA
-2025-03-31,-0.4073313963235214,end,FluA-BLE_slope_7.csv,FLUA
-2025-04-07,-0.1793423447152072,end,FluA-BLE_slope_7.csv,FLUA
-2025-04-14,-0.0748080882193095,end,FluA-BLE_slope_7.csv,FLUA
-2025-04-21,-0.0511243264992978,end,FluA-BLE_slope_7.csv,FLUA
-2025-04-28,-0.0616743848572878,end,FluA-BLE_slope_7.csv,FLUA
-2025-05-05,-0.0471902034880881,end,FluA-BLE_slope_7.csv,FLUA
-2025-05-12,-0.0317947462392676,none,FluA-BLE_slope_7.csv,FLUA
-2025-05-19,-0.0179349205675178,none,FluA-BLE_slope_7.csv,FLUA
-2025-05-26,-0.0068872852792569,none,FluA-BLE_slope_7.csv,FLUA
-2025-06-02,-0.0103309279188854,none,FluA-BLE_slope_7.csv,FLUA
-2025-06-09,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2025-06-16,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2025-06-23,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2021-11-15,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2021-11-22,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2021-11-29,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2021-12-06,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2021-12-13,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2021-12-20,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2021-12-27,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-01-03,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-01-10,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-01-17,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-01-24,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2022-01-31,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2022-02-07,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2022-02-14,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2022-02-21,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2022-02-28,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2022-03-07,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-03-14,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-03-21,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-03-28,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-04-04,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-04-11,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-04-18,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-04-25,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-05-02,0.0,end,FluA-BLE_slope_7.csv,FLUA
-2022-05-09,0.0,end,FluA-BLE_slope_7.csv,FLUA
-2022-05-16,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-05-23,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-05-30,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-06-06,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-06-13,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-06-20,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-06-27,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-07-04,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-07-11,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-07-18,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-07-25,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-08-01,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-08-08,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-08-15,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-08-22,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-08-29,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-09-05,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-09-12,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-09-19,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-09-26,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-10-03,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-10-10,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-10-17,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-10-24,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-10-31,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-11-07,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-11-14,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2022-11-21,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2022-11-28,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2022-12-05,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-12-12,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-12-19,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2022-12-26,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2023-01-02,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2023-01-09,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2023-01-16,0.0,end,FluA-BLE_slope_7.csv,FLUA
-2023-01-23,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-01-30,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-02-06,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-02-13,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-02-20,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-02-27,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-03-06,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-03-13,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-03-20,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-03-27,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-04-03,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-04-10,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-04-17,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-04-24,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-05-01,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-05-08,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-05-15,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-05-22,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-05-29,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-06-05,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-06-12,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-06-19,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-06-26,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-07-03,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-07-10,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-07-17,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-07-24,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-07-31,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-08-07,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-08-14,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-08-21,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-08-28,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-09-04,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-09-11,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-09-18,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-09-25,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-10-02,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-10-09,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-10-16,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-10-23,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-10-30,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-11-06,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-11-13,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-11-20,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-11-27,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-12-04,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-12-11,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-12-18,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-12-25,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-01-01,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-01-08,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2024-01-15,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2024-01-22,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2024-01-29,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2024-02-05,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2024-02-12,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2024-02-19,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2024-02-26,0.0,on going,FluA-BLE_slope_7.csv,FLUA
-2024-03-04,0.0,end,FluA-BLE_slope_7.csv,FLUA
-2024-03-11,0.0,end,FluA-BLE_slope_7.csv,FLUA
-2024-03-18,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-03-25,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-04-01,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-04-08,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-04-15,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-04-22,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-04-29,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-05-06,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-05-13,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-05-20,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-05-27,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-06-03,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-06-10,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-06-17,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-06-24,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-07-01,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-07-08,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-07-15,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-07-22,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-07-29,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-08-05,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-08-12,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-08-19,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-08-26,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-09-02,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-09-09,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-09-16,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-09-23,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-09-30,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-10-07,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-10-14,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-10-21,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-10-28,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-11-04,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-11-11,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2024-11-18,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2024-11-25,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2024-12-02,0.0193635205878796,start,FluA-BLE_slope_7.csv,FLUA
-2024-12-09,0.0351942142952322,start,FluA-BLE_slope_7.csv,FLUA
-2024-12-16,0.1627546179981688,start,FluA-BLE_slope_7.csv,FLUA
-2024-12-23,0.2431672514492533,start,FluA-BLE_slope_7.csv,FLUA
-2025-01-06,0.2764321146484857,start,FluA-BLE_slope_7.csv,FLUA
-2025-01-13,0.2103165573174492,on going,FluA-BLE_slope_7.csv,FLUA
-2025-01-20,0.1337569114596607,on going,FluA-BLE_slope_7.csv,FLUA
-2025-01-27,0.9349341555967032,on going,FluA-BLE_slope_7.csv,FLUA
-2025-02-03,0.524556498332868,on going,FluA-BLE_slope_7.csv,FLUA
-2025-02-10,0.3093091690658481,on going,FluA-BLE_slope_7.csv,FLUA
-2025-02-17,0.2434584833733361,on going,FluA-BLE_slope_7.csv,FLUA
-2025-02-24,-0.0462489022120513,on going,FluA-BLE_slope_7.csv,FLUA
-2025-03-03,-0.5259583796712033,on going,FluA-BLE_slope_7.csv,FLUA
-2025-03-10,-1.0,on going,FluA-BLE_slope_7.csv,FLUA
-2025-03-17,-0.2518678658105524,end,FluA-BLE_slope_7.csv,FLUA
-2025-03-24,-0.380749722323438,end,FluA-BLE_slope_7.csv,FLUA
-2025-03-31,-0.4073313963235214,end,FluA-BLE_slope_7.csv,FLUA
-2025-04-07,-0.1793423447152072,end,FluA-BLE_slope_7.csv,FLUA
-2025-04-14,-0.0748080882193095,end,FluA-BLE_slope_7.csv,FLUA
-2025-04-21,-0.0511243264992978,end,FluA-BLE_slope_7.csv,FLUA
-2025-04-28,-0.0616743848572878,end,FluA-BLE_slope_7.csv,FLUA
-2025-05-05,-0.0471902034880881,none,FluA-BLE_slope_7.csv,FLUA
-2025-05-12,-0.0317947462392676,none,FluA-BLE_slope_7.csv,FLUA
-2025-05-19,-0.0179349205675178,none,FluA-BLE_slope_7.csv,FLUA
-2025-05-26,-0.0068872852792569,none,FluA-BLE_slope_7.csv,FLUA
-2025-06-02,-0.0103309279188854,none,FluA-BLE_slope_7.csv,FLUA
-2025-06-09,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2025-06-16,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2025-06-23,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2021-11-15,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2021-11-22,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2021-11-29,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2021-12-06,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2021-12-13,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2021-12-20,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2021-12-27,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-01-03,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-01-10,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-01-17,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-01-24,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-01-31,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-02-07,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-02-14,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-02-21,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-02-28,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-03-07,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-03-14,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-03-21,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-03-28,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-04-04,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-04-11,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-04-18,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-04-25,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-05-02,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-05-09,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-05-16,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-05-23,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-05-30,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-06-06,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-06-13,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-06-20,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-06-27,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-07-04,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-07-11,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-07-18,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-07-25,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-08-01,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-08-08,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-08-15,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-08-22,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-08-29,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-09-05,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-09-12,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-09-19,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-09-26,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-10-03,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-10-10,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-10-17,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-10-24,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-10-31,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-11-07,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-11-14,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-11-21,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-11-28,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-12-05,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-12-12,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-12-19,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2022-12-26,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-01-02,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-01-09,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-01-16,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-01-23,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-01-30,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-02-06,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-02-13,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-02-20,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-02-27,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-03-06,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-03-13,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-03-20,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-03-27,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-04-03,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-04-10,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-04-17,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-04-24,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-05-01,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-05-08,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-05-15,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-05-22,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-05-29,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-06-05,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-06-12,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-06-19,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-06-26,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-07-03,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-07-10,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-07-17,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-07-24,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-07-31,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-08-07,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-08-14,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-08-21,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-08-28,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-09-04,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-09-11,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-09-18,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-09-25,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-10-02,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-10-09,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-10-16,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-10-23,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-10-30,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-11-06,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-11-13,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-11-20,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-11-27,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-12-04,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-12-11,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-12-18,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2023-12-25,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-01-01,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-01-08,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-01-15,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-01-22,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-01-29,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-02-05,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-02-12,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-02-19,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-02-26,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-03-04,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-03-11,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-03-18,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-03-25,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-04-01,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-04-08,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-04-15,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-04-22,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-04-29,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-05-06,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-05-13,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-05-20,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-05-27,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-06-03,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-06-10,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-06-17,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-06-24,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-07-01,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-07-08,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-07-15,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-07-22,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-07-29,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-08-05,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-08-12,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-08-19,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-08-26,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-09-02,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-09-09,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-09-16,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-09-23,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-09-30,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-10-07,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-10-14,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-10-21,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2024-10-28,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2024-11-04,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2024-11-11,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2024-11-18,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2024-11-25,0.0,start,FluA-BLE_slope_7.csv,FLUA
-2024-12-02,0.0193635205878796,start,FluA-BLE_slope_7.csv,FLUA
-2024-12-09,0.0351942142952322,on going,FluA-BLE_slope_7.csv,FLUA
-2024-12-16,0.1627546179981688,on going,FluA-BLE_slope_7.csv,FLUA
-2024-12-23,0.2431672514492533,on going,FluA-BLE_slope_7.csv,FLUA
-2025-01-06,0.2764321146484857,on going,FluA-BLE_slope_7.csv,FLUA
-2025-01-13,0.2103165573174492,on going,FluA-BLE_slope_7.csv,FLUA
-2025-01-20,0.1337569114596607,on going,FluA-BLE_slope_7.csv,FLUA
-2025-01-27,0.9349341555967032,on going,FluA-BLE_slope_7.csv,FLUA
-2025-02-03,0.524556498332868,on going,FluA-BLE_slope_7.csv,FLUA
-2025-02-10,0.3093091690658481,on going,FluA-BLE_slope_7.csv,FLUA
-2025-02-17,0.2434584833733361,on going,FluA-BLE_slope_7.csv,FLUA
-2025-02-24,-0.0462489022120513,on going,FluA-BLE_slope_7.csv,FLUA
-2025-03-03,-0.5259583796712033,on going,FluA-BLE_slope_7.csv,FLUA
-2025-03-10,-1.0,on going,FluA-BLE_slope_7.csv,FLUA
-2025-03-17,-0.2518678658105524,on going,FluA-BLE_slope_7.csv,FLUA
-2025-03-24,-0.380749722323438,end,FluA-BLE_slope_7.csv,FLUA
-2025-03-31,-0.4073313963235214,end,FluA-BLE_slope_7.csv,FLUA
-2025-04-07,-0.1793423447152072,end,FluA-BLE_slope_7.csv,FLUA
-2025-04-14,-0.0748080882193095,end,FluA-BLE_slope_7.csv,FLUA
-2025-04-21,-0.0511243264992978,end,FluA-BLE_slope_7.csv,FLUA
-2025-04-28,-0.0616743848572878,end,FluA-BLE_slope_7.csv,FLUA
-2025-05-05,-0.0471902034880881,end,FluA-BLE_slope_7.csv,FLUA
-2025-05-12,-0.0317947462392676,none,FluA-BLE_slope_7.csv,FLUA
-2025-05-19,-0.0179349205675178,none,FluA-BLE_slope_7.csv,FLUA
-2025-05-26,-0.0068872852792569,none,FluA-BLE_slope_7.csv,FLUA
-2025-06-02,-0.0103309279188854,none,FluA-BLE_slope_7.csv,FLUA
-2025-06-09,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2025-06-16,0.0,none,FluA-BLE_slope_7.csv,FLUA
-2025-06-23,0.0,none,FluA-BLE_slope_7.csv,FLUA
+time,rna_copies,label
+2021-11-15,0.0,FluA
+2021-11-22,0.0,FluA
+2021-11-29,0.0,FluA
+2021-12-06,0.0,FluA
+2021-12-13,0.0,FluA
+2021-12-20,0.0,FluA
+2021-12-27,0.0,FluA
+2022-01-03,0.0,FluA
+2022-01-10,0.0,FluA
+2022-01-17,0.0,FluA
+2022-01-24,0.0,FluA
+2022-01-31,0.0,FluA
+2022-02-07,0.0,FluA
+2022-02-14,0.0,FluA
+2022-02-21,0.0,FluA
+2022-02-28,0.0,FluA
+2022-03-07,0.0,FluA
+2022-03-14,0.0,FluA
+2022-03-21,0.0,FluA
+2022-03-28,0.0,FluA
+2022-04-04,0.0,FluA
+2022-04-11,0.0,FluA
+2022-04-18,0.0,FluA
+2022-04-25,0.0,FluA
+2022-05-02,0.0,FluA
+2022-05-09,0.0,FluA
+2022-05-16,0.0,FluA
+2022-05-23,0.0,FluA
+2022-05-30,0.0,FluA
+2022-06-06,0.0,FluA
+2022-06-13,0.0,FluA
+2022-06-20,0.0,FluA
+2022-06-27,0.0,FluA
+2022-07-04,0.0,FluA
+2022-07-11,0.0,FluA
+2022-07-18,0.0,FluA
+2022-07-25,0.0,FluA
+2022-08-01,0.0,FluA
+2022-08-08,0.0,FluA
+2022-08-15,0.0,FluA
+2022-08-22,0.0,FluA
+2022-08-29,0.0,FluA
+2022-09-05,0.0,FluA
+2022-09-12,0.0,FluA
+2022-09-19,0.0,FluA
+2022-09-26,0.0,FluA
+2022-10-03,0.0,FluA
+2022-10-10,0.0,FluA
+2022-10-17,0.0,FluA
+2022-10-24,0.0,FluA
+2022-10-31,0.0,FluA
+2022-11-07,0.0,FluA
+2022-11-14,0.0,FluA
+2022-11-21,0.0,FluA
+2022-11-28,0.0,FluA
+2022-12-05,0.0,FluA
+2022-12-12,0.0,FluA
+2022-12-19,0.0,FluA
+2022-12-26,0.0,FluA
+2023-01-02,0.0,FluA
+2023-01-09,0.0,FluA
+2023-01-16,0.0,FluA
+2023-01-23,0.0,FluA
+2023-01-30,0.0,FluA
+2023-02-06,0.0,FluA
+2023-02-13,0.0,FluA
+2023-02-20,0.0,FluA
+2023-02-27,0.0,FluA
+2023-03-06,0.0,FluA
+2023-03-13,0.0,FluA
+2023-03-20,0.0,FluA
+2023-03-27,0.0,FluA
+2023-04-03,0.0,FluA
+2023-04-10,0.0,FluA
+2023-04-17,0.0,FluA
+2023-04-24,0.0,FluA
+2023-05-01,0.0,FluA
+2023-05-08,0.0,FluA
+2023-05-15,0.0,FluA
+2023-05-22,0.0,FluA
+2023-05-29,0.0,FluA
+2023-06-05,0.0,FluA
+2023-06-12,0.0,FluA
+2023-06-19,0.0,FluA
+2023-06-26,0.0,FluA
+2023-07-03,0.0,FluA
+2023-07-10,0.0,FluA
+2023-07-17,0.0,FluA
+2023-07-24,0.0,FluA
+2023-07-31,0.0,FluA
+2023-08-07,0.0,FluA
+2023-08-14,0.0,FluA
+2023-08-21,0.0,FluA
+2023-08-28,0.0,FluA
+2023-09-04,0.0,FluA
+2023-09-11,0.0,FluA
+2023-09-18,0.0,FluA
+2023-09-25,0.0,FluA
+2023-10-02,0.0,FluA
+2023-10-09,0.0,FluA
+2023-10-16,0.0,FluA
+2023-10-23,0.0,FluA
+2023-10-30,0.0,FluA
+2023-11-06,0.0,FluA
+2023-11-13,0.0,FluA
+2023-11-20,0.0,FluA
+2023-11-27,0.0,FluA
+2023-12-04,0.0,FluA
+2023-12-11,0.0,FluA
+2023-12-18,0.0,FluA
+2023-12-25,0.0,FluA
+2024-01-01,0.0,FluA
+2024-01-08,0.0,FluA
+2024-01-15,0.0,FluA
+2024-01-22,0.0,FluA
+2024-01-29,0.0,FluA
+2024-02-05,0.0,FluA
+2024-02-12,0.0,FluA
+2024-02-19,0.0,FluA
+2024-02-26,0.0,FluA
+2024-03-04,0.0,FluA
+2024-03-11,0.0,FluA
+2024-03-18,0.0,FluA
+2024-03-25,0.0,FluA
+2024-04-01,0.0,FluA
+2024-04-08,0.0,FluA
+2024-04-15,0.0,FluA
+2024-04-22,0.0,FluA
+2024-04-29,0.0,FluA
+2024-05-06,0.0,FluA
+2024-05-13,0.0,FluA
+2024-05-20,0.0,FluA
+2024-05-27,0.0,FluA
+2024-06-03,0.0,FluA
+2024-06-10,0.0,FluA
+2024-06-17,0.0,FluA
+2024-06-24,0.0,FluA
+2024-07-01,0.0,FluA
+2024-07-08,0.0,FluA
+2024-07-15,0.0,FluA
+2024-07-22,0.0,FluA
+2024-07-29,0.0,FluA
+2024-08-05,0.0,FluA
+2024-08-12,0.0,FluA
+2024-08-19,0.0,FluA
+2024-08-26,0.0,FluA
+2024-09-02,0.0,FluA
+2024-09-09,0.0,FluA
+2024-09-16,0.0,FluA
+2024-09-23,0.0,FluA
+2024-09-30,0.0,FluA
+2024-10-07,0.0,FluA
+2024-10-14,0.0,FluA
+2024-10-21,0.0,FluA
+2024-10-28,0.0,FluA
+2024-11-04,0.0,FluA
+2024-11-11,0.0,FluA
+2024-11-18,0.0,FluA
+2024-11-25,0.0,FluA
+2024-12-02,0.01936352058787961,FluA
+2024-12-09,0.03519421429523222,FluA
+2024-12-16,0.1627546179981688,FluA
+2024-12-23,0.24316725144925333,FluA
+2025-01-06,0.2764321146484857,FluA
+2025-01-13,0.21031655731744922,FluA
+2025-01-20,0.13375691145966073,FluA
+2025-01-27,0.9349341555967031,FluA
+2025-02-03,0.524556498332868,FluA
+2025-02-10,0.3093091690658481,FluA
+2025-02-17,0.24345848337333617,FluA
+2025-02-24,-0.046248902212051385,FluA
+2025-03-03,-0.5259583796712033,FluA
+2025-03-10,-1.0,FluA
+2025-03-17,-0.2518678658105524,FluA
+2025-03-24,-0.38074972232343807,FluA
+2025-03-31,-0.4073313963235214,FluA
+2025-04-07,-0.17934234471520724,FluA
+2025-04-14,-0.0748080882193095,FluA
+2025-04-21,-0.051124326499297865,FluA
+2025-04-28,-0.061674384857287844,FluA
+2025-05-05,-0.047190203488088146,FluA
+2025-05-12,-0.031794746239267646,FluA
+2025-05-19,-0.017934920567517883,FluA
+2025-05-26,-0.006887285279256949,FluA
+2025-06-02,-0.010330927918885421,FluA
+2025-06-09,0.0,FluA
+2025-06-16,0.0,FluA
+2025-06-23,0.0,FluA
